@@ -1,0 +1,403 @@
+Classwork 5: Problem 4
+======================
+
+For this problem, you will be writing a program to count the words
+in a file.  We will define a word as a contiguous sequence of
+characters for which isalnum returns true (if the character
+is a letter or a number).  For example:
+
+  hello42-world !! This__isan example....
+
+has 5 words:
+
+hello42
+world
+This
+isan
+example
+
+Write a program which takes one or more command line arguments.
+For each command line argument given, the program should treat
+that argument as the name of a file. If the argument is exactly
+two dashes (--), then it should use stdin instead of a file on disk.
+The program should output one line per command line argument:
+the name of that file (or "stdin") followed by a space, followed
+by an integer which is the number of words found in that file.
+
+Submit the source code and a Makefile to svn.Classwork 5: Problem 4
+======================
+
+For this problem, you will be writing a program to count the words
+in a file.  We will define a word as a contiguous sequence of
+characters for which isalnum returns true (if the character
+is a letter or a number).  For example:
+
+  hello42-world !! This__isan example....
+
+has 5 words:
+
+hello42
+world
+This
+isan
+example
+
+Write a program which takes one or more command line arguments.
+For each command line argument given, the program should treat
+that argument as the name of a file. If the argument is exactly
+two dashes (--), then it should use stdin instead of a file on disk.
+The program should output one line per command line argument:
+the name of that file (or "stdin") followed by a space, followed
+by an integer which is the number of words found in that file.
+
+Submit the source code and a Makefile to svn.Classwork 5: Problem 4
+======================
+
+For this problem, you will be writing a program to count the words
+in a file.  We will define a word as a contiguous sequence of
+characters for which isalnum returns true (if the character
+is a letter or a number).  For example:
+
+  hello42-world !! This__isan example....
+
+has 5 words:
+
+hello42
+world
+This
+isan
+example
+
+Write a program which takes one or more command line arguments.
+For each command line argument given, the program should treat
+that argument as the name of a file. If the argument is exactly
+two dashes (--), then it should use stdin instead of a file on disk.
+The program should output one line per command line argument:
+the name of that file (or "stdin") followed by a space, followed
+by an integer which is the number of words found in that file.
+
+Submit the source code and a Makefile to svn.
+Classwork 5: Problem 4
+======================
+
+For this problem, you will be writing a program to count the words
+in a file.  We will define a word as a contiguous sequence of
+characters for which isalnum returns true (if the character
+is a letter or a number).  For example:
+
+  hello42-world !! This__isan example....
+
+has 5 words:
+
+hello42
+world
+This
+isan
+example
+
+Write a program which takes one or more command line arguments.
+For each command line argument given, the program should treat
+that argument as the name of a file. If the argument is exactly
+two dashes (--), then it should use stdin instead of a file on disk.
+The program should output one line per command line argument:
+the name of that file (or "stdin") followed by a space, followed
+by an integer which is the number of words found in that file.
+
+Submit the source code and a Makefile to svn.
+Classwork 5: Problem 4
+======================
+
+For this problem, you will be writing a program to count the words
+in a file.  We will define a word as a contiguous sequence of
+characters for which isalnum returns true (if the character
+is a letter or a number).  For example:
+
+  hello42-world !! This__isan example....
+
+has 5 words:
+
+hello42
+world
+This
+isan
+example
+
+Write a program which takes one or more command line arguments.
+For each command line argument given, the program should treat
+that argument as the name of a file. If the argument is exactly
+two dashes (--), then it should use stdin instead of a file on disk.
+The program should output one line per command line argument:
+the name of that file (or "stdin") followed by a space, followed
+by an integer which is the number of words found in that file.
+
+Submit the source code and a Makefile to svn.
+Classwork 5: Problem 4
+======================
+
+For this problem, you will be writing a program to count the words
+in a file.  We will define a word as a contiguous sequence of
+characters for which isalnum returns true (if the character
+is a letter or a number).  For example:
+
+  hello42-world !! This__isan example....
+
+has 5 words:
+
+hello42
+world
+This
+isan
+example
+
+Write a program which takes one or more command line arguments.
+For each command line argument given, the program should treat
+that argument as the name of a file. If the argument is exactly
+two dashes (--), then it should use stdin instead of a file on disk.
+The program should output one line per command line argument:
+the name of that file (or "stdin") followed by a space, followed
+by an integer which is the number of words found in that file.
+
+Submit the source code and a Makefile to svn.
+Classwork 5: Problem 4
+======================
+
+For this problem, you will be writing a program to count the words
+in a file.  We will define a word as a contiguous sequence of
+characters for which isalnum returns true (if the character
+is a letter or a number).  For example:
+
+  hello42-world !! This__isan example....
+
+has 5 words:
+
+hello42
+world
+This
+isan
+example
+
+Write a program which takes one or more command line arguments.
+For each command line argument given, the program should treat
+that argument as the name of a file. If the argument is exactly
+two dashes (--), then it should use stdin instead of a file on disk.
+The program should output one line per command line argument:
+the name of that file (or "stdin") followed by a space, followed
+by an integer which is the number of words found in that file.
+
+Submit the source code and a Makefile to svn.
+Classwork 5: Problem 4
+======================
+
+For this problem, you will be writing a program to count the words
+in a file.  We will define a word as a contiguous sequence of
+characters for which isalnum returns true (if the character
+is a letter or a number).  For example:
+
+  hello42-world !! This__isan example....
+
+has 5 words:
+
+hello42
+world
+This
+isan
+example
+
+Write a program which takes one or more command line arguments.
+For each command line argument given, the program should treat
+that argument as the name of a file. If the argument is exactly
+two dashes (--), then it should use stdin instead of a file on disk.
+The program should output one line per command line argument:
+the name of that file (or "stdin") followed by a space, followed
+by an integer which is the number of words found in that file.
+
+Submit the source code and a Makefile to svn.
+Classwork 5: Problem 4
+======================
+
+For this problem, you will be writing a program to count the words
+in a file.  We will define a word as a contiguous sequence of
+characters for which isalnum returns true (if the character
+is a letter or a number).  For example:
+
+  hello42-world !! This__isan example....
+
+has 5 words:
+
+hello42
+world
+This
+isan
+example
+
+Write a program which takes one or more command line arguments.
+For each command line argument given, the program should treat
+that argument as the name of a file. If the argument is exactly
+two dashes (--), then it should use stdin instead of a file on disk.
+The program should output one line per command line argument:
+the name of that file (or "stdin") followed by a space, followed
+by an integer which is the number of words found in that file.
+
+Submit the source code and a Makefile to svn.
+Classwork 5: Problem 4
+======================
+
+For this problem, you will be writing a program to count the words
+in a file.  We will define a word as a contiguous sequence of
+characters for which isalnum returns true (if the character
+is a letter or a number).  For example:
+
+  hello42-world !! This__isan example....
+
+has 5 words:
+
+hello42
+world
+This
+isan
+example
+
+Write a program which takes one or more command line arguments.
+For each command line argument given, the program should treat
+that argument as the name of a file. If the argument is exactly
+two dashes (--), then it should use stdin instead of a file on disk.
+The program should output one line per command line argument:
+the name of that file (or "stdin") followed by a space, followed
+by an integer which is the number of words found in that file.
+
+Submit the source code and a Makefile to svn.
+Classwork 5: Problem 4
+======================
+
+For this problem, you will be writing a program to count the words
+in a file.  We will define a word as a contiguous sequence of
+characters for which isalnum returns true (if the character
+is a letter or a number).  For example:
+
+  hello42-world !! This__isan example....
+
+has 5 words:
+
+hello42
+world
+This
+isan
+example
+
+Write a program which takes one or more command line arguments.
+For each command line argument given, the program should treat
+that argument as the name of a file. If the argument is exactly
+two dashes (--), then it should use stdin instead of a file on disk.
+The program should output one line per command line argument:
+the name of that file (or "stdin") followed by a space, followed
+by an integer which is the number of words found in that file.
+
+Submit the source code and a Makefile to svn.
+Classwork 5: Problem 4
+======================
+
+For this problem, you will be writing a program to count the words
+in a file.  We will define a word as a contiguous sequence of
+characters for which isalnum returns true (if the character
+is a letter or a number).  For example:
+
+  hello42-world !! This__isan example....
+
+has 5 words:
+
+hello42
+world
+This
+isan
+example
+
+Write a program which takes one or more command line arguments.
+For each command line argument given, the program should treat
+that argument as the name of a file. If the argument is exactly
+two dashes (--), then it should use stdin instead of a file on disk.
+The program should output one line per command line argument:
+the name of that file (or "stdin") followed by a space, followed
+by an integer which is the number of words found in that file.
+
+Submit the source code and a Makefile to svn.
+Classwork 5: Problem 4
+======================
+
+For this problem, you will be writing a program to count the words
+in a file.  We will define a word as a contiguous sequence of
+characters for which isalnum returns true (if the character
+is a letter or a number).  For example:
+
+  hello42-world !! This__isan example....
+
+has 5 words:
+
+hello42
+world
+This
+isan
+example
+
+Write a program which takes one or more command line arguments.
+For each command line argument given, the program should treat
+that argument as the name of a file. If the argument is exactly
+two dashes (--), then it should use stdin instead of a file on disk.
+The program should output one line per command line argument:
+the name of that file (or "stdin") followed by a space, followed
+by an integer which is the number of words found in that file.
+
+Submit the source code and a Makefile to svn.
+Classwork 5: Problem 4
+======================
+
+For this problem, you will be writing a program to count the words
+in a file.  We will define a word as a contiguous sequence of
+characters for which isalnum returns true (if the character
+is a letter or a number).  For example:
+
+  hello42-world !! This__isan example....
+
+has 5 words:
+
+hello42
+world
+This
+isan
+example
+
+Write a program which takes one or more command line arguments.
+For each command line argument given, the program should treat
+that argument as the name of a file. If the argument is exactly
+two dashes (--), then it should use stdin instead of a file on disk.
+The program should output one line per command line argument:
+the name of that file (or "stdin") followed by a space, followed
+by an integer which is the number of words found in that file.
+
+Submit the source code and a Makefile to svn.
+Classwork 5: Problem 4
+======================
+
+For this problem, you will be writing a program to count the words
+in a file.  We will define a word as a contiguous sequence of
+characters for which isalnum returns true (if the character
+is a letter or a number).  For example:
+
+  hello42-world !! This__isan example....
+
+has 5 words:
+
+hello42
+world
+This
+isan
+example
+
+Write a program which takes one or more command line arguments.
+For each command line argument given, the program should treat
+that argument as the name of a file. If the argument is exactly
+two dashes (--), then it should use stdin instead of a file on disk.
+The program should output one line per command line argument:
+the name of that file (or "stdin") followed by a space, followed
+by an integer which is the number of words found in that file.
+
+Submit the source code and a Makefile to svn.

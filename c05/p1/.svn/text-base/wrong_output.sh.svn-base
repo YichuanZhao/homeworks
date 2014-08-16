@@ -1,0 +1,4 @@
+#!/bin/bash
+
+./palindrome file.txt
+./palindrome file1.txt

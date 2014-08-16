@@ -1,0 +1,12 @@
+Classwork 5: Problem 2
+======================
+
+For this problem, you will use gdb to debug code that I have
+provided to you in sqrt.c.   This program is supposed to take
+one double as a command line parameter, compute its square root,
+and print it out.  It also prints the square root using the standard
+library's sqrt function to check its answer.  Unfortunately, its broken.
+
+Use gdb to find and fix the bug(s) in this program.
+Devising your own test cases to find the bug(s) is up to you.
+

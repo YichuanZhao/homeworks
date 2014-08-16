@@ -1,0 +1,30 @@
+- make a struct for a student
+      - name (char *)
+      - array of class names  (char **)
+      - number of classes in that array (int)
+main:
+  (1) read the file (input) [array of structs]  <-
+        - open the file
+        - read a number (how many students)    <- 
+        - allocate an array of structs
+        - Read each student into that array    <-
+              - read name
+              - read a number
+              - allocate memory an array of strings
+              - read each classname into that array
+  (2) Make an array of all the class names from the input
+         - Write a function to see if an array contain a string
+         - Iterate over the structs
+               - Iterate over the strings inside the structs
+                   - Add the unquies ones (not already in the array)
+                     to the array
+                     (realloc?)
+  (3) Write the output class by class
+          - Iterate over the array of classname
+                  - open/create the appropriate file
+                  - search through our students, see which ones 
+                     contain that name, and write them into the file
+                  - fclose the file
+  (4) Free up any memory we allocated
+       -iterating over our array of structs
+       - iterating over our array of strings

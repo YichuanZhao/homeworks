@@ -1,0 +1,87 @@
+Classwork 6, Problem 2
+======================
+
+***********************************************************
+**     REMINDER: starting with Classwork 6, your         **
+**  programs  MUST valgrind cleanly for full credit!     **
+***********************************************************
+
+
+For this assignment, you will write a program which reads
+in a file that has the following format:
+
+Number of students
+Student Name
+Number of classes
+Classname 1
+Classname 2
+...
+Classname N
+Student Name
+Number of classes
+Classname 1
+Classname 2
+...
+Classname N
+
+That is, the first line contains a single integer, which is the
+number of students described in the file.
+After that, there are student descriptions, which each start
+with a line containing the student's name.  The next line
+is the number of classes that the student is in.
+After that, there are the specified number of lines, each of
+which contains the name of one class.
+
+Your program should read this file in, and then output
+the class roster for each class. Specifically, for each class,
+it should create a file called  classname.roster.txt (where classname
+is the name of the class) and print each of the students who
+are in that course (one per line) into that file.  
+
+For example, if your input file were
+
+4
+Jean-Luc Picard
+3
+ECE559
+ECE552
+ECE553
+Fred Flintstone
+2
+ECE551
+ECE559
+Barney Stinson
+3
+ECE551
+ECE550
+CS590.03
+Leonardo The Turtle
+3
+CS590.03
+ECE559
+ECE553
+
+Then your program should create 6 text files (ECE550.roster.txt,
+ECE551.roster.txt, ECE552.roster.txt, ECE553.roster.txt,
+ECE559.roster.txt, and CS590.03.roster.txt).  
+
+ECE551.roster.txt should contain:
+Fred Flintstone
+Barney Stinson
+
+ECE553.roster.txt should contain:
+Jean-Luc Picard
+Leonardo The Turtle
+
+and so on.
+
+Note that if the file does not obey this format, your program should
+print "Invalid File Format" to stderr, and exit with a failure status.
+
+Hints:
+ - You will need to use malloc (and thus free) for this.
+ - Think about making a struct.
+ - The getline function from the standard library is very nice
+   for reading a line of arbitrary size.  The man page has a nice
+   example of how to use it.
+Submit your code and Makefile via svn.

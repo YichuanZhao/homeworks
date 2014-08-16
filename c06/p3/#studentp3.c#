@@ -1,0 +1,138 @@
+#include <stdlib.h>
+#include <stdio.h>
+#include <string.h>
+#include <ctype.h>
+
+//make a struct for student
+struct _student_f{
+  char * name;  //name
+  char ** classname; //array of class names
+  int num_class; // number of classes
+};
+  
+  typedef struct _student_f student_f;
+
+
+//put classes in the array
+void classarray(char** array_class, char* class_s_names, int* class_n){
+  int r_w = 0;
+  for(int i=0; i<20; i++){
+    if(strcmp(array_class[i], class_s_names) == 0){
+      r_w = 1;     
+    }
+  }
+  if(r_w == 0){
+    *class_n = *class_n +1;
+    strcpy(array_class[(*class_n - 1)],class_s_names);
+  }
+  return;
+}
+
+int main(int argc, char **argv){
+  if(argc <=1){
+    printf("Invalid input");
+  }
+  else{ 
+    FILE* pfile; 
+    pfile = fopen(argv[1],"r");  //open the file
+    if(pfile == NULL){
+      fprintf(stderr, "Open file error!");
+    }
+    
+    /* char* line_t = NULL; //total number of students
+    size_t len_t = 0;
+    getline(&line_t,&len_t,pfile);
+    int total; 
+    total = atoi(line_t);
+    if((total < 0)||(total > 100)){
+      fprintf(stderr,"invalid input of number of students!\n");
+      exit(1);
+      }*/
+    int Zero = 0;
+    int* class_N;
+    class_N = &Zero; 
+    char** array_class_names = malloc(20*sizeof(*(array_class_names)));//initialize class array
+    for(int n_c = 0; n_c<20; n_c++){
+      array_class_names[n_c] = malloc(20*sizeof(*array_class_names[n_c]));
+    }
+
+    student_f* info = malloc(total*sizeof(*info)); //initialize the array of structs
+
+    //read the file information into the array 
+      do{
+	int i = 0;
+	char* line = NULL;
+	size_t len = 0;
+	getline(&line,&len,pfile);
+	info[i].name = malloc(20*sizeof(*(info[i].name)));
+	strcpy(info[i].name, line); // get students' names
+	
+	/* char* line_n = NULL;
+	   size_t len_n = 0;
+	   getline(&line_n,&len_n,pfile);
+	   int n = atoi(line_n);
+	   if((n<0)||(n>9)){
+	   fprintf(stderr,"invalid input of class numbers\n");
+	   exit(1);
+	   }
+	*/
+         
+	do{
+          int j = 0;
+          char* line_c = NULL;
+	  size_t len_c = 0;
+	  getline(&line_c,&len,pfile);
+	info[i].classname = malloc(20*sizeof(*(info[i].classname)));//initialize the classname array in the info 
+	info[i].classname[j] = malloc(20*sizeof(*(info[i].classname[j])));
+	//read the classnames into the struct
+	for(int j = 0; j<n;j++){
+	  char* line_c = NULL;
+	  size_t len_c = 0;
+	  getline(&line_c,&len_c,pfile);
+
+	  strcpy(info[i].classname[j], line_c); //read class names
+	  classarray(array_class_names, info[i].classname[j], class_N);
+      }
+      /* FILE* fp;
+      char* c = malloc(sizeof(*c)* 30);
+      strcpy(c, line);
+      strcat(c, ".roster.txt");
+      fp = fopen(c, "w");
+      fprintf(fp,"%s",line);
+      fclose(fp);*/
+      }while(line != EOF);
+    fclose(pfile);
+    // create different files based on class names
+    for(int i=0;i<*class_N;i++){
+      FILE* inf;
+      char*c = malloc(50*sizeof(*c));
+      strcpy(c, array_class_names[i]);
+      strcat(c,".roster.txt");
+      inf = fopen(c,"r");
+      if(inf == NULL){
+	inf = fopen(c,"w");
+      }
+      for(int j=0; j<total;j++){
+	for(int k=0; k<info[j].num_class;k++){
+	  if(strcmp(info[j].classname[k],array_class_names[i]) == 0){	  
+	    fprintf(inf,"%s",info[j].name);    
+	  }
+	}
+      }
+      fclose(inf);
+    }
+    
+    for(int i = 0; i<20;i++){
+      free(array_class_names[i]);
+    }
+    free(array_class_names);
+    for(int i = 0;i < total;i++){
+      free(info[i].name);
+      for(int j=0; j<info[i].num_class;j++){
+	free(info[i].classname[j]);
+      }
+    }
+    free(info);
+    return 0;
+  }
+}

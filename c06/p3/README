@@ -1,0 +1,45 @@
+Classwork 6: Problem 3
+======================
+
+***********************************************************
+**     REMINDER: starting with Classwork 6, your         **
+**  programs  MUST valgrind cleanly for full credit!     **
+***********************************************************
+
+For this problem, you will be reworking problem 2 with a slightly
+different file format.  This new file format will require you to
+use realloc so that you can grow the arrays as needed.
+
+Instead of specifying the number of students and number of courses
+in advance, this new format will simply have a blank line to indicate
+the end of the classes for a student.   The end of the file indicates
+that there are no more students to process:
+
+Student Name 1
+Classname 1
+Classname 2
+...
+Classname N
+
+Student Name 2
+Classname 1
+Classname 2
+...
+Classname N
+
+Note that your program may either 
+ - require a blank line to end the last student's class list
+OR
+ - accept the input either with our without a blank line at the end
+   (where EOF also terminates the last student's class list)
+We will only test on inputs which have a blank line to end the input.
+
+
+Your program should produce the same output (in the same format)
+as for p2.  If you used good abstraction, you are likely able to re-use
+many functions that you wrote.  As with p2, you should handle errors
+by printing a message to stderr and exiting.
+
+Submit your code and Makefile via svn.
+
+

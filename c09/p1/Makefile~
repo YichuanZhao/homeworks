@@ -1,0 +1,2 @@
+ref:ref.cpp
+	g++ -o ref -Wall -Werror -Pedantic -std=gnu98 ref.cpp

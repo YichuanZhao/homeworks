@@ -1,0 +1,45 @@
+Classwork 8, Problem 1
+======================
+
+For problems 1 and 2 you will be playing "Pointer Programming Pictionary".
+
+For this game, you need to pair up with a partner.
+One p1, one of you will draw what a piece of code does, and the other
+will (without seeing the code: only the picture) write down what the picture
+your partner draws translates to in code.
+
+For p2, you will switch roles (if you drew on p1, you will write code on p2, 
+and vice versa).
+
+When you are writing code:
+  You will receive a file called "skeleton.c" which will have type declarations,
+  variable declarations, and some basic structure (e.g., some loops) already in it.
+  The lines you need to write are replaced with a comment:
+   //WRITE ME
+  You should be able to write one line of code per comment.
+  You will edit this file so that it contains the code corresponding to what your partner draws.
+
+  Note that for things that are in a loop, you might need to see a few iterations to
+  figure out the pattern.
+
+When you are drawing:
+  You will receive "skeleton.c" (what your partner sees), as well as "code.c"..
+  You should look at "skeleton.c" to see what your partner starts with. 
+  You should draw out the starting state (main's stack frame, the variables that
+  are in the skeleton code, etc), and agree with your partner that this represents
+  what they have.
+  Then you should draw a line of code, and your partner should write it down.
+  You should not describe code verbally or in words, but rather only draw
+  boxes and arrows, change numbers in boxes, put strings in boxes, etc.
+
+  (Yes, I realize you could just show them the code, but that defeats the point).
+  You can tell your partner if he/she is incorrect, and ask them to try again
+  before moving on.  If this happens, you should think carefully about whether
+  you drew the right picture and your partner wrote the wrong code, or if you 
+  drew the wrong picture.
+
+
+If you are drawing, you will not submit anything for this segment (you will submit
+for p2).   If you are coding, you will submit your skeleton.c file.
+
+

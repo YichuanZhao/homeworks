@@ -1,0 +1,54 @@
+#include <stdlib.h>
+#include <stdio.h>
+#include <string.h>
+#include <ctype.h>
+
+int main(){
+
+  FILE *pfile;
+  char filename[100];
+  printf("Please enter the filename:");
+  scanf("%s", filename);
+  pfile = fopen(filename,"r");
+  if(pfile==NULL){
+    fprintf(stderr,"open file error!");
+    exit(1);
+  }
+ 
+  char alph[10][11];
+
+    for(int i = 0; i<=9; i++)
+      {
+	for(int j = 0; j<=10; j++)
+	  {
+            alph[i][j] = fgetc(pfile);
+            printf("%c", alph[i][j]);
+	  }
+      }
+    printf("\n"); 
+    char newalph[10][11];
+
+    for(int x = 0; x<=9; x++)
+      {
+	for(int y = 0;y<=9;y++)
+	  {
+	    newalph[x][y] = alph[9-y][x];
+	  }
+      }
+
+  for(int x = 0; x<=9; x++)
+      {
+	for(int y = 0;y<=9;y++)
+	  {
+	    printf("%c",newalph[x][y]);
+	  }
+	printf("\n");
+      }
+
+  printf("\n");
+
+  fclose(pfile);   
+
+  return 0;
+
+}

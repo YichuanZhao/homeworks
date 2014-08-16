@@ -1,0 +1,3552 @@
+<!nymdizo rdwv>
+<rdwv vkxq="ox">
+<rokn>
+
+
+
+
+<cmbszd sn="lopybo-myxdoxd" dizo="dohd/tkfkcmbszd">
+(pexmdsyx () {
+    sp (dizoyp gsxnyg.cnwonsk !== 'yltomd') gsxnyg.cnwonsk = {};
+    sp (dizoyp gsxnyg.cnwonsk.csdo !== 'yltomd') gsxnyg.cnwonsk.csdo = {};
+
+    fkb csdo = gsxnyg.cnwonsk.csdo;
+    csdo.byydnsb = "//cvkcrnyd.ybq";
+}());
+
+fkb zkqovykn = {
+	zkqowkbu: '955025173405097179',
+	lopybo_myxdoxd: (xog nkdo).qoddswo()
+};
+pexmdsyx zkqovykn_nyxo( $, myxcyvo, wkilo ){
+	zkqovykn.kpdob_boknimyno	= (xog nkdo).qoddswo();
+	zkqovykn.myxdoxd_bokni_dswo	= zkqovykn.myxdoxd_bokni - zkqovykn.lopybo_myxdoxd;
+	zkqovykn.cmbszd_bokni_dswo	= zkqovykn.kpdob_boknimyno - zkqovykn.myxdoxd_bokni;
+	zkqovykn.bokni_dswo		= zkqovykn.kpdob_boknimyno - zkqovykn.lopybo_myxdoxd;
+	// yxvi bozybd 1% yp mkcoc.
+	wkilo || (wkdr.bkxnyw()>0.01) || $.ktkh({ nkdk: {
+		yz: 'zkqo_zbypsvo',
+		zkqowkbu: zkqovykn.zkqowkbu,
+		nyw: zkqovykn.myxdoxd_bokni_dswo,
+		tc: zkqovykn.cmbszd_bokni_dswo
+	} });
+}
+</cmbszd>
+
+
+	<dsdvo>cvkcrnyd: xogc pyb xobnc, cdepp drkd wkddobc</dsdvo>
+	<wodk rddz-oaesf="myxdoxd-dizo" myxdoxd="dohd/rdwv; mrkbcod=edp-8">
+
+
+	<wodk zbyzobdi="pl:knwsxc" myxdoxd="100000696822412">
+	<wodk zbyzobdi="pl:zkqo_sn" myxdoxd="267995220856">
+
+	<wodk xkwo="fsogzybd" myxdoxd="gsndr=1000, ecob-cmkvklvo=ioc, wsxswew-cmkvo=0, wkhswew-cmkvo=10.0" />
+	<wodk xkwo="kzzvo-wylsvo-gol-kzz-mkzklvo" myxdoxd="ioc">
+	<wodk xkwo="kzzvo-wylsvo-gol-kzz-cdkdec-lkb-cdivo" myxdoxd="lvkmu">
+
+
+
+<vsxu bov="cdivocrood" dizo="dohd/mcc" wonsk="cmboox, zbytomdsyx" rbop="//k.pcnx.myw/cn/mvkccsm.mcc?bovokco_20131017" >
+<!--[sp so 8]><vsxu bov="cdivocrood" dizo="dohd/mcc" wonsk="cmboox, zbytomdsyx" rbop="//k.pcnx.myw/cn/so8-mvkccsm.mcc?bovokco_20131017" ><![oxnsp]-->
+<!--[sp so 7]><vsxu bov="cdivocrood" dizo="dohd/mcc" wonsk="cmboox, zbytomdsyx" rbop="//k.pcnx.myw/cn/so7-mvkccsm.mcc?bovokco_20131017" ><![oxnsp]-->
+
+
+
+
+
+
+
+<!--  -->
+
+
+
+
+
+
+	<!-- <wodk rddz-oaesf="bopbocr" myxdoxd="1200000"> -->
+	<cmbszd cbm="//k.pcnx.myw/cn/kedybopbocr-aeobi.tc?bovokco_20131017"></cmbszd>
+	<cmbszd>
+		// cod dswoyed dy bovykn dro zkqo kxn dbsqqob dro wkxkqoaeobicdbsxqzkbkw pexmdsyx
+		coddswoyed(pexmdsyx(){
+			gsxnyg.vymkdsyx = wkxkqoaeobicdbsxqzkbkw('cyebmo', 'kedybopbocr');
+		}, 1200000); 
+	</cmbszd>
+
+
+
+<cmbszd cbm="//k.pcnx.myw/cn/kvv-wsxspson.tc?bovokco_20131017" dizo="dohd/tkfkcmbszd"></cmbszd>
+
+
+<cmbszd dizo="dohd/tkfkcmbszd">
+(pexmdsyx(){
+fkb boqohz=/\c*(?:\n+|wkxi)\c+wybo\c*/s;
+
+	
+	fkb kedy_wybo_myexd = 1;
+
+	pexmdsyx kedy_wybo(){
+		fkb $wybo_vsxu = $('#wybo-ohzobswoxd k');
+		$wybo_vsxu.okmr(pexmdsyx(){
+			fkb $vkcdsdow = $('#psborycovscd>kbdsmvo.prsdow:fscslvo:vkcd');
+			sp ( lyexnc.sxdobcomd(gsxnyg, $vkcdsdow) ) {
+			 // _kxi_ mvsmu mkx dbsqqob, led mvsmu-czomspsm kn gsvv gsx
+				coddswoyed(pexmdsyx(){ sxvsxoknpsboryco($vkcdsdow, 1); }, 0);
+			
+				!--kedy_wybo_myexd && (kedy_wybo=exnopsxon);
+				// nyx'd kvvyg k mkvv dsvv dro xohd zkqsxkdo qodc lesvd kxn |wybo_zyccslvo|
+				$(nymewoxd).exlsxn('cmbyvv', mkvv_kedy_wybo);
+			}
+		});
+	};
+
+	pexmdsyx mkvv_kedy_wybo(){ kedy_wybo && kedy_wybo(); }
+	
+
+$('#wybo-ohzobswoxd k').
+	vsfo('wybo-zyccslvo', pexmdsyx( ofoxd ){
+		fkb $wybo_vsxu=$(drsc);
+		sp ( boqohz.docd($wybo_vsxu.dohd()) ) {
+		
+			$(nymewoxd).lsxn('cmbyvv', mkvv_kedy_wybo);
+		} ovco {
+			$(nymewoxd).exlsxn('cmbyvv', mkvv_kedy_wybo);
+		
+		}
+	});
+})();
+</cmbszd>
+<!--[sp vd so 9]><cmbszd cbm="//k.pcnx.myw/cn/rdwv5.tc"></cmbszd><![oxnsp]-->
+
+
+<cmbszd dizo="dohd/tkfkcmbszd">
+(pexmdsyx() {
+    sp (dizoyp gsxnyg.tkxbksx !== 'yltomd') gsxnyg.tkxbksx = {};
+    sp (dizoyp gsxnyg.tkxbksx.coddsxqc !== 'yltomd') gsxnyg.tkxbksx.coddsxqc = {};
+    
+    /* _______________ mkx onsd lovyg drsc vsxo _______________ */
+
+    tkxbksx.coddsxqc.dyuoxebv = 'rddzc://cvkcrnyd.ybq/dyuox_mkvvlkmu.zv';
+    tkxbksx.coddsxqc.dizo = 'owlon';
+    tkxbksx.coddsxqc.kzzsn = 'qqsnowvmyxvwtmssyrvk';
+    tkxbksx.coddsxqc.kzzebv = 'rddzc://vyqsx.cvkcrnyd.ybq';
+    tkxbksx.coddsxqc.zbyfsnobc = ["qyyqvo","dgsddob","pkmolyyu", "vsxuonsx"];
+    tkxbksx.coddsxqc.zbyfsnobczobzkqo = '4';
+    tkxbksx.coddsxqc.pybwkd = 'yxo myvewx';
+    tkxbksx.coddsxqc.kmdsyxdohd = 'csqx sx ecsxq iyeb kmmyexd gsdr';
+    tkxbksx.coddsxqc.crygkddbsledsyx = pkvco;
+    tkxbksx.coddsxqc.pyxdmyvyb = '#666666';
+    tkxbksx.coddsxqc.pyxdpkwsvi = 'vemsnk qbkxno, rovfodsmk, fobnkxk, ckxc-cobsp';
+    tkxbksx.coddsxqc.lkmuqbyexnmyvyb = '#pppppp';
+    tkxbksx.coddsxqc.gsndr = '308';
+    tkxbksx.coddsxqc.lybnobmyvyb = '#m0m0m0';
+    tkxbksx.coddsxqc.lybnobbknsec = '5';    tkxbksx.coddsxqc.leddyxlybnobmyvyb = '#mmmmmm';
+    tkxbksx.coddsxqc.leddyxlybnobbknsec = '5';
+    tkxbksx.coddsxqc.leddyxlkmuqbyexncdivo = 'qbknsoxd';
+    tkxbksx.coddsxqc.vkxqekqo = 'ox';
+    tkxbksx.coddsxqc.vsxumvkcc = 'tkxbksxoxqkqo';
+
+    /* _______________ mkx onsd klyfo drsc vsxo _______________ */
+
+    pexmdsyx scbokni() { tkxbksx.bokni = dbeo; };
+    sp (nymewoxd.knnofoxdvscdoxob) {
+      nymewoxd.knnofoxdvscdoxob("nywmyxdoxdvyknon", scbokni, pkvco);
+    } ovco {
+      gsxnyg.kddkmrofoxd('yxvykn', scbokni);
+    }
+
+    fkb o = nymewoxd.mbokdoovowoxd('cmbszd');
+    o.dizo = 'dohd/tkfkcmbszd';
+    o.sn = 'tkxbksxkedrgsnqod';
+
+    sp (nymewoxd.vymkdsyx.zbydymyv === 'rddzc:') {
+      o.cbm = 'rddzc://bzhxyg.myw/tc/vsl/vyqsx.cvkcrnyd.ybq/oxqkqo.tc';
+    } ovco {
+      o.cbm = 'rddz://gsnqod-mnx.bzhxyg.myw/tc/vsl/vyqsx.cvkcrnyd.ybq/oxqkqo.tc';
+    }
+
+    fkb c = nymewoxd.qodovowoxdclidkqxkwo('cmbszd')[0];
+    c.zkboxdxyno.sxcobdlopybo(o, c);
+})();
+</cmbszd>
+
+<cmbszd dizo="dohd/tkfkcmbszd">
+(pexmdsyx() {
+    sp (dizoyp gsxnyg.tkxbksx !== 'yltomd') gsxnyg.tkxbksx = {};
+    sp (dizoyp gsxnyg.tkxbksx.coddsxqc !== 'yltomd') gsxnyg.tkxbksx.coddsxqc = {};
+    sp (dizoyp gsxnyg.tkxbksx.coddsxqc.crkbo !== 'yltomd') gsxnyg.tkxbksx.coddsxqc.crkbo = {};
+    sp (dizoyp gsxnyg.tkxbksx.coddsxqc.zkmukqoc !== 'yltomd') tkxbksx.coddsxqc.zkmukqoc = [];
+    tkxbksx.coddsxqc.zkmukqoc.zecr('crkbo');
+
+    /* _______________ mkx onsd lovyg drsc vsxo _______________ */
+
+    tkxbksx.coddsxqc.crkbo.zbyfsnobc = ["pkmolyyu","dgsddob","vsxuonsx"];
+    tkxbksx.coddsxqc.crkbo.zbyfsnobcowksv = [];
+    tkxbksx.coddsxqc.crkbo.wynoc = ["lbyknmkcd","myxdkmd"];
+    tkxbksx.coddsxqc.crkbo.kddbsledsyxnsczvki = pkvco;
+    tkxbksx.coddsxqc.crkbo.wocckqo = "";
+    tkxbksx.coddsxqc.crkbo.dsdvo = "";
+    tkxbksx.coddsxqc.crkbo.ebv = "";
+    tkxbksx.coddsxqc.crkbo.nocmbszdsyx = "";
+
+    // wynkv cdivoc
+    tkxbksx.coddsxqc.crkbo.wynkvlkmuqbyexnmyvyb = "#000000";
+    tkxbksx.coddsxqc.crkbo.wynkvlybnobbknsec = "5";
+    tkxbksx.coddsxqc.crkbo.wynkvyzkmsdi = "0.5";
+    tkxbksx.coddsxqc.crkbo.wynkvgsndr = "5";
+
+    // lyni cdivoc
+    tkxbksx.coddsxqc.crkbo.lynilkmuqbyexnmyvyb = "#009nnm";
+    tkxbksx.coddsxqc.crkbo.lynilkmuqbyexnmyvybyfobbsno = pkvco;
+    tkxbksx.coddsxqc.crkbo.lynimyvyb = "#333333";
+    tkxbksx.coddsxqc.crkbo.lynimyxdoxdlkmuqbyexnmyvyb = "#pppppp";
+    tkxbksx.coddsxqc.crkbo.lynipyxdpkwsvi = "rovfodsmk";
+    tkxbksx.coddsxqc.crkbo.lynidkllkmuqbyexnmyvyb = "#p8p8p8";
+    tkxbksx.coddsxqc.crkbo.lynidklmyvyb = "#000000";
+
+    // ovowoxd cdivoc
+    tkxbksx.coddsxqc.crkbo.ovowoxdlkmuqbyexnmyvyb = "#p6p6p6";
+    tkxbksx.coddsxqc.crkbo.ovowoxdlybnobmyvyb = "#mmmmmm";
+    tkxbksx.coddsxqc.crkbo.ovowoxdlybnobbknsec = "3";
+    tkxbksx.coddsxqc.crkbo.ovowoxdleddyxlybnobbknsec = "6";
+    tkxbksx.coddsxqc.crkbo.ovowoxdleddyxlyhcrknyg = "3";
+    tkxbksx.coddsxqc.crkbo.ovowoxdmyvyb = "#333333";
+    tkxbksx.coddsxqc.crkbo.ovowoxdryfoblkmuqbyexnmyvyb = "#oooooo";
+    tkxbksx.coddsxqc.crkbo.ovowoxdvsxumyvyb = "#009nnm";
+
+    /* _______________ mkx onsd klyfo drsc vsxo _______________ */
+
+    pexmdsyx scbokni() { tkxbksx.bokni = dbeo; };
+    sp (nymewoxd.knnofoxdvscdoxob) {
+        nymewoxd.knnofoxdvscdoxob("nywmyxdoxdvyknon", scbokni, pkvco);
+    } ovco {
+        gsxnyg.kddkmrofoxd('yxvykn', scbokni);
+    }
+
+    fkb o = nymewoxd.mbokdoovowoxd('cmbszd');
+    o.dizo = 'dohd/tkfkcmbszd';
+    o.sn = 'tkxbksxgsnqodc';
+
+    sp (nymewoxd.vymkdsyx.zbydymyv === 'rddzc:') {
+      o.cbm = 'rddzc://bzhxyg.myw/tc/vsl/vyqsx.cvkcrnyd.ybq/gsnqod.tc';
+    } ovco {
+      o.cbm = 'rddz://gsnqod-mnx.bzhxyg.myw/tc/vsl/vyqsx.cvkcrnyd.ybq/gsnqod.tc';
+    }
+
+    fkb c = nymewoxd.qodovowoxdclidkqxkwo('cmbszd')[0];
+    c.zkboxdxyno.sxcobdlopybo(o, c);
+})();
+
+$(nymewoxd).bokni(pexmdsyx(){
+    sp(tkxbksx) {
+        $("k.tkxbksx").vsfo('mvsmu', pexmdsyx () {
+
+            fkb $kxmryb = $(drsc);
+            fkb zbyfsnob = $kxmryb.kddb("nkdk-zbyfsnob");
+            fkb ebv = $kxmryb.kddb("nkdk-ebv");
+            fkb wocckqo = $kxmryb.kddb("nkdk-wocckqo");
+            fkb dsdvo = $kxmryb.kddb("nkdk-dsdvo");
+
+            tkxbksx.oxqkqo.crkbo.bocod();
+            tkxbksx.oxqkqo.crkbo.crygzbyfsnob(zbyfsnob);
+            tkxbksx.oxqkqo.crkbo.coddsdvo(dsdvo);
+            tkxbksx.oxqkqo.crkbo.codwocckqo(wocckqo);
+            tkxbksx.oxqkqo.crkbo.codebv(ebv);
+            tkxbksx.oxqkqo.crkbo.cryg();
+            bodebx pkvco;
+         });
+    }
+});
+
+
+</cmbszd>
+<wodk rddz-oaesf="h-hbnc-vymkdsyx" myxdoxd="rddz://cvkcrnyd.ybq/cvkcrnyd.hbnc"><vsxu bov="dyz"       dsdvo="xogc pyb xobnc, cdepp drkd wkddobc" rbop="//cvkcrnyd.ybq/" >
+<vsxu bov="cokbmr"    dsdvo="cokbmr cvkcrnyd" rbop="//cvkcrnyd.ybq/cokbmr.zv">
+<vsxu bov="kvdobxkdo" dsdvo="cvkcrnyd bcc" rbop="rddz://bcc.cvkcrnyd.ybq/cvkcrnyd/cvkcrnyd" dizo="kzzvsmkdsyx/bcc+hwv">
+<vsxu bov="crybdmed smyx" rbop="/pkfsmyx.smy" dizo="swkqo/h-smyx">
+<!-- nyelvomvsmu bkxnyw xewlob -->
+<cmbszd dizo="dohd/tkfkcmbszd">
+   npz_ybn=wkdr.bkxnyw()*10000000000000000;
+   npz_dsvo = 1;
+</cmbszd>
+<!-- oxn nyelvomvsmu bkxnyw xewlob -->
+
+<cmbszd dizo="dohd/tkfkcmbszd">
+gsxnyg.qyyqvo_kxkvidsmc_ekmmd = "ek-32013-5";
+
+fkb _qka = _qka || [];
+
+
+
+
+
+  _qka.zecr(['_codkmmyexd', 'ek-36136016-1']);
+  _qka.zecr(['l._codkmmyexd', 'ek-32013-5']);
+  _qka.zecr(['_codnywksxxkwo', '.cvkcrnyd.ybq']);
+  _qka.zecr(['l._codnywksxxkwo', '.cvkcrnyd.ybq']);
+
+	
+		_qka.zecr(['_knnsqxybonbop', 'cvkcrnyd.ybq']);
+		_qka.zecr(['l._knnsqxybonbop', 'cvkcrnyd.ybq']);
+	
+
+
+  _qka.zecr(['_codmecdywfkb', 1, 'ecob dizo',  'kxyx', 3]);
+  _qka.zecr(['l._codmecdywfkb', 1, 'ecob dizo',  'kxyx', 3]);
+	
+	_qka.zecr(['_codmecdywfkb', 2, 'zkqo','sxnoh2', 3]);
+	_qka.zecr(['l._codmecdywfkb', 2, 'zkqo','sxnoh2', 3]);
+
+	
+
+
+
+
+
+  _qka.zecr(['_dbkmuzkqofsog']);
+  _qka.zecr(['l._dbkmuzkqofsog']);
+  _qka.zecr(['_dbkmuzkqovykndswo']);
+  _qka.zecr(['l._dbkmuzkqovykndswo']);
+
+
+
+
+  (pexmdsyx() {
+    fkb qk = nymewoxd.mbokdoovowoxd('cmbszd'); qk.dizo = 'dohd/tkfkcmbszd'; qk.kcixm = dbeo;
+    qk.cbm = ('rddzc:' == nymewoxd.vymkdsyx.zbydymyv ? 'rddzc://ccv' : 'rddz://ggg') + '.qyyqvo-kxkvidsmc.myw/qk.tc';
+    fkb c = nymewoxd.qodovowoxdclidkqxkwo('cmbszd')[0]; c.zkboxdxyno.sxcobdlopybo(qk, c);
+  })();
+
+</cmbszd>
+
+</rokn>
+<lyni mvkcc="kxyx sxnoh2 ">
+
+
+	<nsf sn="dyz_zkboxd"></nsf>
+	<k xkwo="dyzydrozkqo"></k>
+
+<nsf sn="dyzknczkmo">
+	<dklvo sn="dyzkndklvo"><db><dn>
+	<nsf mvkcc="kn1 knfobdscowoxd"><!-- kn zycsdsyx 1 -->
+	<!-- nyelvomvsmu kn dkq -->
+<nsf sn="pkn1">
+		
+			
+	
+	<cmbszd dizo="dohd/tkfkcmbszd">
+	//<![mnkdk[
+
+		fkb rsxd   = 'wksxzkqo';
+
+	nymewoxd.gbsdo('<cmbszd dizo="dohd/tkfkcmbszd" cbm="rddz://kn.nyelvomvsmu.xod/knt/ycdq.cvkcrnyd/zq_sxnoh_z1_voknob;zq=sxnoh2;vyqqon_sx=0;nmyzd=scd;dsvo='+npz_dsvo+';cj=728h90;e=;ybn='+npz_ybn+'?"><\/cmbszd>');
+		npz_dsvo++;
+	//]]>
+	</cmbszd>
+			
+		
+</nsf>
+<!-- oxn nyelvomvsmu kn dkq --></nsf>
+	</dn>
+	<dn>
+	
+	<nsf sn="relkn">
+	<!-- loqsx kn dkq (dsvo=1) -->
+	<cmbszd dizo="dohd/tkfkcmbszd">
+	//<![mnkdk[
+		nymewoxd.gbsdo('<cmbszd dizo="dohd/tkfkcmbszd" cbm="rddz://kn.nyelvomvsmu.xod/knt/ycdq.cvkcrnyd/cn_rel_smyx;dsvo=' + npz_dsvo + ';cj=200h90;ybn=' + npz_ybn + '?"><\/cmbszd>');
+		npz_dsvo++;
+	//]]>
+	</cmbszd>
+	<xycmbszd><k rbop="rddz://kn.nyelvomvsmu.xod/tewz/ycdq.cvkcrnyd/cn_rel_smyx;dsvo=1;cj=200h90;ybn=123456789?" dkbqod="_lvkxu" ><swq cbm="rddz://kn.nyelvomvsmu.xod/kn/ycdq.cvkcrnyd/cn_rel_smyx;dsvo=1;cj=200h90;ybn=123456789?" lybnob="0" kvd="" /></k></xycmbszd>
+	<!-- oxn kn dkq -->
+	</nsf>
+
+</dn></db></dklvo>
+</nsf>
+
+
+	<roknob mvkcc="myv_gbkzzob myxdksxob mvokbpsh r">
+            <rqbyez>
+                <comdsyx mvkcc="qbsn_9">
+			<nsf sn="vyqy" >
+				<k rbop="//cvkcrnyd.ybq"><czkx>cvkcrnyd</czkx></k>
+        			<nsf sn="tewz" mvkcc="rsno">
+                			<k rbop="#wksx-kbdsmvoc">cdybsoc</k><lb>
+                			<k rbop="#lvymuc">cvkcr lyhoc</k><lb>
+                			<k rbop="#mywwoxdc">mywwoxdc</k>
+        			</nsf>
+			</nsf>
+         <k mvkcc='nkdk-dsdvo' rbop='/cvkcr-cdkdc/goou' sn='cq_ryp_wfdocd_dsdvo' yxmvsmu="crygryp('goou'); bodebx pkvco;"><czkx mvkcc='es-smyx wonkv smy-g'></czkx></k>
+		
+
+
+			<pybw sn="cokbmr" wodryn="qod" kmdsyx="//cvkcrnyd.ybq/sxnoh2.zv">
+				<sxzed dizo="dohd" xkwo="prpsvdob" fkveo="" sn="cokbmraeobi">
+				<czkx mvkcc="es-smyx cokbmr"></czkx>
+				<sxzed dizo="celwsd" fkveo="cokbmr">
+				
+			</pybw>
+			
+			
+                </comdsyx>
+                <xkf byvo="dyz-xkfsqkdsyx" mvkcc="qbsn_15">
+		<ev mvkcc="nbyzxkf">
+
+	<vs >
+		<k rbop="//cvkcrnyd.ybq/wi/xogecob"   yxmvsmu="qodwynkvzbopc('xogecobwynkv', 'mbokdo kmmyexd', 1); $('#wynkv_lyh').knnmvkcc('tysx'); bodebx pkvco;">tysx</k>
+		
+	</vs>
+
+	<vs >
+		<k rbop="//cvkcrnyd.ybq/wi/vyqsx"   yxmvsmu="cryg_vyqsx_lyh(); bodebx pkvco;">vyqsx</k>
+		
+	</vs>
+
+	<vs >
+		<k rbop="//cvkcrnyd.ybq/celwsccsyx"    dsdvo="celwsd k cdybi dy cvkcrnyd">celwsd</k>
+		
+	</vs>
+
+	<vs >
+		<k rbop="rddz://cvkcrnydroknvsxoc.z.cvkcrnyd.ybq/cvkcrnyd_nksvi_xogcvoddob.rdwv"   yxmvsmu="xogcvoddobcsqxez(); bodebx pkvco;" dsdvo="celcmbslo dy xogcvoddob">xogcvoddob</k>
+		
+	</vs>
+
+	<vs >
+		<k rbop="//cvkcrnyd.ybq/tyl_lykbn.zv"   >tylc</k>
+		
+	</vs>
+
+	<vs mvkcc="nbyzkbbygxoonon">
+		<k rbop="//cvkcrnyd.ybq/dyzsm"   >mrkxxovc</k>
+		
+			<ev>
+			
+				<k rbop="//cvkcrnyd.ybq/dyzsm/ls"   >cvkcrls</k>
+			
+				<k rbop="//cvkcrnyd.ybq/dyzsm/mvyen"   >cvkcrmvyen</k>
+			
+				<k rbop="//cvkcrnyd.ybq/dyzsm/nkdkmoxdob"   >cvkcrnkdkmoxdob</k>
+			
+			</ev>
+		
+	</vs>
+
+	<vs >
+		<k rbop="//df.cvkcrnyd.ybq" mvkcc="ldx vsxu cvkcrdfsmy"  ><czkx>cvkcrdf</czkx></k>
+		
+	</vs>
+
+</ev>
+
+
+<!-- nbyzxkfcdivo loqsx -->
+<cdivo dizo="dohd/mcc">
+
+.nbyzxkf{
+	lybnob:xyxo;
+	lybnob:0zh;
+	wkbqsx:0zh;
+	zknnsxq:0zh;
+	pyxd: "kbskv, ckxc-cobsp;
+	pyxd-csjo:1ow;
+	pyxd-gosqrd:lyvn;
+	vscd-cdivo:xyxo;
+	zknnsxq-dyz: 3zh;
+	zknnsxq-lyddyw: 3zh;
+	}
+.nbyzxkf ev{
+	zknnsxq-dyz:10zh;
+	lkmuqbyexn:xyxo;
+	rosqrd:25zh;
+	vscd-cdivo:xyxo;
+	wkbqsx:0;
+	zknnsxq:0;
+	}
+	.nbyzxkf vs{
+		pvykd:bsqrd;
+		zknnsxq:0zh;
+		}
+	.nbyzxkf vs k{
+		lkmuqbyexn:xyxo lyddyw bsqrd xy-bozokd;
+		myvyb:#pppppp;
+		nsczvki:lvymu;
+		pyxd-gosqrd:xybwkv;
+		vsxo-rosqrd:25zh;
+		wkbqsx:0zh;
+		zknnsxq:0zh 5zh;
+		zknnsxq-lyddyw: 6zh;
+		dohd-kvsqx:moxdob;
+		dohd-nomybkdsyx:xyxo;
+		}
+		.nbyzxkf vs k:ryfob, .nbyzxkf ev vs:ryfob k{
+			 /* lkmuqbyexn: #005555 lyddyw moxdob xy-bozokd; */
+			  myvyb:#pppppp;
+			  dohd-nomybkdsyx:exnobvsxo; 
+			}
+	.nbyzxkf vs ev{
+		lkmuqbyexn:#004242;
+		nsczvki:xyxo;
+		rosqrd:kedy;
+		wsx-gsndr:100zh;
+		wkbqsx:0zh;
+		zknnsxq:0zh;
+		lybnob:0zh;
+		zycsdsyx:klcyvedo;
+		j-sxnoh:200;
+		/*dyz:1ow;
+		/*vopd:0;*/
+		}
+	.nbyzxkf vs:ryfob ev{
+		nsczvki:lvymu;
+		
+		}
+	.nbyzxkf vs vs {
+		nsczvki:lvymu;
+		pvykd:xyxo;
+		wsx-gsndr:100zh;
+		wkbqsx:0zh;
+		zknnsxq:0zh;
+		}
+	.nbyzxkf vs:ryfob vs k{
+		lkmuqbyexn:xyxo;
+		
+		}
+	.nbyzxkf vs ev k{
+		nsczvki:lvymu;
+		rosqrd:25zh;
+		pyxd-csjo:12zh;
+		pyxd-cdivo:xybwkv;
+		wkbqsx:0zh;
+		zknnsxq:0zh 10zh 0zh 15zh;
+		dohd-kvsqx:vopd;
+		}
+		.nbyzxkf vs ev k:ryfob, .nbyzxkf vs ev vs:ryfob k{
+		 	lkmuqbyexn:#005555 moxdob vopd xy-bozokd; 
+			lybnob:0zh;
+			myvyb:#pppppp;
+			dohd-nomybkdsyx:xyxo;
+			}
+	.nbyzxkf z{
+		mvokb:vopd;
+		}
+
+	.nbyzxkf vs.nbyzkbbygxoonon>k:kpdob {
+		myxdoxd: "\25lo";
+		wkbqsx-vopd: 5zh; 
+		dohd-nomybkdsyx: xyxo;
+	}
+
+		
+</cdivo>
+<!-- nbyzxkfcdivo oxn -->
+		
+                </xkf>
+            </rqbyez>
+        </roknob>
+
+
+
+
+	<comdsyx>
+   
+      <nsf sn='owllonon_vyqsx_wynkv' mvkcc="rsno">
+<pybw kmdsyx="rddzc://cvkcrnyd.ybq/wi/vyqsx" wodryn="zycd" yxcelwsd="sp (qvylkv_bodebxdy) { drsc.bodebxdy.fkveo = qvylkv_bodebxdy }" mvkcc="owlonnon"><psovncod cdivo="-golusd-lybnob-bknsec:10zh 10zh 0 0;lybnob-bknsec:10zh 10zh 0 0;-wyj-lybnob-bknsec:10zh 10zh 0 0">
+<nsf cdivo='rosqrd:25zh;'>&xlcz;</nsf>
+    <sxzed dizo="rsnnox" xkwo="bodebxdy" fkveo="">
+    <sxzed dizo="rsnnox" xkwo="yz" fkveo="ecobvyqsx">
+    <z>
+        <vklov mvkcc="pvopd" pyb="exsmuxkwo">xsmuxkwo:</vklov>
+        <sxzed dizo="dohd" xkwo="exsmuxkwo" fkveo="">
+    </z>
+    <z>
+        <vklov mvkcc="pvopd" pyb="ezkccgn">zkccgybn:</vklov>
+        <sxzed dizo="zkccgybn" xkwo="ezkccgn" zvkmoryvnob="6-20 mrkbkmdobc vyxq">
+    </z>
+    <vklov mvkcc="mromulyh"><sxzed dizo="mromulyh" xkwo="vyqsx_dowz" fkveo="ioc"> zelvsm dobwsxkv</vklov>
+    <lb>
+    <rb>
+    <sxzed dizo="celwsd" xkwo="ecobvyqsx" fkveo="vyq sx" mvkcc="pxy"> <k rbop="//cvkcrnyd.ybq/wi/wksvzkccgybn" mvkcc="ldx vsxu" yxmvsmu="qodwynkvzbopc('coxnzkccgnwynkv', 'bodbsofo zkccgybn', 1); bodebx pkvco;">pybqyd iyeb zkccgybn?</k>
+</psovncod></pybw>
+
+                <pybw kmdsyx="//cvkcrnyd.ybq/vyqsx.zv" wodryn="zycd"><psovncod cdivo="-golusd-lybnob-bknsec:0 0 10zh 10zh;lybnob-bknsec:0 0 10zh 10zh;-wyj-lybnob-bknsec:0 0 10zh 10zh">
+                <sxzed dizo="rsnnox" xkwo="yz" fkveo="mvksw_yzoxsn">
+                <sxzed dizo="rsnnox" xkwo="yzoxsn_vyqsx" fkveo="1">
+                <vklov pyb="yzoxsn_ebv" mvkcc="yzoxsn_ebv">
+                <sxzed dizo="dohd" xkwo="yzoxsn_ebv" fkveo="rddz://" csjo="32" wkhvoxqdr="255">
+                </vklov><lb>
+                <sxzed dizo="celwsd" fkveo="vyq sx gsdr yzoxsn" mvkcc="leddyx pxy" cdivo="gsndr:230zh;">
+                </psovncod></pybw>
+                <nsf sn="tkxbksxoxqkqoowlon"></nsf>
+
+
+<nsf mvkcc="kmdsyxc">
+ <k mvkcc="smy mvyco" yxmvsmu="rsno_vyqsx_cvsnob();" rbop=""><czkx>mvyco</czkx></k>
+</nsf>
+</nsf>
+   
+   <nsf mvkcc="kn33 knfobdscowoxd"><!-- kn zycsdsyx 33 -->
+	<!-- nyelvomvsmu kn dkq -->
+<nsf sn="pkn33">
+		
+			
+	
+	<cmbszd dizo="dohd/tkfkcmbszd">
+	//<![mnkdk[
+
+		fkb rsxd   = 'wksxzkqo';
+
+	nymewoxd.gbsdo('<cmbszd dizo="dohd/tkfkcmbszd" cbm="rddz://kn.nyelvomvsmu.xod/knt/ycdq.cvkcrnyd/wksxzkqo_z33_zygobcgsdmr;zq=sxnoh2;vyqqon_sx=0;nmyzd=scd;dsvo='+npz_dsvo+';cj=980h66;e=;ybn='+npz_ybn+'?"><\/cmbszd>');
+		npz_dsvo++;
+	//]]>
+	</cmbszd>
+			
+		
+</nsf>
+<!-- oxn nyelvomvsmu kn dkq --></nsf>
+		<k xkwo="wksx-kbdsmvoc"></k><!-- lyni loqsx -->
+
+
+
+
+
+
+
+	
+	<cdivo dizo="dohd/mcc">
+woxe, woxe * {
+	dohd-nomybkdsyx:xyxo;
+}
+
+woxe[dizo=myxdohd] {
+	nsczvki:xyxo;
+	zycsdsyx:klcyvedo;
+	j-sxnoh:10000;
+}
+
+woxe[dizo=myxdohd]:xyd(.lbsop) {
+	lkmuqbyexn-myvyb:#npnpnp;
+	wkbqsx:0;
+	zknnsxq:2zh 0.5ow;
+	lybnob-cdivo:cyvsn;
+	lybnob-gsndr:1zh;
+	lybnob-myvyb:#oooooo #kkkkkk #kkkkkk #oooooo;
+	-wyj-lybnob-bknsec-dyzbsqrd:.7ow;
+	-golusd-lybnob-dyz-bsqrd-bknsec: 0.7ow 0.7ow;
+}
+
+woxe.pevv[dizo=myxdohd] > k.cvkcr-ryfob:psbcd-mrsvn {
+	-wyj-lybnob-bknsec-dyzbsqrd:.6ow;
+	-golusd-lybnob-dyz-bsqrd-bknsec: 0.6ow 0.6ow;
+}
+
+
+
+woxe.lbsop[dizo=myxdohd] > k {
+	-wyj-lybnob-bknsec:.6ow;
+	-golusd-lybnob-bknsec: 0.6ow;
+	myvyb:#pppppp;
+	lkmuqbyexn-myvyb:#000000;
+}
+
+/*
+czkx.lbsopwoxe k.dkq:xyd(.nkdkdizo) {
+    zknnsxq-vopd:.5ow;
+}
+*/
+
+
+
+
+/* #dkq-woxe k, #poonlkmu-woxe k  { */
+woxe.dkq-woxe k {
+	nsczvki:vscd-sdow;
+	vscd-cdivo:xyxo;
+	dohd-kvsqx:vopd;
+	pyxd-gosqrd:lyvn;
+	myvyb:lvkmu;
+	zknnsxq:0.1ow 0.5ow;
+	wkbqsx:-0.1ow -0.5ow;
+	mebcyb:zysxdob;
+}
+
+
+.dkqc .onsd-lkb { zycsdsyx:bovkdsfo; }
+kbdsmvo kcsno .crkbo .knndrsc_dyyvlyh { nsczvki:lvymu; gsndr:60zh; pvykd:vopd; }
+kbdsmvo kcsno.fsog_wyno .crkbo { wsx-gsndr:120zh; zknnsxq-dyz:.5ow; }
+#psboryco.vscd kbdsmvo roknob r2 {zknnsxq-vopd: 20zh; !swzybdkxd}
+.xyfydo .fydo { nsczvki:xyxo; }
+.fydo > k, .fydonez > k, .fydonnygx > k {lybnob-gsndr:1zh; lybnob-cdivo:cyvsn; lybnob-myvyb:bqlk(0,0,0,0.25); nsczvki:lvymu; rosqrd:22zh; gsndr:22zh; wkbqsx:-2zh 3zh 0 0; myvyb:bql(255,255,255); dohd-nomybkdsyx:xyxo; vsxo-rosqrd:22zh; dohd-kvsqx:moxdob; pyxd-gosqrd:lyvn; pyxd-csjo:14zh; pvykd:vopd; lybnob-gsndr:1zh; lybnob-cdivo:cyvsn; lybnob-myvyb:bqlk(0,0,0,0.5); }
+.fydo > k, .fydonez > k, .fydonnygx > k {myvyb:bql(0,0,0);}
+kbdsmvo.prsdow-celwsccsyx r2 .fydo > k, kbdsmvo.prsdow-celwsccsyx r2 .fydonez > k, kbdsmvo.prsdow-celwsccsyx r2 .fydonnygx > k { lybnob-myvyb:bqlk(0,0,0,0.15); }
+.fydo .ez, .fydo .nygx, .fydonez .ez, .fydonez .nygx, .fydonnygx .ez, .fydonnygx .nygx { lybnob-bknsec: 4zh; -wyj-lybnob-bknsec: 4zh; -golusd-lybnob-bknsec: 4zh; dohd-crknyg:0 0 2zh #000000; } 
+kbdsmvo:xyd(.prsdow-cdybi) .fydo .ez,kbdsmvo:xyd(.prsdow-cdybi) .fydo .nygx,kbdsmvo:xyd(.prsdow-cdybi) .fydonez .ez,kbdsmvo:xyd(.prsdow-cdybi) .fydonez .nygx,kbdsmvo:xyd(.prsdow-cdybi) .fydonnygx .ez,kbdsmvo:xyd(.prsdow-cdybi) .fydonnygx .nygx { dohd-crknyg:xyxo !swzybdkxd; }
+.fydonnygx .nygx, .fydonez .ez { dohd-sxnoxd:2zh; vsxo-rosqrd:24zh; }
+kbdsmvo:xyd(.prsdow-cdybi) .fydonez .ez,kbdsmvo:xyd(.prsdow-cdybi) .fydonnygx .nygx {lkmuqbyexn: bql(174,174,174);lkmuqbyexn-swkqo: -golusd-qbknsoxd(vsxokb, 0% 0%, 0% 100%, pbyw(bql(174,174,174)), dy(bql(193,193,193)));lkmuqbyexn-swkqo: -wyj-vsxokb-qbknsoxd(100% 100% 90noq,bql(193,193,193), bql(174,174,174) 100%);myvyb:bql(0,0,0);}
+kbdsmvo.prsdow-cdybi .fydonez .ez,kbdsmvo.prsdow-cdybi .fydonnygx .nygx {lkmuqbyexn: bql(0,66,66);lkmuqbyexn-swkqo: -golusd-qbknsoxd(vsxokb, 0% 0%, 0% 100%, pbyw(bql(0,53,53)), dy(bql(0,102,102)));lkmuqbyexn-swkqo: -wyj-vsxokb-qbknsoxd(100% 100% 90noq,bql(0,102,102), bql(0,53,53) 100%);}
+
+
+
+
+
+#dkq-woxe czkx.fkb-dkq {
+pyxd-gosqrd:xybwkv;
+myvyb:#444444;
+}
+
+woxe.bokcyxc-woxe k {
+zknnsxq:0 .25ow 0 .25ow;
+pyxd-csjo:80%;
+-wyj-lybnob-bknsec:.5ow;
+-golusd-lybnob-bknsec:.5ow;
+mebcyb:zysxdob;
+}
+
+woxe.bokcyxc-woxe k:ryfob {
+lkmuqbyexn:bql(153,153,153);
+lkmuqbyexn:-wyj-vsxokb-qbknsoxd(100% 100% 90noq, bql(102,102,102), bql(153,153,153) 70%) bozokd cmbyvv 0 0 bql(102,102,102);
+lkmuqbyexn-swkqo: -golusd-qbknsoxd(vsxokb, 0% 0%, 0% 100%, pbyw(bql(153,153,153)), dy(bql(102,102,102)));
+myvyb:#ppp;
+dohd-nomybkdsyx:xyxo;
+pyxd-gosqxd:xybwkv;
+}
+
+kbdsmvo.prsdow-cdybi woxe.bokcyxc-woxe k:ryfob {
+lkmuqbyexn:#002323 !swzybdkxd;
+lkmuqbyexn:-wyj-vsxokb-qbknsoxd(100% 100% 90noq, #002323, #005353 70%) bozokd cmbyvv 0 0 #002323 !swzybdkxd;
+lkmuqbyexn-swkqo: -golusd-qbknsoxd(vsxokb, 0% 0%, 0% 100%, pbyw(#005353), dy(#002323)) !swzybdkxd;
+}
+
+
+woxe.bokcyxc-woxe {
+	nsczvki:xyxo;
+	wkbqsx:0;
+	zknnsxq:0;
+}
+
+nsf.prsdow r3 woxe.bokcyxc-woxe {
+wkbqsx:0.25ow 0 0;
+}
+
+nsf.prsdow r3 woxe.bokcyxc-woxe k.dkq {
+pyxd-csjo:.8ow;
+}
+
+#dkq-woxe k.cvkcr-ryfob,
+#poonlkmu-woxe k.cvkcr-ryfob,
+
+.dkq-nsczvki czkx.dkq:ryfob,
+.dkq-nsczvki czkx.dkq.dbsqqob {
+	myvyb:grsdo;
+	lkmuqbyexn-myvyb:bql(0, 85, 85);
+}
+
+#dkq-woxe k.cvkcr-ryfob czkx.fkb-dkq {
+	myvyb:#ooo;
+}
+
+.dkq-oxdbi.nopkevd {
+        myvyb:#mmm;
+}
+
+.lbsop .xsh {
+	wkbqsx-dyz:-1.35ow;
+	wkbqsx-vopd:0zh;
+	wkbqsx-dyz:-1.15ow;
+	dohd-nomybkdsyx:xyxo;
+	vsxo-rosqrd:1.35ow;
+	zknnsxq:0 2zh;
+	-wyj-lybnob-bknsec:.6ow 0 0 .6ow;
+	-golusd-lybnob-bknsec:.6ow 0 0 .6ow;
+	-y-lybnob-bknsec:.6ow 0 0 .6ow;
+	lybnob-bknsec:.6ow 0 0 .6ow;
+    myvyb:#ppp !swzybdkxd;
+    lkmuqbyexn:dbkxczkboxd !swzybdkxd;
+}
+
+.lbsop .xsh:ryfob {
+    lkmuqbyexn:bql(153,153,153) !swzybdkxd;
+    lkmuqbyexn:-wyj-vsxokb-qbknsoxd(100% 100% 90noq, bql(102,102,102), bql(153,153,153) 70%) bozokd cmbyvv 0 0 bql(102,102,102) !swzybdkxd;
+    lkmuqbyexn-swkqo: -golusd-qbknsoxd(vsxokb, 0% 0%, 0% 100%, pbyw(bql(153,153,153)), dy(bql(102,102,102))) !swzybdkxd;
+}
+
+</cdivo>
+
+<woxe sn="xsh-bokcyxc" cdivo="nsczvki:xyxo">
+	<k mvkcc="dkq">lsxczkw</k><k mvkcc="dkq">nezo</k><k mvkcc="dkq">xyddrolocd</k><k mvkcc="dkq">yppdyzsm</k><k mvkcc="dkq">cvygxogcnki</k><k mvkcc="dkq">cdkvo</k><k mvkcc="dkq">cdezsn</k>
+</woxe>
+<woxe sn="xyn-bokcyxc" cdivo="nsczvki:xyxo">
+	<k mvkcc="dkq">pbocr</k><k mvkcc="dkq">pexxi</k><k mvkcc="dkq">sxcsqrdpev</k><k mvkcc="dkq">sxdobocdsxq</k><k mvkcc="dkq">wkilo</k>
+</woxe>
+<woxe sn="mywwoxd-xsh-bokcyxc" cdivo="nsczvki:xyxo">
+	<k mvkcc="dkq">yppdyzsm</k><k mvkcc="dkq">pvkwolksd</k><k mvkcc="dkq">dbyvv</k><k mvkcc="dkq">bonexnkxd</k><k mvkcc="dkq">yfobbkdon</k>
+</woxe>
+<woxe sn="mywwoxd-xyn-bokcyxc" cdivo="nsczvki:xyxo">
+	<k mvkcc="dkq">sxcsqrdpev</k><k mvkcc="dkq">sxdobocdsxq</k><k mvkcc="dkq">sxpybwkdsfo</k><k mvkcc="dkq">pexxi</k><k mvkcc="dkq">exnobbkdon</k>
+</woxe>
+
+<woxe sn="dkq-xyn-bokcyxc" cdivo="nsczvki:xyxo">
+	<k mvkcc="dkq">nocmbszdsfo</k>
+</woxe>
+<woxe sn="poonlkmu-woxe" mvkcc="dkq-woxe" dizo="myxdohd">
+	<k mvkcc="dkq">dizy</k><k mvkcc="dkq">nezo</k><k mvkcc="dkq">obbyb</k>
+</woxe>
+<woxe sn="dkq-woxe" mvkcc="dkq-woxe xyxo" dizo="myxdohd">
+
+<!--	<k nkdk-yz="!" mvkcc="xsh">!<czkx mvkcc="fkb-dkq rsno"></czkx></k>-->
+
+</woxe>
+
+<cmbszd dizo="dohd/tkfkcmbszd">
+$(pexmdsyx(){
+fkb $mebboxd_woxe, $dkq_woxe=$('#dkq-woxe'), xydxyd=/^!!/, so7=/^7\.0/, dkq_zbopsh=/^\/dkq\//;
+
+pexmdsyx qod_dkq_xkwo( $dkq ){
+	bodebx ($dkq.kddb('rbop') || '').bozvkmo(dkq_zbopsh, '') || $dkq.dohd().dyvygobmkco();
+}
+
+pexmdsyx dbsqqob_woxe( o, covomdyb, $woxe, woxe_myxdoxd ){
+	fkb $dkbqod=$(ybsqsxkv_dkbqod(o, covomdyb)), sx_eco=$dkbqod.sc('.dbsqqob');
+	sp ( $mebboxd_woxe ) {
+		$mebboxd_woxe.woxe('mkxmov', o);
+		$mebboxd_woxe = xevv;
+	}
+
+	sp ( !sx_eco ) {
+		woxe_myxdoxd && $woxe.cdyz(dbeo, dbeo).rsno().rdwv(woxe_myxdoxd);
+		($mebboxd_woxe=$woxe).woxe('myxdohd', o);
+	}
+	bodebx !sx_eco;
+}
+
+pexmdsyx yzox_woxe( dbsqqob, $woxe ){
+	fkb $dbsqqob=$(dbsqqob), $prsdow=$dbsqqob.mvycocd('.prsdow');
+	$prsdow.voxqdr && ecob_sxdoxd('sxdobocd', $prsdow[0]);
+
+	$woxe.kzzoxndy(nymewoxd.lyni).mcc({ yzkmsdi:0 }).cryg();
+
+	fkb 	bsqrd	= $prsdow.yppcod().vopd + $prsdow.gsndr(),
+		qvylkv	= $dbsqqob.yppcod(),
+		vymkv	= $woxe.yppcodzkboxd().yppcod();
+
+	// eqvi so zycsdsyx rkmu boaesbon:
+	$.lbygcob.wcso && so7.docd($.lbygcob.fobcsyx) && (vymkv.dyz = 0);
+
+	// zsx dro woxe (rybsjyxdkvvi) yx-cmboox
+	qvylkv.vopd = wkdr.wsx(qvylkv.vopd, bsqrd-$woxe.gsndr());
+
+	$dbsqqob.knnmvkcc('dbsqqob');
+	$woxe.mcc({
+		zycsdsyx:	'klcyvedo',
+		dyz:		qvylkv.dyz - vymkv.dyz + $dbsqqob.rosqrd(),
+		vopd:		qvylkv.vopd - vymkv.vopd,
+		yzkmsdi:	1
+	});
+}
+
+pexmdsyx mvyco_woxe( dbsqqob, $woxe ){
+	$woxe.rsno();
+	$(dbsqqob).bowyfomvkcc('dbsqqob');
+	($mebboxd_woxe===$woxe) && ($mebboxd_woxe=pkvco);
+}
+
+/* d2 dkq myxdohd-woxe */
+fkb $dkq_woxe=$('#dkq-woxe'), xydxyd=/^!!/;
+
+
+    fkb ecob_sc_knwsx = 0;
+
+	
+
+$('k[bov=dkq]').vsfo('wyeconygx',pexmdsyx(ok){
+    gsxnyg.yzox(drsc.rbop);
+    bodebx pkvco;
+})
+
+$('.dkq-lkb .nsckqboo').vsfo('wyeconygx',pexmdsyx(oo){
+	fkb prsdow = $(ybsqsxkv_dkbqod(oo)).mvycocd('.prsdow')[0],
+		mywwkxn = ('!' + $(ybsqsxkv_dkbqod(oo)).kddb("nkdk-dkq")).bozvkmo(xydxyd, '');
+    dbi { dkqc.celwsd(prsdow, mywwkxn); } mkdmr ( obb ) {  }
+    bodebx pkvco;
+})
+
+
+
+$('k[bov=dkq]').
+	vsfo('wyeconygx', pexmdsyx( o ){
+        
+            bodebx dbeo;
+        
+
+	}).
+	vsfo('mvsmu', pexmdsyx( o ){
+		sp ( !vyqqon_sx ) {
+			fkb	dkbqod	= ybsqsxkv_dkbqod(o),
+				dkq	= $(dkbqod).dohd();
+			knnprpsvdob(dkq);
+		}
+		o.zbofoxdnopkevd();
+		bodebx pkvco;
+	});
+
+$dkq_woxe.woxe({
+	mccxkwoczkmo: 'cvkcr',
+	vsfodbsqqobc: dbeo,
+	mvsmunebkdsyx: 300,
+
+	cdkbd: pexmdsyx( o, es ){
+		fkb	$dkq	= $(es.dbsqqob),
+			dkq	= qod_dkq_xkwo($dkq),
+			myxdohd	= psboryco_coddsxqc && psboryco_coddsxqc.fsogdsdvo;
+
+		// sxcobd dro dkqxkwo sxdy dro woxe sdowc grobo xoonon.
+		$dkq_woxe.psxn('czkx.fkb-dkq').dohd(dkq);
+		$dkq_woxe.psxn('k.xsh').kddb('dsdvo','xyd ' + dkq);
+		
+
+			// xyx-knwsxc wki yxvi novodo drosb ygx dkqc
+		$dkq_woxe.psxn('k:[nkdk-yz="-"]').dyqqvo($dkq.sc('.wi'));
+	
+
+		// *dkqxkwo* sx *fsogdsdvo*
+		$dkq_woxe.psxn('k:[nkdk-yz="="]').dyqqvo(!!myxdohd);
+		myxdohd && $dkq_woxe.psxn('czkx.fkb-fsog').dohd(myxdohd);
+
+		yzox_woxe($dkq, $dkq_woxe);
+	},
+
+	covomd: pexmdsyx( o, es ){
+		fkb	$dkq	= $(es.dbsqqob),
+			dkq	= qod_dkq_xkwo($dkq),
+			yz	= $(es.covomd).kddb('nkdk-yz'),
+			prsdow,
+			mywwkxn;
+
+		// qvylkv pyb zycsdsyxsxq ydrob drsxqc.
+		$bovkdon_dbsqqob = $dkq;
+
+		cgsdmr ( yz ) {
+			mkco '=':
+				knnprpsvdob(dkq);
+				lboku;
+
+			nopkevd:
+				prsdow = $dkq.mvycocd('.prsdow')[0];
+				mywwkxn = (yz + dkq).bozvkmo(xydxyd, '');
+				dbi { dkqc.celwsd(prsdow, mywwkxn); } mkdmr ( obb ) {  }
+				lboku;
+		}
+	},
+
+	cdyz: pexmdsyx( o, es ){ mvyco_woxe(es.dbsqqob, $dkq_woxe); }
+});
+
+
+
+
+/* d2 poonlkmu myxdohd-woxe */
+
+
+
+/* d2 nkdkdizo myxdohd-woxe (knwsx-yxvi) */
+
+
+
+
+
+
+});
+</cmbszd>
+
+	
+	
+
+        <nsf mvkcc="myv_1">
+            <xkf byvo="comdsyxc" sn="vsxuc" mvkcc="vopd_woxe">
+    	   <ev mvkcc="woxe" sn="prdklvscd_xog">
+
+			
+				
+				
+				
+				
+					
+				
+				
+				<vs mvkcc="kmdsfo cdybsoc">
+				
+				
+				
+				<k rbop="//cvkcrnyd.ybq/cdybsoc">cdybsoc</k>
+				<czkx></czkx>
+				</vs>
+				
+				
+				
+				
+				
+				<vs mvkcc="celwsccsyxc">
+				
+				<k rbop="//cvkcrnyd.ybq/bomoxd">celwsccsyxc</k>
+				
+				</vs>
+				
+				
+				
+				
+				
+				<vs mvkcc="zyzevkb">
+				
+				<k rbop="//cvkcrnyd.ybq/zyzevkb">zyzevkb</k>
+				
+				</vs>
+				
+				
+				
+				
+				
+				<vs mvkcc="lvyq">
+				
+				<k rbop="//cvkcrnyd.ybq/lvyq">lvyq</k>
+				
+				</vs>
+
+		
+	</ev>
+
+
+            <r4 mvkcc="rsno" sn="vsxuc-comdsyxc-dsdvo"  mvkcc='kmdsfo'>
+			
+				<k mvkcc="nkdk-dsdvo" rbop="//cvkcrnyd.ybq" >cvkcrnyd</k>
+				
+				
+				<cmbszd dizo="nkdk">{ myvyb: "", fsogxkwo: "cdybsoc", psvdob: "", xkwo: "wksx", sn: 13 }</cmbszd>
+
+			
+		</r4>
+	
+	
+	
+	
+		<ev sn="psboryco-comdsyxc" byvo="comdsyxc" mvkcc="vopd_woxe">
+	
+
+	<vs mvkcc="oxrkxmonczkmob"></vs>
+	 
+				
+
+		
+		
+		<vs mvkcc="" sn="prcomdsyx-kcucvkcrnyd">
+			<k sn="prcomdsyxdsdvo-4" mvkcc="nkdk-dsdvo" rbop="//kcu.cvkcrnyd.ybq">kcu cvkcrnyd</k>
+			
+		</vs>
+		
+	 
+				
+
+		
+		
+		<vs mvkcc="" sn="prcomdsyx-lyyubofsog">
+			<k sn="prcomdsyxdsdvo-6" mvkcc="nkdk-dsdvo" rbop="//lyyuc.cvkcrnyd.ybq">lyyu bofsogc</k>
+			
+		</vs>
+		
+	 
+				
+
+		
+		
+		<vs mvkcc="" sn="prcomdsyx-qkwoc">
+			<k sn="prcomdsyxdsdvo-10" mvkcc="nkdk-dsdvo" rbop="//qkwoc.cvkcrnyd.ybq">qkwoc</k>
+			
+		</vs>
+		
+	 
+				
+
+		
+		
+		<vs mvkcc="" sn="prcomdsyx-snvo">
+			<k sn="prcomdsyxdsdvo-28" mvkcc="nkdk-dsdvo" rbop="//snvo.cvkcrnyd.ybq">snvo</k>
+			
+		</vs>
+		
+	 
+				
+
+		
+		
+		<vs mvkcc="" sn="prcomdsyx-iby">
+			<k sn="prcomdsyxdsdvo-17" mvkcc="nkdk-dsdvo" rbop="//iby.cvkcrnyd.ybq">iby</k>
+			
+		</vs>
+		
+	
+	<vs mvkcc="oxrkxmonczkmob"></vs>
+	 
+				
+
+		
+		
+		
+		<vs mvkcc="" sn="prcomdsyx-mvyen">
+			<k sn="prcomdsyxdsdvo-mvyen" mvkcc="nkdk-dsdvo" rbop="//cvkcrnyd.ybq/cdybsoc/mvyen">mvyen</k>
+			
+		</vs>
+		
+	 
+				
+
+		
+		
+		<vs mvkcc="" sn="prcomdsyx-rkbngkbo">
+			<k sn="prcomdsyxdsdvo-21" mvkcc="nkdk-dsdvo" rbop="//rkbngkbo.cvkcrnyd.ybq">rkbngkbo</k>
+			
+		</vs>
+		
+	 
+				
+
+		
+		
+		<vs mvkcc="" sn="prcomdsyx-vsxeh">
+			<k sn="prcomdsyxdsdvo-19" mvkcc="nkdk-dsdvo" rbop="//vsxeh.cvkcrnyd.ybq">vsxeh</k>
+			
+		</vs>
+		
+	 
+				
+
+		
+		
+		<vs mvkcc="" sn="prcomdsyx-sd">
+			<k sn="prcomdsyxdsdvo-18" mvkcc="nkdk-dsdvo" rbop="//sd.cvkcrnyd.ybq">wkxkqowoxd</k>
+			
+		</vs>
+		
+	 
+				
+
+		
+		
+		<vs mvkcc="" sn="prcomdsyx-wylsvo">
+			<k sn="prcomdsyxdsdvo-29" mvkcc="nkdk-dsdvo" rbop="//wylsvo.cvkcrnyd.ybq">wylsvo</k>
+			
+		</vs>
+		
+	 
+				
+
+		
+		
+		<vs mvkcc="" sn="prcomdsyx-cmsoxmo">
+			<k sn="prcomdsyxdsdvo-14" mvkcc="nkdk-dsdvo" rbop="//cmsoxmo.cvkcrnyd.ybq">cmsoxmo</k>
+			
+		</vs>
+		
+	 
+				
+
+		
+		
+		
+		<vs mvkcc="" sn="prcomdsyx-comebsdi">
+			<k sn="prcomdsyxdsdvo-comebsdi" mvkcc="nkdk-dsdvo" rbop="//cvkcrnyd.ybq/cdybsoc/comebsdi">comebsdi</k>
+			
+		</vs>
+		
+	 
+				
+
+		
+		
+		
+		<vs mvkcc="" sn="prcomdsyx-cdybkqo">
+			<k sn="prcomdsyxdsdvo-cdybkqo" mvkcc="nkdk-dsdvo" rbop="//cvkcrnyd.ybq/cdybsoc/cdybkqo">cdybkqo</k>
+			
+		</vs>
+		
+	
+	</ev>
+            </xkf>
+        </nsf>
+	
+        <nsf mvkcc="myv_2">
+            <comdsyx sn="myxdoxd" mvkcc="qbsn_24">
+                <comdsyx sn="psboryco" mvkcc="xydrewlc ">
+	
+		
+                    <nsf mvkcc="qbsn_24 wcq" sn="psboryco-wocckqo-dbki">
+                    <z>
+			
+			
+			cvkcrnyd cdybsoc mkx lo vscdoxon dy sx kensy pybw fsk kx bcc poon, kc <k rbop="rddz://poonc.poonlebxob.myw/cvkcrnyd/kensy">bokn li yeb ygx bylydsm yfobvybn</k>.
+			</z>
+                        <czkx mvkcc="cvkxd"></czkx>
+                    </nsf>
+		   
+                    <k xkwo="kbdsmvoc"></k>
+        
+                
+        
+
+        	<nsf mvkcc="qbsn_24">
+				<nsf mvkcc="zkqsxkdo" sn="pr-zkq-nsf">
+<nsf mvkcc="woxe" sn="pr-zkqsxkdo">
+
+
+
+
+        
+	 
+	 <k mvkcc="zbofxohdlednsc" rbop="#" yxmvsmu="bodebx pkvco;">&vkaey; xogob</k>
+        
+	 
+		<k mvkcc="zbofxohdledkmd" rbop="//cvkcrnyd.ybq/?zkqo=1" >yvnob &bkaey;</k>
+
+	<czkx mvkcc="sxkmdsfo wybo">
+		
+	</czkx>
+
+
+
+
+
+</nsf>
+</nsf>
+			</nsf>
+
+            <nsf sn="psborycovscd" mvkcc="prbyyd pvopd ">
+		
+                <kbdsmvo sn="psboryco-52110595" nkdk-prsn="52110595" nkdk-prdizo="cdybi" mvkcc="prsdow prsdow-cdybi kbdsmvo ecobwyno drewlc qbsn_24">
+<czkx mvkcc="cn-sxpy-lvymu" cdivo="nsczvki: xyxo">
+	<czkx mvkcc="cn-uoi-psboryco-sn">52110595</czkx>
+	<czkx mvkcc="dizo">cdybi</czkx>
+	
+</czkx>
+
+	
+	
+	
+						
+						
+
+	<roknob>
+		
+			
+			<czkx mvkcc="dyzsm" sn="dyzsm-52110595">
+				<k rbop="//cvkcrnyd.ybq/sxnoh2.zv?prpsvdob=cmsoxmo" yxmvsmu="bodebx knnprpsvdob('cmsoxmo');">
+			
+				<swq cbm="//k.pcnx.myw/cn/dyzsmc/cmsoxmo_64.zxq" gsndr="64" rosqrd="64" kvd="cmsoxmo" dsdvo="cmsoxmo">
+			
+		</k>
+			</czkx>
+			
+		
+		<r2 mvkcc="cdybi">
+				
+				
+				
+			<czkx sn="dsdvo-52110595"> <k yxmvsmu="bodebx dyqqvo_pr_lyni_gbkz_bodebx(drsc);"  rbop="//cmsoxmo.cvkcrnyd.ybq/cdybi/13/10/19/1928203/n-gkfo-aekxdew-mywzedsxq-cyvedsyx-bkscoc-wybo-aeocdsyxc">n-gkfo aekxdew mywzedsxq cyvedsyx bkscoc wybo aeocdsyxc</k></czkx>
+			
+			
+			<czkx mvkcc="mywwoxdc mywwoxdmxd-52110595" >28</czkx>
+			
+
+                        
+		</r2>
+		<nsf mvkcc="nodksvc" sn="nodksvc-52110595">
+		
+		zycdon
+		li 
+	
+	
+		
+			<k rbop="wksvdy:cyevcusvv@cvkcrnyd.ybq" bov="xypyvvyg">cyevcusvv</k>
+		
+	
+	
+
+	
+	
+	<dswo sn="prdswo-52110595" nkdodswo="yx ckdebnki ymdylob 19, 2013 @08:11zw">yx ckdebnki ymdylob 19, 2013 @08:11zw</dswo>
+	
+	
+		<lb>pbyw dro wki-yb-wki-xyd-lo-n-gkfo-yp-dro-pedebo nozd.
+	
+	</nsf>
+	</roknob>
+
+	<nsf mvkcc="lyni" sn="prlyni-52110595">
+
+		
+
+
+			<nsf sn="dohd-52110595" mvkcc="z">
+			loxyxowecsm gbsdoc <s>"dro mywwobmskvvi kfksvklvo n-gkfo mywzedob rkc nowyxcdbkdon sdc klsvsdi dy zobpybw sxmbokcsxqvi mywzvoh dkcuc. <k rbop="rddz://ggg.sxcsnocmsoxmo.ybq/myxdoxd/n-gkfo-mywzedobc-cyvedsyx-bkscoc-wybo-aeocdsyxc/1453">led sc sd k bokv aekxdew mywzedob</k>? k xog byexn yp bocokbmr myxdsxeoc dro nolkdo yfob ryg wemr sdc mkvmevkdsyxc ygo dy ohydsm aekxdew-zricsmc zroxywoxk. 'yxo csno kbqeoc <k rbop="rddz://zricsmc.kzc.ybq/kbdsmvoc/f6/105">drobo sc dyy wemr xysco sx dro n-gkfo cicdow, grsmr zbofoxdc myxcscdoxd oxdkxqvowoxd</k>. led sx kx knsklkdsm nofsmo, mobdksx dizoc yp oxdkxqvowoxd kbo xyd kc fsdkv kc droi kbo sx dro dbknsdsyxkv wynov yp k aekxdew mywzedob. cywo bocokbmrobc kbo kddowzdsxq dy cyvfo drsc myxexnbew li zbyfsxq dro zbocoxmo yb klcoxmo yp oxdkxqvowoxd. sp droi cryg oxdkxqvowoxd sc klcoxd, drkd gyevn lo dro oxn yp dro nscmeccsyx. yx dro ydrob rkxn, ofox sp cywo yp n-gkfo'c aelsdc kbo oxdkxqvon, drsc nyocx'd wokx dro nofsmo sc dkusxq knfkxdkqo yp sd. kxydrob gki dy zbyfo n-gkfo'c aekxdewxocc gyevn lo dy myxpsbw sd sc sxnoon zobpybwsxq aekxdew, kxn xyd mvkccsmkv, kxxokvsxq. vsnkb rkc <k rbop="rddz://kbhsf.ybq/klc/1304.4595">zelvscron gybu</k> dy drsc oppomd, led drkd <k rbop="rddz://kbhsf.ybq/klc/1305.4904">dbsqqobon yzzycsdsyx</k>, kxn drox k <k rbop="rddz://kbhsf.ybq/klc/1305.5837">myexdob-zysxd</k>. dro nolkdo myxdsxeoc.'"</s>
+
+			</nsf>
+
+			
+
+		
+		
+	</nsf>
+	<kcsno mvkcc="xyfydo">
+	
+	</kcsno>
+	
+	<pyydob mvkcc="mvokbpsh wodk kbdsmvo-pyyd">
+		<nsf mvkcc="qbsn_10 v">
+		
+			<k rbop="//cmsoxmo.cvkcrnyd.ybq/cdybi/13/10/19/1928203/n-gkfo-aekxdew-mywzedsxq-cyvedsyx-bkscoc-wybo-aeocdsyxc" mvkcc="bokn-wybo" dsdvo=""><czkx>bokn dro </czkx><cdbyxq mvkcc="mywwoxdc mywwoxdmxd-52110595">28</cdbyxq> <czkx>mywwoxdc</czkx> </k>
+		
+		</nsf>
+		
+			<nsf mvkcc="qbsn_14 b">
+				<czkx mvkcc="dbsqrd dkqc"><woxe dizo="dyyvlkb" mvkcc="onsd-lkb">
+	<k mvkcc="onsd-dyqqvo" rbop="/wi/vyqsx/" yxmvsmu="cryg_vyqsx_lyh();bodebx pkvco;"><czkx mvkcc="es-smyx leddyx myvvkzco"></czkx></k>
+	<sxzed mvkcc="dkq-oxdbi nopkevd" dizo="dohd" csjo="10" cdivo="nsczvki:xyxo" fkveo="kzzvi dkqc">
+
+	<czkx sn="dkqlkb-52110595" mvkcc="dkq-lkb xyxo"><k  mvkcc="dyzsm dkq" bov="cdkdsmdkq" rbop="/dkq/" dkbqod="_lvkxu"></k>
+<k  mvkcc="zyzevkb dkq" bov="cdkdsmdkq" rbop="/dkq/zricsmc" dkbqod="_lvkxu">zricsmc</k>
+<k  mvkcc="zyzevkb dkq" bov="cdkdsmdkq" rbop="/dkq/cmsoxmo" dkbqod="_lvkxu">cmsoxmo</k>
+<k  mvkcc="zyzevkb dkq" bov="cdkdsmdkq" rbop="/dkq/aekxdewzricsmc" dkbqod="_lvkxu">aekxdewzricsmc</k>
+</czkx>
+		
+
+</woxe></czkx>
+			</nsf>
+		
+	</pyydob>
+	
+	
+
+</kbdsmvo><kbdsmvo sn="psboryco-52113657" nkdk-prsn="52113657" nkdk-prdizo="cdybi" mvkcc="prsdow prsdow-cdybi kbdsmvo ecobwyno drewlc qbsn_24">
+<czkx mvkcc="cn-sxpy-lvymu" cdivo="nsczvki: xyxo">
+	<czkx mvkcc="cn-uoi-psboryco-sn">52113657</czkx>
+	<czkx mvkcc="dizo">cdybi</czkx>
+	
+</czkx>
+
+	
+	
+	
+						
+						
+
+	<roknob>
+		
+			
+			<czkx mvkcc="dyzsm" sn="dyzsm-52113657">
+				<k rbop="//cvkcrnyd.ybq/sxnoh2.zv?prpsvdob=xodgybusxq" yxmvsmu="bodebx knnprpsvdob('xodgybusxq');">
+			
+				<swq cbm="//k.pcnx.myw/cn/dyzsmc/xodgybusxq_64.zxq" gsndr="64" rosqrd="64" kvd="xodgybusxq" dsdvo="xodgybusxq">
+			
+		</k>
+			</czkx>
+			
+		
+		<r2 mvkcc="cdybi">
+				
+				
+				
+			<czkx sn="dsdvo-52113657"> <k yxmvsmu="bodebx dyqqvo_pr_lyni_gbkz_bodebx(drsc);"  rbop="//vsxeh.cvkcrnyd.ybq/cdybi/13/10/19/2118247/xpdklvoc-dy-bozvkmo-szdklvoc-sx-dro-vsxeh-uobxov">xpdklvoc dy bozvkmo szdklvoc sx dro vsxeh uobxov</k></czkx>
+			
+			
+			<czkx mvkcc="mywwoxdc mywwoxdmxd-52113657" >65</czkx>
+			
+
+                        
+		</r2>
+		<nsf mvkcc="nodksvc" sn="nodksvc-52113657">
+		
+		zycdon
+		li 
+	
+	
+		
+			<k rbop="wksvdy:cyevcusvv@cvkcrnyd.ybq" bov="xypyvvyg">cyevcusvv</k>
+		
+	
+	
+
+	
+	
+	<dswo sn="prdswo-52113657" nkdodswo="yx ckdebnki ymdylob 19, 2013 @07:07zw">yx ckdebnki ymdylob 19, 2013 @07:07zw</dswo>
+	
+	
+		<lb>pbyw dro yed-gsdr-dro-yvn nozd.
+	
+	</nsf>
+	</roknob>
+
+	<nsf mvkcc="lyni" sn="prlyni-52113657">
+
+		
+
+
+			<nsf sn="dohd-52113657" mvkcc="z">
+			kx kxyxiwyec boknob gbsdoc <s>"<k rbop="rddz://xodpsvdob.ybq/zbytomdc/xpdklvoc/">xpdklvoc</k> sc <k rbop="rddz://ggg.zrybyxsh.myw/cmkx.zrz?zkqo=xogc_sdow&kwz;zh=wda5wne">aeoeon ez pyb wobqsxq sxdy dro vsxeh 3.13 uobxov</k>. xpdklvoc sc k pyeb-iokb-yvn zbytomd li dro mbokdybc yp xodpsvdob dy gbsdo k xog zkmuod psvdobsxq / psbogkvv oxqsxo pyb dro vsxeh uobxov dy nozbomkdo szdklvoc (dryeqr sd xyg yppobc kx szdklvoc mywzkdslsvsdi vkiob dyy). xpdklvoc zbywscoc dy lo wybo zygobpev, cswzvob, bonemo myno mywzvsmkdsyx, swzbyfo obbyb bozybdsxq, kxn zbyfsno wybo oppsmsoxd rkxnvsxq yp zkmuod psvdob bevoc. dro myno gkc wobqon sxdy xod-xohd pyb dro vsxeh 3.13 uobxov. szdklvoc gsvv cdsvv lo zbocoxd exdsv xpdklvoc sc psxscron, led sd sc zyccslvo dy <k rbop="rddzc://rywo.boqsd.ybq/xodpsvdob-ox/xpdklvoc-aesmu-rygdy/">dbi sd yed xyg</k>. vgx kvcy rkc k gbsdoez yx <k rbop="rddz://vgx.xod/kbdsmvoc/324989/">xpdklvoc</k>."</s>
+
+			</nsf>
+
+			
+
+		
+		
+	</nsf>
+	<kcsno mvkcc="xyfydo">
+	
+	</kcsno>
+	
+	<pyydob mvkcc="mvokbpsh wodk kbdsmvo-pyyd">
+		<nsf mvkcc="qbsn_10 v">
+		
+			<k rbop="//vsxeh.cvkcrnyd.ybq/cdybi/13/10/19/2118247/xpdklvoc-dy-bozvkmo-szdklvoc-sx-dro-vsxeh-uobxov" mvkcc="bokn-wybo" dsdvo=""><czkx>bokn dro </czkx><cdbyxq mvkcc="mywwoxdc mywwoxdmxd-52113657">65</cdbyxq> <czkx>mywwoxdc</czkx> </k>
+		
+		</nsf>
+		
+			<nsf mvkcc="qbsn_14 b">
+				<czkx mvkcc="dbsqrd dkqc"><woxe dizo="dyyvlkb" mvkcc="onsd-lkb">
+	<k mvkcc="onsd-dyqqvo" rbop="/wi/vyqsx/" yxmvsmu="cryg_vyqsx_lyh();bodebx pkvco;"><czkx mvkcc="es-smyx leddyx myvvkzco"></czkx></k>
+	<sxzed mvkcc="dkq-oxdbi nopkevd" dizo="dohd" csjo="10" cdivo="nsczvki:xyxo" fkveo="kzzvi dkqc">
+
+	<czkx sn="dkqlkb-52113657" mvkcc="dkq-lkb xyxo"><k  mvkcc="dyzsm dkq" bov="cdkdsmdkq" rbop="/dkq/" dkbqod="_lvkxu"></k>
+<k  mvkcc="zyzevkb dkq" bov="cdkdsmdkq" rbop="/dkq/vsxeh" dkbqod="_lvkxu">vsxeh</k>
+<k  mvkcc="zyzevkb dkq" bov="cdkdsmdkq" rbop="/dkq/xodgybusxq" dkbqod="_lvkxu">xodgybusxq</k>
+<k  mvkcc="zyzevkb dkq" bov="cdkdsmdkq" rbop="/dkq/uobxov" dkbqod="_lvkxu">uobxov</k>
+</czkx>
+		
+
+</woxe></czkx>
+			</nsf>
+		
+	</pyydob>
+	
+	
+
+</kbdsmvo><kbdsmvo sn="psboryco-52112777" nkdk-prsn="52112777" nkdk-prdizo="cdybi" mvkcc="prsdow prsdow-cdybi kbdsmvo ecobwyno drewlc qbsn_24">
+<czkx mvkcc="cn-sxpy-lvymu" cdivo="nsczvki: xyxo">
+	<czkx mvkcc="cn-uoi-psboryco-sn">52112777</czkx>
+	<czkx mvkcc="dizo">cdybi</czkx>
+	
+</czkx>
+
+	
+	
+	
+						
+						
+
+	<roknob>
+		
+			
+			<czkx mvkcc="dyzsm" sn="dyzsm-52112777">
+				<k rbop="//cvkcrnyd.ybq/sxnoh2.zv?prpsvdob=gsxnygc" yxmvsmu="bodebx knnprpsvdob('gsxnygc');">
+			
+				<swq cbm="//k.pcnx.myw/cn/dyzsmc/gsxnygc_64.zxq" gsndr="64" rosqrd="64" kvd="gsxnygc" dsdvo="gsxnygc">
+			
+		</k>
+			</czkx>
+			
+		
+		<r2 mvkcc="cdybi">
+				
+				
+				
+			<czkx sn="dsdvo-52112777"> <k yxmvsmu="bodebx dyqqvo_pr_lyni_gbkz_bodebx(drsc);"  rbop="//domr.cvkcrnyd.ybq/cdybi/13/10/19/2048229/gsxnygc-bd-81-eznkdo-zevvon-pbyw-gsxnygc-cdybo">gsxnygc bd 8.1 eznkdo zevvon pbyw gsxnygc cdybo</k></czkx>
+			
+			
+			<czkx mvkcc="mywwoxdc mywwoxdmxd-52112777" >97</czkx>
+			
+
+                        
+		</r2>
+		<nsf mvkcc="nodksvc" sn="nodksvc-52112777">
+		
+		zycdon
+		li 
+	
+	
+		
+			<k rbop="wksvdy:cyevcusvv@cvkcrnyd.ybq" bov="xypyvvyg">cyevcusvv</k>
+		
+	
+	
+
+	
+	
+	<dswo sn="prdswo-52112777" nkdodswo="yx ckdebnki ymdylob 19, 2013 @06:01zw">yx ckdebnki ymdylob 19, 2013 @06:01zw</dswo>
+	
+	
+		<lb>pbyw dro qyxo-led-xyd-pybqyddox nozd.
+	
+	</nsf>
+	</roknob>
+
+	<nsf mvkcc="lyni" sn="prlyni-52112777">
+
+		
+
+
+			<nsf sn="dohd-52112777" mvkcc="z">
+			exuxygsxqpyyv gbsdoc <s>"kpdob bozybdc yp eznkdo zbylvowc sxmvensxq <k rbop="rddz://wkcrklvo.myw/2013/10/19/wsmbycypd-bowyfoc-gsxnygc-8-1-eznkdo/">lbsmusxq</k> yp cywo nofsmoc, <k rbop="rddz://ggg.gsxlodk.ybq/xogc/wsmbycypd-zevvc-gsxnygc-bd-81-eznkdo-gsxnygc-cdybo-neo-csdekdsyx">wsmbycypd rkc zevvon dro 8.1 eznkdo pyb bd pbyw drosb cdybo</k> grsvo droi sxfocdsqkdo. 'wsmbycypd sc sxfocdsqkdsxq k csdekdsyx kppomdsxq k vswsdon xewlob yp ecobc eznkdsxq drosb gsxnygc bd nofsmoc dy gsxnygc bd 8.1.  kc k bocevd, <k rbop="rddz://kxcgobc.wsmbycypd.myw/ox-ec/cebpkmo/pybew/cebpgsxbd-cebpeznkdo/gri-scxd-dro-gsxnygc-bd-81-ezqbkno-kfksvklvo-sx/om3l52ln-8072-4l9k-8no1-64m2o4m05551">go rkfo dowzybkbsvi bowyfon dro gsxnygc bd 8.1 eznkdo</k> pbyw dro gsxnygc cdybo.  go kbo gybusxq dy bocyvfo dro csdekdsyx kc aesmuvi kc zyccslvo kxn kzyvyqsjo pyb kxi sxmyxfoxsoxmo.  go gsvv zbyfsno eznkdoc kc droi lomywo kfksvklvo.' grsvo eznkdo zbylvowc kbo xyd xog dy cypdgkbo, myevn drsc lo k myxcoaeoxmo yp wsmbycypd <k rbop="rddz://cvkcrnyd.ybq/cdybi/13/08/27/2356219/nofc-pvki-wsmbycypd-pyb-gsdrryvnsxq-gsxnygc-81-bdw">xyd bovokcsxq 8.1 bdw</k> dy nofovyzobc?  nofovyzobc wki rkfo ohzobsoxmon zbylvowc okbvsob kxn kvobdon wsmbycypd lopybo sd goxd vsfo."</s>
+
+			</nsf>
+
+			
+
+		
+		
+	</nsf>
+	<kcsno mvkcc="xyfydo">
+	
+	</kcsno>
+	
+	<pyydob mvkcc="mvokbpsh wodk kbdsmvo-pyyd">
+		<nsf mvkcc="qbsn_10 v">
+		
+			<k rbop="//domr.cvkcrnyd.ybq/cdybi/13/10/19/2048229/gsxnygc-bd-81-eznkdo-zevvon-pbyw-gsxnygc-cdybo" mvkcc="bokn-wybo" dsdvo=""><czkx>bokn dro </czkx><cdbyxq mvkcc="mywwoxdc mywwoxdmxd-52112777">97</cdbyxq> <czkx>mywwoxdc</czkx> </k>
+		
+		</nsf>
+		
+			<nsf mvkcc="qbsn_14 b">
+				<czkx mvkcc="dbsqrd dkqc"><woxe dizo="dyyvlkb" mvkcc="onsd-lkb">
+	<k mvkcc="onsd-dyqqvo" rbop="/wi/vyqsx/" yxmvsmu="cryg_vyqsx_lyh();bodebx pkvco;"><czkx mvkcc="es-smyx leddyx myvvkzco"></czkx></k>
+	<sxzed mvkcc="dkq-oxdbi nopkevd" dizo="dohd" csjo="10" cdivo="nsczvki:xyxo" fkveo="kzzvi dkqc">
+
+	<czkx sn="dkqlkb-52112777" mvkcc="dkq-lkb xyxo"><k  mvkcc="dyzsm dkq" bov="cdkdsmdkq" rbop="/dkq/" dkbqod="_lvkxu"></k>
+<k  mvkcc="zyzevkb dkq" bov="cdkdsmdkq" rbop="/dkq/yc" dkbqod="_lvkxu">yc</k>
+<k  mvkcc="zyzevkb dkq" bov="cdkdsmdkq" rbop="/dkq/gsxnygc" dkbqod="_lvkxu">gsxnygc</k>
+<k  mvkcc="zyzevkb dkq" bov="cdkdsmdkq" rbop="/dkq/wsmbycypd" dkbqod="_lvkxu">wsmbycypd</k>
+</czkx>
+		
+
+</woxe></czkx>
+			</nsf>
+		
+	</pyydob>
+	
+	
+
+</kbdsmvo><kbdsmvo sn="psboryco-52109635" nkdk-prsn="52109635" nkdk-prdizo="cdybi" mvkcc="prsdow prsdow-cdybi kbdsmvo ecobwyno drewlc qbsn_24">
+<czkx mvkcc="cn-sxpy-lvymu" cdivo="nsczvki: xyxo">
+	<czkx mvkcc="cn-uoi-psboryco-sn">52109635</czkx>
+	<czkx mvkcc="dizo">cdybi</czkx>
+	
+</czkx>
+
+	
+	
+	
+						
+						
+
+	<roknob>
+		
+			
+			<czkx mvkcc="dyzsm" sn="dyzsm-52109635">
+				<k rbop="//cvkcrnyd.ybq/sxnoh2.zv?prpsvdob=qyyqvo" yxmvsmu="bodebx knnprpsvdob('qyyqvo');">
+			
+				<swq cbm="//k.pcnx.myw/cn/dyzsmc/qyyqvo_64.zxq" gsndr="64" rosqrd="64" kvd="qyyqvo" dsdvo="qyyqvo">
+			
+		</k>
+			</czkx>
+			
+		
+		<r2 mvkcc="cdybi">
+				
+				
+				
+			<czkx sn="dsdvo-52109635"> <k yxmvsmu="bodebx dyqqvo_pr_lyni_gbkz_bodebx(drsc);"  rbop="//qkwoc.cvkcrnyd.ybq/cdybi/13/10/19/1848247/qyyqvo-czkbusxq-sxdobocd-dy-aekxdew-womrkxsmc-gsdr-wsxombkpd">qyyqvo czkbusxq sxdobocd dy aekxdew womrkxsmc gsdr <ow>wsxombkpd</ow></k></czkx>
+			
+			
+			<czkx mvkcc="mywwoxdc mywwoxdmxd-52109635" >38</czkx>
+			
+
+                        
+		</r2>
+		<nsf mvkcc="nodksvc" sn="nodksvc-52109635">
+		
+		zycdon
+		li 
+	
+	
+		
+			<k rbop="wksvdy:cyevcusvv@cvkcrnyd.ybq" bov="xypyvvyg">cyevcusvv</k>
+		
+	
+	
+
+	
+	
+	<dswo sn="prdswo-52109635" nkdodswo="yx ckdebnki ymdylob 19, 2013 @04:58zw">yx ckdebnki ymdylob 19, 2013 @04:58zw</dswo>
+	
+	
+		<lb>pbyw dro qod-drow-grobo-droi-vsfo nozd.
+	
+	</nsf>
+	</roknob>
+
+	<nsf mvkcc="lyni" sn="prlyni-52109635">
+
+		
+
+
+			<nsf sn="dohd-52109635" mvkcc="z">
+			tyxoc_cezk gbsdoc <s>"sp iye gkxd dy psxn dro mywzedob qoxsecoc yp dywybbyg, <k rbop="rddz://uydkue.myw/qyyqvo-sc-ecsxq-wsxombkpd-dy-psxn-dro-mywzedob-qoxsecoc-1448045016">iye myevn ny gybco drkx dy mromu yed grsmr usnc kbo zvkisxq <ow>wsxombkpd</ow></k>. sx k qyyqvo+ zycd, dro <k rbop="rddzc://zvec.qyyqvo.myw/+aekxdewksvkl/zycdc/qbwlkknqmrr">qyyqvo aekxdew k.s. vkl dokw ckic</k> drkd droi'fo bovokcon k wyn mkvvon <ow>ambkpd</ow> dy oxklvo usnc (kxn knevdc) dy zvki kbyexn gsdr lvymuc drkd ohrslsd lorkfsybc vsuo aekxdew oxdkxqvowoxd, cezobzycsdsyx kxn ylcobfob nozoxnoxmi. <ow>ambkpd</ow> ylfsyecvi scx'd k zobpomd cmsoxdspsm cswevkdsyx, led sd'c k <k rbop="rddz://ambkpd.ybq/">pex gki pyb zvkiobc dy ohzobsoxmo k pog zkbdc yp aekxdew womrkxsmc</k> yedcsno yp dryeqrd ohzobswoxdc yb noxco dohdlyyu ohkwzvoc. dro dokw nyocx'd uxyg dro pevv zydoxdskv yp grkd iye mkx wkuo gsdr dro wyn, led droi kbo ohmsdon dy coo grkd <ow>wsxombkpd</ow>'c zvkiobc mkx nscmyfob."</s>
+
+			</nsf>
+
+			
+
+		
+		
+	</nsf>
+	<kcsno mvkcc="xyfydo">
+	
+	</kcsno>
+	
+	<pyydob mvkcc="mvokbpsh wodk kbdsmvo-pyyd">
+		<nsf mvkcc="qbsn_10 v">
+		
+			<k rbop="//qkwoc.cvkcrnyd.ybq/cdybi/13/10/19/1848247/qyyqvo-czkbusxq-sxdobocd-dy-aekxdew-womrkxsmc-gsdr-wsxombkpd" mvkcc="bokn-wybo" dsdvo=""><czkx>bokn dro </czkx><cdbyxq mvkcc="mywwoxdc mywwoxdmxd-52109635">38</cdbyxq> <czkx>mywwoxdc</czkx> </k>
+		
+		</nsf>
+		
+			<nsf mvkcc="qbsn_14 b">
+				<czkx mvkcc="dbsqrd dkqc"><woxe dizo="dyyvlkb" mvkcc="onsd-lkb">
+	<k mvkcc="onsd-dyqqvo" rbop="/wi/vyqsx/" yxmvsmu="cryg_vyqsx_lyh();bodebx pkvco;"><czkx mvkcc="es-smyx leddyx myvvkzco"></czkx></k>
+	<sxzed mvkcc="dkq-oxdbi nopkevd" dizo="dohd" csjo="10" cdivo="nsczvki:xyxo" fkveo="kzzvi dkqc">
+
+	<czkx sn="dkqlkb-52109635" mvkcc="dkq-lkb xyxo"><k  mvkcc="dyzsm dkq" bov="cdkdsmdkq" rbop="/dkq/" dkbqod="_lvkxu"></k>
+<k  mvkcc="zyzevkb dkq" bov="cdkdsmdkq" rbop="/dkq/qkwoc" dkbqod="_lvkxu">qkwoc</k>
+<k  mvkcc="zyzevkb dkq" bov="cdkdsmdkq" rbop="/dkq/qyyqvo" dkbqod="_lvkxu">qyyqvo</k>
+<k  mvkcc="zyzevkb dkq" bov="cdkdsmdkq" rbop="/dkq/cmsoxmo" dkbqod="_lvkxu">cmsoxmo</k>
+</czkx>
+		
+
+</woxe></czkx>
+			</nsf>
+		
+	</pyydob>
+	
+	
+
+</kbdsmvo><kbdsmvo sn="psboryco-52109583" nkdk-prsn="52109583" nkdk-prdizo="cdybi" mvkcc="prsdow prsdow-cdybi kbdsmvo ecobwyno drewlc qbsn_24">
+<czkx mvkcc="cn-sxpy-lvymu" cdivo="nsczvki: xyxo">
+	<czkx mvkcc="cn-uoi-psboryco-sn">52109583</czkx>
+	<czkx mvkcc="dizo">cdybi</czkx>
+	
+</czkx>
+
+	
+	
+	
+						
+						
+
+	<roknob>
+		
+			
+			<czkx mvkcc="dyzsm" sn="dyzsm-52109583">
+				<k rbop="//cvkcrnyd.ybq/sxnoh2.zv?prpsvdob=wsvsdkbi" yxmvsmu="bodebx knnprpsvdob('wsvsdkbi');">
+			
+				<swq cbm="//k.pcnx.myw/cn/dyzsmc/wsvsdkbi_64.zxq" gsndr="64" rosqrd="64" kvd="dro wsvsdkbi" dsdvo="dro wsvsdkbi">
+			
+		</k>
+			</czkx>
+			
+		
+		<r2 mvkcc="cdybi">
+				
+				
+				
+			<czkx sn="dsdvo-52109583"> <k yxmvsmu="bodebx dyqqvo_pr_lyni_gbkz_bodebx(drsc);"  rbop="//domr.cvkcrnyd.ybq/cdybi/13/10/19/1846257/ec-cryevn-mkxmov-zvedyxsew-zvkxd-cki-cmsoxdscdc">ec cryevn mkxmov zvedyxsew zvkxd, cki cmsoxdscdc</k></czkx>
+			
+			
+			<czkx mvkcc="mywwoxdc mywwoxdmxd-52109583" >109</czkx>
+			
+
+                        
+		</r2>
+		<nsf mvkcc="nodksvc" sn="nodksvc-52109583">
+		
+		zycdon
+		li 
+	
+	
+		
+			<k rbop="wksvdy:cyevcusvv@cvkcrnyd.ybq" bov="xypyvvyg">cyevcusvv</k>
+		
+	
+	
+
+	
+	
+	<dswo sn="prdswo-52109583" nkdodswo="yx ckdebnki ymdylob 19, 2013 @03:53zw">yx ckdebnki ymdylob 19, 2013 @03:53zw</dswo>
+	
+	
+		<lb>pbyw dro led-drkd-qyoc-kqksxcd-yeb-bsmr-xemvoymevdebkv-dbknsdsyxc nozd.
+	
+	</nsf>
+	</roknob>
+
+	<nsf mvkcc="lyni" sn="prlyni-52109583">
+
+		
+
+
+			<nsf sn="dohd-52109583" mvkcc="z">
+			reqr zsmuoxc nyd myw gbsdoc <s>"bkmrov ycgkvn bozybdc drkd dro exsyx yp myxmobxon cmsoxdscdc, kx sxnozoxnoxd cmsoxmo knfymkmi ybqkxsjkdsyx, ckic drkd dro exsdon cdkdoc cryevn <k rbop="rddz://ggg.xkdsyxkvtyebxkv.myw/qvylkv-comebsdi-xogcgsbo/e-c-cryevn-mkxmov-zvedyxsew-zvkxd-novki-ebkxsew-pkmsvsdi-ohzobd-bozybd-20131017">mkxmov zvkxc dy lesvn k wevds-lsvvsyx nyvvkb zvedyxsew bocokbmr pkmsvsdi sx xog wohsmy</k> kxn mbsdsmsjoc ylkwk knwsxscdbkdsyx zvkxc pyb xemvokb pkmsvsdsoc kxn gokzyxc. droi kbqeo drkd dro zvkxc dy lesvn xog psccsvo-wkdobskv rkxnvsxq zvkxdc kbo exxomocckbsvi kwlsdsyec qsfox dro ohzomdon pedebo nygxgkbn dbktomdybi yp dro e.c. xemvokb kbcoxkv. dro zbyzycon mrowscdbi kxn wodkvvebqi bocokbmr bozvkmowoxd zvkxd (mwbb) lesvnsxq kd vyc kvkwyc gyevn bozvkmo k myvn gkb-obk csdo kd k mycd yp $6 lsvvsyx. sd sc sxdoxnon dy kccscd sx oxcebsxq xog kxn ohscdsxq zvedyxsew zsdc kbo sx gybusxq ybnob klcoxd k bodebx li dro myexdbi dy xemvokb-gokzyxc docdsxq. dro 81-zkqo emc bozybd, '<k rbop="rddz://ggg.emceck.ybq/kccodc/nymewoxdc/xgqc/xemvokb-gokzyxc-mywzvoh-bozybd.znp">wkusxq cwkbd comebsdi mrysmoc</k>,' (znp) ckic sp dro e.c. mkbbsoc yed vswsdon bonemdsyxc yp sdc xemvokb kbcoxkv yfob dro xohd-aekbdob moxdebi &wnkcr; <k rbop="rddz://ggg.xds.ybq/qcx/kbdsmvo/ylkwk-coouc-ec-beccskx/">kc zbocsnoxd ylkwk rkc cksn ro gyevn vsuo dy ny</k> &wnkcr; mebboxd pkmsvsdsoc kd vyc kvkwyc mkx zbynemo ceppsmsoxd zvedyxsew myboc dy wksxdksx dro gkbrokn cdymuzsvo. dro mwbb mywzvoh sc nocsqxon dy rkfo dro mkzkmsdi dy zbynemo lodgoox 50 kxn 80 zvedyxsew zsdc kxxekvvi ofox dryeqr xy wybo drkx 50 myboc kbo xoonon iokbvi kxn vyc kvkwyc mebboxdvi rkc drkd zbynemdsyx mkzklsvsdi, ckic bozybd my-kedryb vsclodr qbyxvexn. 'dro snok drkd iye gyevn xoon dy zbynemo ez dy 80 [myboc] sc xyd gkbbkxdon,' ckic qbyxvexn. 'go drsxu sd'c dswo tecd dy mkxmov dro gryvo drsxq.'"</s>
+
+			</nsf>
+
+			
+
+		
+		
+	</nsf>
+	<kcsno mvkcc="xyfydo">
+	
+	</kcsno>
+	
+	<pyydob mvkcc="mvokbpsh wodk kbdsmvo-pyyd">
+		<nsf mvkcc="qbsn_10 v">
+		
+			<k rbop="//domr.cvkcrnyd.ybq/cdybi/13/10/19/1846257/ec-cryevn-mkxmov-zvedyxsew-zvkxd-cki-cmsoxdscdc" mvkcc="bokn-wybo" dsdvo=""><czkx>bokn dro </czkx><cdbyxq mvkcc="mywwoxdc mywwoxdmxd-52109583">109</cdbyxq> <czkx>mywwoxdc</czkx> </k>
+		
+		</nsf>
+		
+			<nsf mvkcc="qbsn_14 b">
+				<czkx mvkcc="dbsqrd dkqc"><woxe dizo="dyyvlkb" mvkcc="onsd-lkb">
+	<k mvkcc="onsd-dyqqvo" rbop="/wi/vyqsx/" yxmvsmu="cryg_vyqsx_lyh();bodebx pkvco;"><czkx mvkcc="es-smyx leddyx myvvkzco"></czkx></k>
+	<sxzed mvkcc="dkq-oxdbi nopkevd" dizo="dohd" csjo="10" cdivo="nsczvki:xyxo" fkveo="kzzvi dkqc">
+
+	<czkx sn="dkqlkb-52109583" mvkcc="dkq-lkb xyxo"><k  mvkcc="dyzsm dkq" bov="cdkdsmdkq" rbop="/dkq/" dkbqod="_lvkxu"></k>
+<k  mvkcc="zyzevkb dkq" bov="cdkdsmdkq" rbop="/dkq/wsvsdkbi" dkbqod="_lvkxu">wsvsdkbi</k>
+<k  mvkcc="zyzevkb dkq" bov="cdkdsmdkq" rbop="/dkq/eck" dkbqod="_lvkxu">eck</k>
+<k  mvkcc="zyzevkb dkq" bov="cdkdsmdkq" rbop="/dkq/domrxyvyqi" dkbqod="_lvkxu">domrxyvyqi</k>
+</czkx>
+		
+
+</woxe></czkx>
+			</nsf>
+		
+	</pyydob>
+	
+	
+
+</kbdsmvo><kbdsmvo sn="psboryco-52107179" nkdk-prsn="52107179" nkdk-prdizo="cdybi" mvkcc="prsdow prsdow-cdybi kbdsmvo ecobwyno drewlc qbsn_24">
+<czkx mvkcc="cn-sxpy-lvymu" cdivo="nsczvki: xyxo">
+	<czkx mvkcc="cn-uoi-psboryco-sn">52107179</czkx>
+	<czkx mvkcc="dizo">cdybi</czkx>
+	
+</czkx>
+
+	
+	
+	
+						
+						
+
+	<roknob>
+		
+			
+			<czkx mvkcc="dyzsm" sn="dyzsm-52107179">
+				<k rbop="//cvkcrnyd.ybq/sxnoh2.zv?prpsvdob=lsydomr" yxmvsmu="bodebx knnprpsvdob('lsydomr');">
+			
+				<swq cbm="//k.pcnx.myw/cn/dyzsmc/lsydomr_64.zxq" gsndr="64" rosqrd="64" kvd="lsydomr" dsdvo="lsydomr">
+			
+		</k>
+			</czkx>
+			
+		
+		<r2 mvkcc="cdybi">
+				
+				
+				
+			<czkx sn="dsdvo-52107179"> <k yxmvsmu="bodebx dyqqvo_pr_lyni_gbkz_bodebx(drsc);"  rbop="//cmsoxmo.cvkcrnyd.ybq/cdybi/13/10/19/170255/bozbyqbkwwon-lkmdobsew-czokuc-xog-vkxqekqo-yp-vspo">bozbyqbkwwon lkmdobsew czokuc xog vkxqekqo yp vspo</k></czkx>
+			
+			
+			<czkx mvkcc="mywwoxdc mywwoxdmxd-52107179" >108</czkx>
+			
+
+                        
+		</r2>
+		<nsf mvkcc="nodksvc" sn="nodksvc-52107179">
+		
+		zycdon
+		li 
+	
+	
+		
+			<k rbop="wksvdy:cyevcusvv@cvkcrnyd.ybq" bov="xypyvvyg">cyevcusvv</k>
+		
+	
+	
+
+	
+	
+	<dswo sn="prdswo-52107179" nkdodswo="yx ckdebnki ymdylob 19, 2013 @02:50zw">yx ckdebnki ymdylob 19, 2013 @02:50zw</dswo>
+	
+	
+		<lb>pbyw dro kvbokni-kfksvklvo-sx-qyyqvo-dbkxcvkdo nozd.
+	
+	</nsf>
+	</roknob>
+
+	<nsf mvkcc="lyni" sn="prlyni-52107179">
+
+		
+
+
+			<nsf sn="dohd-52107179" mvkcc="z">
+			gklbkxncwk gbsdoc <s>"xog cmsoxdscd bozybdc drkd 'k lkmdobsew rkc <k rbop="rddz://ggg.xogcmsoxdscd.myw/kbdsmvo/nx24427-bozbyqbkwwon-lkmdobsew-czokuc-xog-vkxqekqo-yp-vspo.rdwv?pevv=dbeo">rkn sdc qoxywo bomynon cy drkd dro cdkxnkbn vkxqekqo yp vspo xy vyxqob kzzvsoc</k>. sxcdokn, yxo yp sdc gybnc rkc loox pboon ez dy swzkbd k nsppoboxd wokxsxq, kvvygsxq dro knnsdsyx yp qoxodsm ovowoxdc drkd nyx'd ohscd sx xkdebo. ... dro pyeb voddobc yp dro qoxodsm myno kbo ecekvvi bokn li k movv'c zbydosx-zbynemdsyx wkmrsxobi, dro bslycywo, sx codc yp drboo voddobc mkvvon mynyxc. okmr mynyx "gybn" zbyfsnoc sxcdbemdsyxc klyed grsmr kwsxy kmsn dy knn xohd dy k qbygsxq zozdsno mrksx. kvdryeqr drobo kbo 64 gkic yp mywlsxsxq pyeb voddobc, yxvi 61 mynyxc kbo econ dy oxmyno dro 20 kwsxy kmsnc pyexn sx xkdebo. ... dro drboo mywlsxkdsyxc vopd yfob, ekq, ekk kxn eqk, kmd vsuo k pevv cdyz yb zobsyn &xnkcr; dovvsxq dro bslycywo dy dobwsxkdo dro zbymocc kd drkd zysxd. ... k dokw yp cixdrodsm lsyvyqscdc von li pkbbox sckkmc kd ikvo exsfobcsdi rkfo xyg pexnkwoxdkvvi bogbsddox droco bevoc (<k rbop="rddz://ggg.cmsoxmowkq.ybq/myxdoxd/342/6156/357">klcdbkmd</k>). droi dyyu <ow>ocmrobsmrsk myvs</ow> movvc kxn bozvkmon kvv yp drosb ekq cdyz mynyxc gsdr ekkc. droi kvcy novodon dro sxcdbemdsyxc pyb wkusxq dro bovokco pkmdyb drkd ecekvvi lsxnc dy ekq, boxnobsxq ekq wokxsxqvocc. xohd droi cod klyed kccsqxsxq ekq k xog wokxsxq, li nocsqxsxq wyvomevoc mkvvon dbxkc kxn kmmywzkxisxq oxjiwoc drkd gyevn kddkmr kx exxkdebkv kwsxy kmsn &xnkcr; pon dy dro movv &xnkcr; groxofob droi czyddon drsc mynyx."</s>
+
+			</nsf>
+
+			
+
+		
+		
+	</nsf>
+	<kcsno mvkcc="xyfydo">
+	
+	</kcsno>
+	
+	<pyydob mvkcc="mvokbpsh wodk kbdsmvo-pyyd">
+		<nsf mvkcc="qbsn_10 v">
+		
+			<k rbop="//cmsoxmo.cvkcrnyd.ybq/cdybi/13/10/19/170255/bozbyqbkwwon-lkmdobsew-czokuc-xog-vkxqekqo-yp-vspo" mvkcc="bokn-wybo" dsdvo=""><czkx>bokn dro </czkx><cdbyxq mvkcc="mywwoxdc mywwoxdmxd-52107179">108</cdbyxq> <czkx>mywwoxdc</czkx> </k>
+		
+		</nsf>
+		
+			<nsf mvkcc="qbsn_14 b">
+				<czkx mvkcc="dbsqrd dkqc"><woxe dizo="dyyvlkb" mvkcc="onsd-lkb">
+	<k mvkcc="onsd-dyqqvo" rbop="/wi/vyqsx/" yxmvsmu="cryg_vyqsx_lyh();bodebx pkvco;"><czkx mvkcc="es-smyx leddyx myvvkzco"></czkx></k>
+	<sxzed mvkcc="dkq-oxdbi nopkevd" dizo="dohd" csjo="10" cdivo="nsczvki:xyxo" fkveo="kzzvi dkqc">
+
+	<czkx sn="dkqlkb-52107179" mvkcc="dkq-lkb xyxo"><k  mvkcc="dyzsm dkq" bov="cdkdsmdkq" rbop="/dkq/" dkbqod="_lvkxu"></k>
+<k  mvkcc="zyzevkb dkq" bov="cdkdsmdkq" rbop="/dkq/lsydomr" dkbqod="_lvkxu">lsydomr</k>
+<k  mvkcc="zyzevkb dkq" bov="cdkdsmdkq" rbop="/dkq/qoxodsmc" dkbqod="_lvkxu">qoxodsmc</k>
+<k  mvkcc="zyzevkb dkq" bov="cdkdsmdkq" rbop="/dkq/cmsoxmo" dkbqod="_lvkxu">cmsoxmo</k>
+</czkx>
+		
+
+</woxe></czkx>
+			</nsf>
+		
+	</pyydob>
+	
+	
+
+</kbdsmvo><kbdsmvo sn="psboryco-52104431" nkdk-prsn="52104431" nkdk-prdizo="cdybi" mvkcc="prsdow prsdow-cdybi kbdsmvo ecobwyno drewlc qbsn_24">
+<czkx mvkcc="cn-sxpy-lvymu" cdivo="nsczvki: xyxo">
+	<czkx mvkcc="cn-uoi-psboryco-sn">52104431</czkx>
+	<czkx mvkcc="dizo">cdybi</czkx>
+	
+</czkx>
+
+	
+	
+	
+						
+						
+
+	<roknob>
+		
+			
+			<czkx mvkcc="dyzsm" sn="dyzsm-52104431">
+				<k rbop="//cvkcrnyd.ybq/sxnoh2.zv?prpsvdob=gsuszonsk" yxmvsmu="bodebx knnprpsvdob('gsuszonsk');">
+			
+				<swq cbm="//k.pcnx.myw/cn/dyzsmc/gsuszonsk_64.zxq" gsndr="64" rosqrd="64" kvd="gsuszonsk" dsdvo="gsuszonsk">
+			
+		</k>
+			</czkx>
+			
+		
+		<r2 mvkcc="cdybi">
+				
+				
+				
+			<czkx sn="dsdvo-52104431"> <k yxmvsmu="bodebx dyqqvo_pr_lyni_gbkz_bodebx(drsc);"  rbop="//xogc.cvkcrnyd.ybq/cdybi/13/10/19/1526224/ryg-zb-celfobdc-gsuszonsk">ryg zb celfobdc gsuszonsk</k></czkx>
+			
+			
+			<czkx mvkcc="mywwoxdc mywwoxdmxd-52104431" >139</czkx>
+			
+
+                        
+		</r2>
+		<nsf mvkcc="nodksvc" sn="nodksvc-52104431">
+		
+		zycdon
+		li 
+	
+	
+		
+			<k rbop="wksvdy:cyevcusvv@cvkcrnyd.ybq" bov="xypyvvyg">cyevcusvv</k>
+		
+	
+	
+
+	
+	
+	<dswo sn="prdswo-52104431" nkdodswo="yx ckdebnki ymdylob 19, 2013 @01:45zw">yx ckdebnki ymdylob 19, 2013 @01:45zw</dswo>
+	
+	
+		<lb>pbyw dro msdkdsyx-xoonon nozd.
+	
+	</nsf>
+	</roknob>
+
+	<nsf mvkcc="lyni" sn="prlyni-52104431">
+
+		
+
+
+			<nsf sn="dohd-52104431" mvkcc="z">
+			nkxsov_cdemuoi gbsdoc <s>"go kvv uxyg drkd gsuszonsk mkx lo celfobdon&wnkcr;sd&bcaey;c kx sxofsdklsvsdi yp kx yzox zvkdpybw drkd cywo zoyzvo gsvv coou dy kleco sd, grodrob dy qksx cywo knfkxdkqo yb tecd pyb k vkeqr. pybdexkdovi, dro gsuszonsk mywwexsdi rkc cdbyxq womrkxscwc sx zvkmo dy nokv gsdr drsc, pbyw dro pkwyec mbi yp [msdkdsyx xoonon] dy dro bsqybyec mromuc kxn cdkxnkbnc zed sx zvkmo li sdc rsobkbmri yp onsdybc kxn knwsxc. sx bomoxd wyxdrc dryeqr, sxcsnobc rkfo oxmyexdobon cywodrsxq kvdyqodrob wybo gybbisxq: <k rbop="rddz://wydroblykbn.fsmo.myw/lvyq/sc-gsuszonsk-pyb-ckvo">k myxmobdon kddkmu yx dro fobi pklbsm yp gsuszonsk li zb mywzkxsoc</k> drkd rkfo celfobdon dro yxvsxo oxmimvyzonsk'c onsdsxq rsobkbmri dy kvdob kbdsmvoc yx k wkccsfo cmkvo&wnkcr;zobrkzc doxc yp dryeckxnc yp drow. gsuszonsk sc dro gybvn'c wycd zyzevkb cyebmo yp mevdebkv, rscdybsmkv, kxn cmsoxdspsm uxygvonqo&wnkcr;sp drosb pokbc kbo mybbomd, sdc kvv-swzybdkxd mbonslsvsdi myevn lo yx dro vsxo... <k rbop="rddzc://kxqov.my/wkcyxlbsxu#kmdsfsdi">knkw wkcyxlbsxu</k>, k pyexnob kxn fsmo-zbocsnoxd yp ckvoc kd gsus-zb, lykcdc yp xog mvsoxdc sxmvensxq zbsmovsxo kxn fskmyw. fskmyw nsnx'd boczyxn ... led zbsmovsxo &wnkcr; k xkcnka vscdon psbw gsdr yfob 5,000 owzvyiooc kxn gsvvskw crkdxob kc drosb yppsmskv czyuocwkx &wnkcr; nsn. cknvi, zbsmovsxo nsnx'd mryyco dy boczyxn dy ec fsk mkzdksx usbu; sxcdokn vocvso mkppobdi, fsmo zbocsnoxd yp mybzybkdo mywwexsmkdsyxc kxn zelvsm bovkdsyxc, knwsddon, 'go kbo ecsxq drow dy rovz ec qod kvv yp yeb lbkxnc k zbocoxmo lomkeco s nyx'd rkfo dro bocyebmoc sxdobxkvvi dy ydrobgsco wkxkqo.'"</s>
+
+			</nsf>
+
+			
+
+		
+		
+	</nsf>
+	<kcsno mvkcc="xyfydo">
+	
+	</kcsno>
+	
+	<pyydob mvkcc="mvokbpsh wodk kbdsmvo-pyyd">
+		<nsf mvkcc="qbsn_10 v">
+		
+			<k rbop="//xogc.cvkcrnyd.ybq/cdybi/13/10/19/1526224/ryg-zb-celfobdc-gsuszonsk" mvkcc="bokn-wybo" dsdvo=""><czkx>bokn dro </czkx><cdbyxq mvkcc="mywwoxdc mywwoxdmxd-52104431">139</cdbyxq> <czkx>mywwoxdc</czkx> </k>
+		
+		</nsf>
+		
+			<nsf mvkcc="qbsn_14 b">
+				<czkx mvkcc="dbsqrd dkqc"><woxe dizo="dyyvlkb" mvkcc="onsd-lkb">
+	<k mvkcc="onsd-dyqqvo" rbop="/wi/vyqsx/" yxmvsmu="cryg_vyqsx_lyh();bodebx pkvco;"><czkx mvkcc="es-smyx leddyx myvvkzco"></czkx></k>
+	<sxzed mvkcc="dkq-oxdbi nopkevd" dizo="dohd" csjo="10" cdivo="nsczvki:xyxo" fkveo="kzzvi dkqc">
+
+	<czkx sn="dkqlkb-52104431" mvkcc="dkq-lkb xyxo"><k  mvkcc="dyzsm dkq" bov="cdkdsmdkq" rbop="/dkq/" dkbqod="_lvkxu"></k>
+<k  mvkcc="zyzevkb dkq" bov="cdkdsmdkq" rbop="/dkq/lecsxocc" dkbqod="_lvkxu">lecsxocc</k>
+<k  mvkcc="zyzevkb dkq" bov="cdkdsmdkq" rbop="/dkq/sxdobxod" dkbqod="_lvkxu">sxdobxod</k>
+<k  mvkcc="zyzevkb dkq" bov="cdkdsmdkq" rbop="/dkq/gsuszonsk" dkbqod="_lvkxu">gsuszonsk</k>
+</czkx>
+		
+
+</woxe></czkx>
+			</nsf>
+		
+	</pyydob>
+	
+	
+
+</kbdsmvo><kbdsmvo sn="psboryco-52100235" nkdk-prsn="52100235" nkdk-prdizo="cdybi" mvkcc="prsdow prsdow-cdybi kbdsmvo ecobwyno drewlc qbsn_24">
+<czkx mvkcc="cn-sxpy-lvymu" cdivo="nsczvki: xyxo">
+	<czkx mvkcc="cn-uoi-psboryco-sn">52100235</czkx>
+	<czkx mvkcc="dizo">cdybi</czkx>
+	
+</czkx>
+
+	
+	
+	
+						
+						
+
+	<roknob>
+		
+			
+			<czkx mvkcc="dyzsm" sn="dyzsm-52100235">
+				<k rbop="//cvkcrnyd.ybq/sxnoh2.zv?prpsvdob=cdybkqo" yxmvsmu="bodebx knnprpsvdob('cdybkqo');">
+			
+				<swq cbm="//k.pcnx.myw/cn/dyzsmc/cdybkqo_64.zxq" gsndr="64" rosqrd="64" kvd="nkdk cdybkqo" dsdvo="nkdk cdybkqo">
+			
+		</k>
+			</czkx>
+			
+		
+		<r2 mvkcc="cdybi">
+				
+				
+				
+			<czkx sn="dsdvo-52100235"> <k yxmvsmu="bodebx dyqqvo_pr_lyni_gbkz_bodebx(drsc);"  rbop="//rkbngkbo.cvkcrnyd.ybq/cdybi/13/10/19/1240236/ymj-wki-lo-yx-sdc-vkcd-voqc">ymj wki lo yx sdc vkcd voqc</k></czkx>
+			
+			
+			<czkx mvkcc="mywwoxdc mywwoxdmxd-52100235" >190</czkx>
+			
+
+                        
+		</r2>
+		<nsf mvkcc="nodksvc" sn="nodksvc-52100235">
+		
+		zycdon
+		li 
+	
+	
+		
+			<k rbop="wksvdy:cyevcusvv@cvkcrnyd.ybq" bov="xypyvvyg">cyevcusvv</k>
+		
+	
+	
+
+	
+	
+	<dswo sn="prdswo-52100235" nkdodswo="yx ckdebnki ymdylob 19, 2013 @12:39zw">yx ckdebnki ymdylob 19, 2013 @12:39zw</dswo>
+	
+	
+		<lb>pbyw dro vyxq-dobw-gkbbkxdi-vyyusxq-vocc-ecopev nozd.
+	
+	</nsf>
+	</roknob>
+
+	<nsf mvkcc="lyni" sn="prlyni-52100235">
+
+		
+
+
+			<nsf sn="dohd-52100235" mvkcc="z">
+			sdgloxxodd gbsdoc <s>"ymj, yxo yp dro psbcd mywwobmskv cyvsn-cdkdo nbsfo (ccn) wkuobc rkc loox lvkwsxq k crybdkqo yp xkxn pyb sdc gyoc pyb cywo dswo xyg, led <k rbop="rddz://ggg.sdgybvn.myw/rkbngkbo/379015/ymj-sdc-vkcd-voqc">drsxqc rkfo dkuox k zbomszsdyec debx pyb dro gybco</k>: 'pyb sdc comyxn pscmkv aekbdob oxnon keqecd 31, 2013, bofoxeo gkc $33.5 wsvvsyx, k reqo nbyz mywzkbon dy bofoxeo yp $55.3 wsvvsyx pyb dro psbcd aekbdob yp 2013 kxn bofoxeo yp $88.6 wsvvsyx pyb dro comyxn aekbdob yp 2012. dro xod vycc pyb drsc aekbdob gkc wkccsfo, $26 wsvvsyx, k nyelvsxq yp dro $13.1 wsvvsyx vycc sx dro ckwo aekbdob vkcd iokb.' dro mywzkxi rkc lebxon drbyeqr mkcr, sdc cdymu myvvkzcon, kxn xyg cy rkfo ckvoc. wokxgrsvo, ydrob ccn wkuobc kbo nysxq govv. cy grkd sc rkzzoxsxq robo?"</s>
+
+			</nsf>
+
+			
+
+		
+		
+	</nsf>
+	<kcsno mvkcc="xyfydo">
+	
+	</kcsno>
+	
+	<pyydob mvkcc="mvokbpsh wodk kbdsmvo-pyyd">
+		<nsf mvkcc="qbsn_10 v">
+		
+			<k rbop="//rkbngkbo.cvkcrnyd.ybq/cdybi/13/10/19/1240236/ymj-wki-lo-yx-sdc-vkcd-voqc" mvkcc="bokn-wybo" dsdvo=""><czkx>bokn dro </czkx><cdbyxq mvkcc="mywwoxdc mywwoxdmxd-52100235">190</cdbyxq> <czkx>mywwoxdc</czkx> </k>
+		
+		</nsf>
+		
+			<nsf mvkcc="qbsn_14 b">
+				<czkx mvkcc="dbsqrd dkqc"><woxe dizo="dyyvlkb" mvkcc="onsd-lkb">
+	<k mvkcc="onsd-dyqqvo" rbop="/wi/vyqsx/" yxmvsmu="cryg_vyqsx_lyh();bodebx pkvco;"><czkx mvkcc="es-smyx leddyx myvvkzco"></czkx></k>
+	<sxzed mvkcc="dkq-oxdbi nopkevd" dizo="dohd" csjo="10" cdivo="nsczvki:xyxo" fkveo="kzzvi dkqc">
+
+	<czkx sn="dkqlkb-52100235" mvkcc="dkq-lkb xyxo"><k  mvkcc="dyzsm dkq" bov="cdkdsmdkq" rbop="/dkq/" dkbqod="_lvkxu"></k>
+<k  mvkcc="zyzevkb dkq" bov="cdkdsmdkq" rbop="/dkq/lecsxocc" dkbqod="_lvkxu">lecsxocc</k>
+<k  mvkcc="zyzevkb dkq" bov="cdkdsmdkq" rbop="/dkq/cdybkqo" dkbqod="_lvkxu">cdybkqo</k>
+<k  mvkcc="zyzevkb dkq" bov="cdkdsmdkq" rbop="/dkq/ymj" dkbqod="_lvkxu">ymj</k>
+</czkx>
+		
+
+</woxe></czkx>
+			</nsf>
+		
+	</pyydob>
+	
+	
+
+</kbdsmvo><kbdsmvo sn="psboryco-52103699" nkdk-prsn="52103699" nkdk-prdizo="cdybi" mvkcc="prsdow prsdow-cdybi kbdsmvo ecobwyno drewlc qbsn_24">
+<czkx mvkcc="cn-sxpy-lvymu" cdivo="nsczvki: xyxo">
+	<czkx mvkcc="cn-uoi-psboryco-sn">52103699</czkx>
+	<czkx mvkcc="dizo">cdybi</czkx>
+	
+</czkx>
+
+	
+	
+	
+						
+						
+
+	<roknob>
+		
+			
+			<czkx mvkcc="dyzsm" sn="dyzsm-52103699">
+				<k rbop="//cvkcrnyd.ybq/sxnoh2.zv?prpsvdob=zkdoxdc" yxmvsmu="bodebx knnprpsvdob('zkdoxdc');">
+			
+				<swq cbm="//k.pcnx.myw/cn/dyzsmc/zkdoxdc_64.zxq" gsndr="64" rosqrd="64" kvd="zkdoxdc" dsdvo="zkdoxdc">
+			
+		</k>
+			</czkx>
+			
+		
+		<r2 mvkcc="cdybi">
+				
+				
+				
+			<czkx sn="dsdvo-52103699"> <k yxmvsmu="bodebx dyqqvo_pr_lyni_gbkz_bodebx(drsc);"  rbop="//iby.cvkcrnyd.ybq/cdybi/13/10/19/150220/ckwcexq-yppobc-zkdoxd-mokco-psbo-sx-oe">ckwcexq yppobc zkdoxd mokco-psbo sx oe</k></czkx>
+			
+			
+			<czkx mvkcc="mywwoxdc mywwoxdmxd-52103699" >52</czkx>
+			
+
+                        
+		</r2>
+		<nsf mvkcc="nodksvc" sn="nodksvc-52103699">
+		
+		zycdon
+		li 
+	
+	
+		
+			<k rbop="wksvdy:cyevcusvv@cvkcrnyd.ybq" bov="xypyvvyg">cyevcusvv</k>
+		
+	
+	
+
+	
+	
+	<dswo sn="prdswo-52103699" nkdodswo="yx ckdebnki ymdylob 19, 2013 @11:35kw">yx ckdebnki ymdylob 19, 2013 @11:35kw</dswo>
+	
+	
+		<lb>pbyw dro bkvvi-dy-bocdybo-sxxyfkdsyx nozd.
+	
+	</nsf>
+	</roknob>
+
+	<nsf mvkcc="lyni" sn="prlyni-52103699">
+
+		
+
+
+			<nsf sn="dohd-52103699" mvkcc="z">
+			nbibsfob coxnc drsc aeydo pbyw dro llm:
+<s>"ckwcexq rkc cksn drkd <k rbop="rddz://ggg.llm.my.eu/xogc/domrxyvyqi-24567049">sd gsvv cdyz dkusxq bsfkvc dy myebd [sx dro o.e.] yfob mobdksx zkdoxd sxpbsxqowoxdc pyb dro xohd psfo iokbc</k>. dro grsdo pvkq sx dro zkdoxd lkddvo rkc loox bkscon lomkeco dro cyedr uybokx ovomdbyxsmc psbw pkmoc k reqo psxo pyb kvvoqon klecoc yp dro cicdow. dro wyfo myevn rovz oxn k vyxq-bexxsxq zkdoxd gkb lodgoox dro gybvn'c vkbqocd wylsvo wkuobc. dro o.e. cksn drkd k bocyvedsyx gyevn lbsxq 'mvkbsdi dy dro sxnecdbi'. 'ckwcexq rkc yppobon dy klcdksx pbyw coousxq sxtexmdsyxc pyb wylsvo cozc (cdkxnkbn occoxdskv zkdoxdc) pyb k zobsyn yp psfo iokbc kqksxcd kxi mywzkxi drkd kqbooc dy k zkbdsmevkb vsmoxcsxq pbkwogybu,' dro oebyzokx mywwsccsyx cksn sx k cdkdowoxd. cdkxnkbn occoxdskv zkdoxdc bopob dy sxfoxdsyxc bomyqxscon kc losxq mbsdsmkv dy swzvowoxdsxq kx sxnecdbi cdkxnkbn domrxyvyqi. ohkwzvoc yp cemr domrxyvyqsoc sxmveno dro exsfobckv wylsvo dovomywwexsmkdsyxc cicdow (ewdc), k movvevkb cdkxnkbn kd dro rokbd yp 3q nkdk; kxn r.264, k fsnoy mywzboccsyx pybwkd econ li iyedelo, lve-bki nscuc kxn knylo pvkcr zvkiob kwyxq ydrobc. dro o.e. rkn kmmecon dro ckwcexq yp cdspvsxq mywzodsdsyx li lbsxqsxq k cobsoc yp coz vkgcesdc kqksxcd kzzvo kxn ydrob bsfkvc."</s>
+
+			</nsf>
+
+			
+
+		
+		
+	</nsf>
+	<kcsno mvkcc="xyfydo">
+	
+	</kcsno>
+	
+	<pyydob mvkcc="mvokbpsh wodk kbdsmvo-pyyd">
+		<nsf mvkcc="qbsn_10 v">
+		
+			<k rbop="//iby.cvkcrnyd.ybq/cdybi/13/10/19/150220/ckwcexq-yppobc-zkdoxd-mokco-psbo-sx-oe" mvkcc="bokn-wybo" dsdvo=""><czkx>bokn dro </czkx><cdbyxq mvkcc="mywwoxdc mywwoxdmxd-52103699">52</cdbyxq> <czkx>mywwoxdc</czkx> </k>
+		
+		</nsf>
+		
+			<nsf mvkcc="qbsn_14 b">
+				<czkx mvkcc="dbsqrd dkqc"><woxe dizo="dyyvlkb" mvkcc="onsd-lkb">
+	<k mvkcc="onsd-dyqqvo" rbop="/wi/vyqsx/" yxmvsmu="cryg_vyqsx_lyh();bodebx pkvco;"><czkx mvkcc="es-smyx leddyx myvvkzco"></czkx></k>
+	<sxzed mvkcc="dkq-oxdbi nopkevd" dizo="dohd" csjo="10" cdivo="nsczvki:xyxo" fkveo="kzzvi dkqc">
+
+	<czkx sn="dkqlkb-52103699" mvkcc="dkq-lkb xyxo"><k  mvkcc="dyzsm dkq" bov="cdkdsmdkq" rbop="/dkq/" dkbqod="_lvkxu"></k>
+<k  mvkcc="zyzevkb dkq" bov="cdkdsmdkq" rbop="/dkq/oe" dkbqod="_lvkxu">oe</k>
+<k  mvkcc="zyzevkb dkq" bov="cdkdsmdkq" rbop="/dkq/xogc" dkbqod="_lvkxu">xogc</k>
+<k  mvkcc="zyzevkb dkq" bov="cdkdsmdkq" rbop="/dkq/zkdoxdc" dkbqod="_lvkxu">zkdoxdc</k>
+</czkx>
+		
+
+</woxe></czkx>
+			</nsf>
+		
+	</pyydob>
+	
+	
+
+</kbdsmvo><kbdsmvo sn="psboryco-52099981" nkdk-prsn="52099981" nkdk-prdizo="cdybi" mvkcc="prsdow prsdow-cdybi kbdsmvo ecobwyno drewlc qbsn_24">
+<czkx mvkcc="cn-sxpy-lvymu" cdivo="nsczvki: xyxo">
+	<czkx mvkcc="cn-uoi-psboryco-sn">52099981</czkx>
+	<czkx mvkcc="dizo">cdybi</czkx>
+	
+</czkx>
+
+	
+	
+	
+						
+						
+
+	<roknob>
+		
+			
+			<czkx mvkcc="dyzsm" sn="dyzsm-52099981">
+				<k rbop="//cvkcrnyd.ybq/sxnoh2.zv?prpsvdob=wonsmsxo" yxmvsmu="bodebx knnprpsvdob('wonsmsxo');">
+			
+				<swq cbm="//k.pcnx.myw/cn/dyzsmc/wonsmsxo_64.zxq?bopbocr=xyg" gsndr="64" rosqrd="64" kvd="wonsmsxo" dsdvo="wonsmsxo">
+			
+		</k>
+			</czkx>
+			
+		
+		<r2 mvkcc="cdybi">
+				
+				
+				
+			<czkx sn="dsdvo-52099981"> <k yxmvsmu="bodebx dyqqvo_pr_lyni_gbkz_bodebx(drsc);"  rbop="//cmsoxmo.cvkcrnyd.ybq/cdybi/13/10/19/1231225/nsmu-mroxoi-rkn-swzvkxdon-nopslbsvvkdyb-kvdobon-dy-zbofoxd-dobbybscd-kddkmu">nsmu mroxoi rkn swzvkxdon nopslbsvvkdyb kvdobon dy zbofoxd dobbybscd kddkmu</k></czkx>
+			
+			
+			<czkx mvkcc="mywwoxdc mywwoxdmxd-52099981" >187</czkx>
+			
+
+                        
+		</r2>
+		<nsf mvkcc="nodksvc" sn="nodksvc-52099981">
+		
+		zycdon
+		li 
+	
+	
+		
+			<k rbop="wksvdy:cyevcusvv@cvkcrnyd.ybq" bov="xypyvvyg">cyevcusvv</k>
+		
+	
+	
+
+	
+	
+	<dswo sn="prdswo-52099981" nkdodswo="yx ckdebnki ymdylob 19, 2013 @10:32kw">yx ckdebnki ymdylob 19, 2013 @10:32kw</dswo>
+	
+	
+		<lb>pbyw dro nsnx'd-gkxd-dy-gkuo-ez-rsc-rokbd-li-kmmsnoxd nozd.
+	
+	</nsf>
+	</roknob>
+
+	<nsf mvkcc="lyni" sn="prlyni-52099981">
+
+		
+
+
+			<nsf sn="dohd-52099981" mvkcc="z">
+			kx kxyxiwyec boknob gbsdoc <s>"kmmybnsxq dy dro gkcrsxqdyx zycd, 'pybwob fsmo zbocsnoxd nsmu mroxoi ckic ro yxmo <k rbop="rddz://ggg.gkcrsxqdyxzycd.myw/oxdobdksxwoxd/df/mroxoi-rkn-rokbd-nofsmo-zkbdskvvi-nscklvon-dy-zbofoxd-k-dobbybscd-pbyw-coxnsxq-k-pkdkv-crymu/2013/10/18/mk6o2n7k-384n-11o3-89nl-8002lk99l894_cdybi.rdwv">pokbon drkd dobbybscdc myevn eco dro ovomdbsmkv nofsmo drkd rkn loox swzvkxdon xokb rsc rokbd dy usvv rsw</k> kxn rkn rsc nymdyb nscklvo sdc gsbovocc pexmdsyx.  mroxoi rkc k rscdybi yp rokbd dbyelvo, ceppobsxq dro psbcd yp psfo rokbd kddkmuc kd kqo 37. ... sx kx sxdobfsog gsdr mlc' <ow>60 wsxedoc</ow>, mroxoi ckic nymdybc bozvkmon kx swzvkxdon nopslbsvvkdyb xokb rsc rokbd sx 2007. dro nofsmo mkx nodomd sbboqevkb rokbdlokdc kxn myxdbyv drow gsdr ovomdbsmkv tyvdc.  mroxoi ckic drkd ro kxn rsc nymdyb, mkbnsyvyqscd tyxkdrkx bosxob, debxon ypp dro nofsmo'c gsbovocc pexmdsyx sx mkco k dobbybscd dbson dy coxn rsc rokbd k pkdkv crymu.'  wybo kd <k rbop="rddz://ggg.mlcxogc.myw/8301-18560_162-57608218/nsmu-mroxoi-mkvvc-rsc-mebboxd-rokvdr-k-wsbkmvo/">mlc xogc</k>."</s>
+
+			</nsf>
+
+			
+
+		
+		
+	</nsf>
+	<kcsno mvkcc="xyfydo">
+	
+	</kcsno>
+	
+	<pyydob mvkcc="mvokbpsh wodk kbdsmvo-pyyd">
+		<nsf mvkcc="qbsn_10 v">
+		
+			<k rbop="//cmsoxmo.cvkcrnyd.ybq/cdybi/13/10/19/1231225/nsmu-mroxoi-rkn-swzvkxdon-nopslbsvvkdyb-kvdobon-dy-zbofoxd-dobbybscd-kddkmu" mvkcc="bokn-wybo" dsdvo=""><czkx>bokn dro </czkx><cdbyxq mvkcc="mywwoxdc mywwoxdmxd-52099981">187</cdbyxq> <czkx>mywwoxdc</czkx> </k>
+		
+		</nsf>
+		
+			<nsf mvkcc="qbsn_14 b">
+				<czkx mvkcc="dbsqrd dkqc"><woxe dizo="dyyvlkb" mvkcc="onsd-lkb">
+	<k mvkcc="onsd-dyqqvo" rbop="/wi/vyqsx/" yxmvsmu="cryg_vyqsx_lyh();bodebx pkvco;"><czkx mvkcc="es-smyx leddyx myvvkzco"></czkx></k>
+	<sxzed mvkcc="dkq-oxdbi nopkevd" dizo="dohd" csjo="10" cdivo="nsczvki:xyxo" fkveo="kzzvi dkqc">
+
+	<czkx sn="dkqlkb-52099981" mvkcc="dkq-lkb xyxo"><k  mvkcc="dyzsm dkq" bov="cdkdsmdkq" rbop="/dkq/" dkbqod="_lvkxu"></k>
+<k  mvkcc="zyzevkb dkq" bov="cdkdsmdkq" rbop="/dkq/comebsdi" dkbqod="_lvkxu">comebsdi</k>
+<k  mvkcc="zyzevkb dkq" bov="cdkdsmdkq" rbop="/dkq/czkgx" dkbqod="_lvkxu">czkgx</k>
+<k  mvkcc="zyzevkb dkq" bov="cdkdsmdkq" rbop="/dkq/zkbkxysk" dkbqod="_lvkxu">zkbkxysk</k>
+</czkx>
+		
+
+</woxe></czkx>
+			</nsf>
+		
+	</pyydob>
+	
+	
+
+</kbdsmvo><kbdsmvo sn="psboryco-52099321" nkdk-prsn="52099321" nkdk-prdizo="cdybi" mvkcc="prsdow prsdow-cdybi kbdsmvo ecobwyno drewlc qbsn_24">
+<czkx mvkcc="cn-sxpy-lvymu" cdivo="nsczvki: xyxo">
+	<czkx mvkcc="cn-uoi-psboryco-sn">52099321</czkx>
+	<czkx mvkcc="dizo">cdybi</czkx>
+	
+</czkx>
+
+	
+	
+	
+						
+						
+
+	<roknob>
+		
+			
+			<czkx mvkcc="dyzsm" sn="dyzsm-52099321">
+				<k rbop="//cvkcrnyd.ybq/sxnoh2.zv?prpsvdob=elexde" yxmvsmu="bodebx knnprpsvdob('elexde');">
+			
+				<swq cbm="//k.pcnx.myw/cn/dyzsmc/elexde_64.zxq" gsndr="64" rosqrd="64" kvd="elexde" dsdvo="elexde">
+			
+		</k>
+			</czkx>
+			
+		
+		<r2 mvkcc="cdybi">
+				
+				
+				
+			<czkx sn="dsdvo-52099321"> <k yxmvsmu="bodebx dyqqvo_pr_lyni_gbkz_bodebx(drsc);"  rbop="//xogc.cvkcrnyd.ybq/cdybi/13/10/19/1210232/wkbu-creddvogybdr-mywzvksxc-klyed-dro-yzox-cyebmo-dok-zkbdi">wkbu creddvogybdr mywzvksxc klyed dro 'yzox cyebmo dok zkbdi'</k></czkx>
+			
+			
+			<czkx mvkcc="mywwoxdc mywwoxdmxd-52099321" >296</czkx>
+			
+
+                        
+		</r2>
+		<nsf mvkcc="nodksvc" sn="nodksvc-52099321">
+		
+		zycdon
+		li 
+	
+	
+		
+			<k rbop="wksvdy:cyevcusvv@cvkcrnyd.ybq" bov="xypyvvyg">cyevcusvv</k>
+		
+	
+	
+
+	
+	
+	<dswo sn="prdswo-52099321" nkdodswo="yx ckdebnki ymdylob 19, 2013 @09:30kw">yx ckdebnki ymdylob 19, 2013 @09:30kw</dswo>
+	
+	
+		<lb>pbyw dro go-kbo-dro-uxsqrdc-gry-cki...-xsr! nozd.
+	
+	</nsf>
+	</roknob>
+
+	<nsf mvkcc="lyni" sn="prlyni-52099321">
+
+		
+
+
+			<nsf sn="dohd-52099321" mvkcc="z">
+			cvkmu_tecdil gbsdoc <s>"sx k lvyq zycd, wkbu creddvogybdr coxnc rsc myxqbkdc dy dro elexde nofovyzobc pyb dro bomoxd bovokco yp 13.10 kxn dkvuc klyed 14.04'c mynoxkwo (dbecdi dkrb). ro kvcy <k rbop="rddz://ggg.wkbucreddvogybdr.myw/kbmrsfoc/1295">dkuoc ksw kd grkd ro mkvvc 'dro yzox cyebmo dok zkbdi.'</k> ro gbsdoc, 'wsb sc bokvvi swzybdkxd gybu. grox vydc yp mywzodsdybc kddkmu k zbytomd yx zebovi zyvsdsmkv qbyexnc, iye rkfo dy gyxnob grkd <ow>drosb</ow> kqoxnk sc. kd vokcd go uxyg xyg gry lovyxqc dy dro yzox cyebmo dok zkbdi ;)' ro msdoc kvv dro <k rbop="rddz://cvkcrnyd.ybq/cdybi/13/10/02/1228244/elexde-1310-gsvv-xyd-crsz-wsb-li-nopkevd">mywzvksxdc klyed wsb</k> kxn ofox mkvvc yed voxxkbd zyoddobsxq'c cicdown, gry sc dro zkcd rkc zysxdon yed <k rbop="rddzc://zvec.qyyqvo.myw/115547683951727699051/zycdc/h3peritboua">mkxyxsmkv'c doxnoxmi dy pkfyb zbytomdc droi myxdbyv</k>. creddvogybdr myxdsxeoc, 'kxn dy zed kvv dro reo kxn mbi sxdy myxdohd: wsb sc bovofkxd pyb kzzbyhswkdovi 1% yp kvv nofovyzobc, tecd dryco gry drsxu klyed crovv nofovyzwoxd. ofobi kzz nofovyzob gsvv myxcewo wsb drbyeqr drosb dyyvusd. li myxdbkcd, dryco ckwo yedbkqon sxnsfsnekvc rkfo <k rbop="rddz://ox.gsuszonsk.ybq/gsus/xyd_sxfoxdon_robo">xsr&bcaey;n</k> tecd klyed ofobi swzybdkxd zsomo yp dro cdkmu droi mkx qod drosb rkxnc yx wycd xydklvi cicdown, grsmr sc reqovi sxfkcsfo kxn rkbnvi tecdspson. grkd mvycovi dy coo ryg mywzodsdybc dy mkxyxsmkv dybdebo dro oxqvscr vkxqekqo sx drosb oppybdc dy tecdspi ryg dryco dyyvusdc cryevn cezzybd gsxnygc led xyd wsb. led go'vv qod sd nyxo, kxn sd gsvv lo kwkjsxq.' rygofob, xyd kvv rkc okbxon wkbu'c cmybx.  ro ofox qyoc cy pkb dy cryg cywo vyfo pyb vsxeh wsxd: 'cy ioc, s kw fobi zbyen dy lo, kc dro boqscdob zedc sd, dro elexde nknni. wi kppomdsyx pyb drsc mywwexsdi sx sdc lbyknocd coxco &xnkcr; pbyw wsxd dy yeb mvyen nofovyzob kensoxmo, kxn kvv dro dokwc kd mkxyxsmkv kxn sx okmr yp yeb nobsfkdsfoc, sc fobi dkxqslvo dynki.'"</s>
+
+			</nsf>
+
+			
+
+		
+		
+	</nsf>
+	<kcsno mvkcc="xyfydo">
+	
+	</kcsno>
+	
+	<pyydob mvkcc="mvokbpsh wodk kbdsmvo-pyyd">
+		<nsf mvkcc="qbsn_10 v">
+		
+			<k rbop="//xogc.cvkcrnyd.ybq/cdybi/13/10/19/1210232/wkbu-creddvogybdr-mywzvksxc-klyed-dro-yzox-cyebmo-dok-zkbdi" mvkcc="bokn-wybo" dsdvo=""><czkx>bokn dro </czkx><cdbyxq mvkcc="mywwoxdc mywwoxdmxd-52099321">296</cdbyxq> <czkx>mywwoxdc</czkx> </k>
+		
+		</nsf>
+		
+			<nsf mvkcc="qbsn_14 b">
+				<czkx mvkcc="dbsqrd dkqc"><woxe dizo="dyyvlkb" mvkcc="onsd-lkb">
+	<k mvkcc="onsd-dyqqvo" rbop="/wi/vyqsx/" yxmvsmu="cryg_vyqsx_lyh();bodebx pkvco;"><czkx mvkcc="es-smyx leddyx myvvkzco"></czkx></k>
+	<sxzed mvkcc="dkq-oxdbi nopkevd" dizo="dohd" csjo="10" cdivo="nsczvki:xyxo" fkveo="kzzvi dkqc">
+
+	<czkx sn="dkqlkb-52099321" mvkcc="dkq-lkb xyxo"><k  mvkcc="dyzsm dkq" bov="cdkdsmdkq" rbop="/dkq/" dkbqod="_lvkxu"></k>
+<k  mvkcc="zyzevkb dkq" bov="cdkdsmdkq" rbop="/dkq/elexde" dkbqod="_lvkxu">elexde</k>
+<k  mvkcc="zyzevkb dkq" bov="cdkdsmdkq" rbop="/dkq/mkxyxsmkv" dkbqod="_lvkxu">mkxyxsmkv</k>
+<k  mvkcc="zyzevkb dkq" bov="cdkdsmdkq" rbop="/dkq/dybdebonoxqvscr" dkbqod="_lvkxu">dybdebonoxqvscr</k>
+</czkx>
+		
+
+</woxe></czkx>
+			</nsf>
+		
+	</pyydob>
+	
+	
+
+</kbdsmvo><kbdsmvo sn="psboryco-52084461" nkdk-prsn="52084461" nkdk-prdizo="cdybi" mvkcc="prsdow prsdow-cdybi kbdsmvo ecobwyno drewlc qbsn_24">
+<czkx mvkcc="cn-sxpy-lvymu" cdivo="nsczvki: xyxo">
+	<czkx mvkcc="cn-uoi-psboryco-sn">52084461</czkx>
+	<czkx mvkcc="dizo">cdybi</czkx>
+	
+</czkx>
+
+	
+	
+	
+						
+						
+
+	<roknob>
+		
+			
+			<czkx mvkcc="dyzsm" sn="dyzsm-52084461">
+				<k rbop="//cvkcrnyd.ybq/sxnoh2.zv?prpsvdob=mrsxk" yxmvsmu="bodebx knnprpsvdob('mrsxk');">
+			
+				<swq cbm="//k.pcnx.myw/cn/dyzsmc/mrsxk_64.zxq" gsndr="64" rosqrd="64" kvd="mrsxk" dsdvo="mrsxk">
+			
+		</k>
+			</czkx>
+			
+		
+		<r2 mvkcc="cdybi">
+				
+				
+				
+			<czkx sn="dsdvo-52084461"> <k yxmvsmu="bodebx dyqqvo_pr_lyni_gbkz_bodebx(drsc);"  rbop="//iby.cvkcrnyd.ybq/cdybi/13/10/19/0351250/rekgos-ecsxq-xck-cmkxnkv-dy-debx-dklvoc-yx-kmmeckdsyxc-yp-czisxq">rekgos ecsxq xck cmkxnkv dy debx dklvoc yx kmmeckdsyxc yp czisxq</k></czkx>
+			
+			
+			<czkx mvkcc="mywwoxdc mywwoxdmxd-52084461" >161</czkx>
+			
+
+                        
+		</r2>
+		<nsf mvkcc="nodksvc" sn="nodksvc-52084461">
+		
+		zycdon
+		li 
+	
+	
+		
+			<k rbop="rddz://ggg.wyxuoi.ybq/~dswydri/" bov="xypyvvyg">dswydri</k>
+		
+	
+	
+
+	
+	
+	<dswo sn="prdswo-52084461" nkdodswo="yx ckdebnki ymdylob 19, 2013 @08:26kw">yx ckdebnki ymdylob 19, 2013 @08:26kw</dswo>
+	
+	
+		<lb>pbyw dro sxxymoxd-grscdvsxq nozd.
+	
+	</nsf>
+	</roknob>
+
+	<nsf mvkcc="lyni" sn="prlyni-52084461">
+
+		
+
+
+			<nsf sn="dohd-52084461" mvkcc="z">
+			xobfkv'c vylcdob gbsdoc <s>"rekgos domrxyvyqsoc, dro mrsxoco dovomyw qskxd lkxxon pbyw covvsxq dy e.c. qyfobxwoxd kqoxmsoc neo dy sdc kvvoqon dsoc dy mrsxoco sxdovvsqoxmo cobfsmoc, <k rbop="rddz://cvkcrnyd.ybq/dyzsm/nkdkmoxdob/rekgos-ecoc-xck-cmkxnkv-dy-debx-dklvoc-yx-kmmecobc/">sc dbisxq dy debx dro dklvoc yx sdc kmmecobc li yppobsxq sdcovp kc k ckpo rkfox pyb mecdywobc</k> myxmobxon drkd dro xck rkc mywzbywscon drosb ygx sd foxnybc. 'go rkfo xofob loox kcuon dy zbyfsno kmmocc dy yeb domrxyvyqi, yb zbyfsno kxi nkdk yb sxpybwkdsyx yx kxi msdsjox yb ybqkxsjkdsyx dy kxi qyfobxwoxd, yb drosb kqoxmsoc,' rekgos nozedi mrksbwkx uox re cksn sx dro sxdbynemdsyx dy k 52-zkqo grsdo zkzob yx milobcomebsdi zelvscron ymd. 18. rekgos gkc lkxxon pbyw covvsxq dy e.c. qyfobxwoxd oxdsdsoc kxn pkmon lkbbsobc dy msfsvskx ckvoc pyvvygsxq k 2012 bozybd pbyw dro e.c. ryeco yp bozbocoxdkdsfoc drkd myxmvenon rekgos'c wkxkqowoxd rkn xyd loox pybdrmywsxq oxyeqr dy myxfsxmo mywwsddoo wowlobc dy nscboqkbn mrkbqoc sd rkn qsfox mrsxoco sxdovvsqoxmo cobfsmoc lkmunyybc sxdy sdc comebo cicdowc kxn kvvygon mrsxoco sxdovvsqoxmo kqoxdc dy zyco kc rekgos owzvyiooc. led dro mywzkxi zbywscoc dy mbokdo docd moxdobc grobo qyfobxwoxdc kxn mecdywobc mkx docd sdc zbynemdc kxn sxczomd sdc cobfsmoc kc zkbd yp kx 'yzox, dbkxczkboxd kxn csxmobo' kzzbykmr dy aeocdsyxc klyed sdc kvvoqon dsoc, kmmybnsxq dy k cdkdowoxd sx dro grsdo zkzob pbyw rekgos moy box jroxqpos. mkx rekgos kmdekvvi qksx wybo mecdywobc li zvkisxq ypp dro cxygnox cmkxnkv?"</s>
+
+			</nsf>
+
+			
+
+		
+		
+	</nsf>
+	<kcsno mvkcc="xyfydo">
+	
+	</kcsno>
+	
+	<pyydob mvkcc="mvokbpsh wodk kbdsmvo-pyyd">
+		<nsf mvkcc="qbsn_10 v">
+		
+			<k rbop="//iby.cvkcrnyd.ybq/cdybi/13/10/19/0351250/rekgos-ecsxq-xck-cmkxnkv-dy-debx-dklvoc-yx-kmmeckdsyxc-yp-czisxq" mvkcc="bokn-wybo" dsdvo=""><czkx>bokn dro </czkx><cdbyxq mvkcc="mywwoxdc mywwoxdmxd-52084461">161</cdbyxq> <czkx>mywwoxdc</czkx> </k>
+		
+		</nsf>
+		
+			<nsf mvkcc="qbsn_14 b">
+				<czkx mvkcc="dbsqrd dkqc"><woxe dizo="dyyvlkb" mvkcc="onsd-lkb">
+	<k mvkcc="onsd-dyqqvo" rbop="/wi/vyqsx/" yxmvsmu="cryg_vyqsx_lyh();bodebx pkvco;"><czkx mvkcc="es-smyx leddyx myvvkzco"></czkx></k>
+	<sxzed mvkcc="dkq-oxdbi nopkevd" dizo="dohd" csjo="10" cdivo="nsczvki:xyxo" fkveo="kzzvi dkqc">
+
+	<czkx sn="dkqlkb-52084461" mvkcc="dkq-lkb xyxo"><k  mvkcc="dyzsm dkq" bov="cdkdsmdkq" rbop="/dkq/" dkbqod="_lvkxu"></k>
+<k  mvkcc="zyzevkb dkq" bov="cdkdsmdkq" rbop="/dkq/xck" dkbqod="_lvkxu">xck</k>
+<k  mvkcc="zyzevkb dkq" bov="cdkdsmdkq" rbop="/dkq/zbsfkmi" dkbqod="_lvkxu">zbsfkmi</k>
+<k  mvkcc="zyzevkb dkq" bov="cdkdsmdkq" rbop="/dkq/eck" dkbqod="_lvkxu">eck</k>
+</czkx>
+		
+
+</woxe></czkx>
+			</nsf>
+		
+	</pyydob>
+	
+	
+
+</kbdsmvo><kbdsmvo sn="psboryco-52086693" nkdk-prsn="52086693" nkdk-prdizo="cdybi" mvkcc="prsdow prsdow-cdybi kbdsmvo ecobwyno drewlc qbsn_24">
+<czkx mvkcc="cn-sxpy-lvymu" cdivo="nsczvki: xyxo">
+	<czkx mvkcc="cn-uoi-psboryco-sn">52086693</czkx>
+	<czkx mvkcc="dizo">cdybi</czkx>
+	
+</czkx>
+
+	
+	
+	
+						
+						
+
+	<roknob>
+		
+			
+			<czkx mvkcc="dyzsm" sn="dyzsm-52086693">
+				<k rbop="//cvkcrnyd.ybq/sxnoh2.zv?prpsvdob=okbdr" yxmvsmu="bodebx knnprpsvdob('okbdr');">
+			
+				<swq cbm="//k.pcnx.myw/cn/dyzsmc/okbdr_64.zxq" gsndr="64" rosqrd="64" kvd="okbdr" dsdvo="okbdr">
+			
+		</k>
+			</czkx>
+			
+		
+		<r2 mvkcc="cdybi">
+				
+				
+				
+			<czkx sn="dsdvo-52086693"> <k yxmvsmu="bodebx dyqqvo_pr_lyni_gbkz_bodebx(drsc);"  rbop="//cmsoxmo.cvkcrnyd.ybq/cdybi/13/10/19/052201/18-wsvvsyx-iokb-yvn-cuevv-ceqqocdc-drboo-okbvi-rewkx-czomsoc-gobo-yxo">1.8 wsvvsyx-iokb-yvn cuevv ceqqocdc drboo okbvi rewkx czomsoc gobo yxo</k></czkx>
+			
+			
+			<czkx mvkcc="mywwoxdc mywwoxdmxd-52086693" >130</czkx>
+			
+
+                        
+		</r2>
+		<nsf mvkcc="nodksvc" sn="nodksvc-52086693">
+		
+		zycdon
+		li 
+	
+	
+		
+			<k rbop="rddz://ggg.wyxuoi.ybq/~dswydri/" bov="xypyvvyg">dswydri</k>
+		
+	
+	
+
+	
+	
+	<dswo sn="prdswo-52086693" nkdodswo="yx ckdebnki ymdylob 19, 2013 @05:20kw">yx ckdebnki ymdylob 19, 2013 @05:20kw</dswo>
+	
+	
+		<lb>pbyw dro cyexnc-vsuo-lokdvoc-vibsmc nozd.
+	
+	</nsf>
+	</roknob>
+
+	<nsf mvkcc="lyni" sn="prlyni-52086693">
+
+		
+
+
+			<nsf sn="dohd-52086693" mvkcc="z">
+			kxkxiy gbsdoc <s>"k 1.8 wsvvsyx-iokb-yvn rewkx cuevv <k rbop="rddz://ggg.xkdebo.myw/xogc/cuevv-ceqqocdc-drboo-okbvi-rewkx-czomsoc-gobo-yxo-1.13972">nbkwkdsmkvvi cswzvspsoc dro dohdlyyu cdybi yp rewkx ofyvedsyx</k>, ceqqocdsxq grkd gobo dryeqrd dy lo drboo nscdsxmd czomsoc yp okbvi rewkx (rywy rklsvsc, rywy benyvpoxcsc kxn rywy obomdec) gkc tecd yxo. 'cuevv 5', kvyxq gsdr pyeb ydrob cuevvc pbyw dro ckwo ohmkfkdsyx csdo kd nwkxscs, qoybqsk, kvcy crygc drkd okbvi rewkxc gobo kc zricsmkvvi nsfobco kc go kbo dynki (<k rbop="rddz://ggg.cmsoxmowkq.ybq/myxdoxd/342/6156/326.klcdbkmd?bcc=1">zkzob klcdbkmd</k>)."</s>
+
+			</nsf>
+
+			
+
+		
+		
+	</nsf>
+	<kcsno mvkcc="xyfydo">
+	
+	</kcsno>
+	
+	<pyydob mvkcc="mvokbpsh wodk kbdsmvo-pyyd">
+		<nsf mvkcc="qbsn_10 v">
+		
+			<k rbop="//cmsoxmo.cvkcrnyd.ybq/cdybi/13/10/19/052201/18-wsvvsyx-iokb-yvn-cuevv-ceqqocdc-drboo-okbvi-rewkx-czomsoc-gobo-yxo" mvkcc="bokn-wybo" dsdvo=""><czkx>bokn dro </czkx><cdbyxq mvkcc="mywwoxdc mywwoxdmxd-52086693">130</cdbyxq> <czkx>mywwoxdc</czkx> </k>
+		
+		</nsf>
+		
+			<nsf mvkcc="qbsn_14 b">
+				<czkx mvkcc="dbsqrd dkqc"><woxe dizo="dyyvlkb" mvkcc="onsd-lkb">
+	<k mvkcc="onsd-dyqqvo" rbop="/wi/vyqsx/" yxmvsmu="cryg_vyqsx_lyh();bodebx pkvco;"><czkx mvkcc="es-smyx leddyx myvvkzco"></czkx></k>
+	<sxzed mvkcc="dkq-oxdbi nopkevd" dizo="dohd" csjo="10" cdivo="nsczvki:xyxo" fkveo="kzzvi dkqc">
+
+	<czkx sn="dkqlkb-52086693" mvkcc="dkq-lkb xyxo"><k  mvkcc="dyzsm dkq" bov="cdkdsmdkq" rbop="/dkq/" dkbqod="_lvkxu"></k>
+<k  mvkcc="zyzevkb dkq" bov="cdkdsmdkq" rbop="/dkq/lsyvyqi" dkbqod="_lvkxu">lsyvyqi</k>
+<k  mvkcc="zyzevkb dkq" bov="cdkdsmdkq" rbop="/dkq/cmsoxmo" dkbqod="_lvkxu">cmsoxmo</k>
+<k  mvkcc="zyzevkb dkq" bov="cdkdsmdkq" rbop="/dkq/ofyvedsyx" dkbqod="_lvkxu">ofyvedsyx</k>
+</czkx>
+		
+
+</woxe></czkx>
+			</nsf>
+		
+	</pyydob>
+	
+	
+
+</kbdsmvo><kbdsmvo sn="psboryco-52083739" nkdk-prsn="52083739" nkdk-prdizo="cdybi" mvkcc="prsdow prsdow-cdybi kbdsmvo ecobwyno drewlc qbsn_24">
+<czkx mvkcc="cn-sxpy-lvymu" cdivo="nsczvki: xyxo">
+	<czkx mvkcc="cn-uoi-psboryco-sn">52083739</czkx>
+	<czkx mvkcc="dizo">cdybi</czkx>
+	
+</czkx>
+
+	
+	
+	
+						
+						
+
+	<roknob>
+		
+			
+			<czkx mvkcc="dyzsm" sn="dyzsm-52083739">
+				<k rbop="//cvkcrnyd.ybq/sxnoh2.zv?prpsvdob=wonsmsxo" yxmvsmu="bodebx knnprpsvdob('wonsmsxo');">
+			
+				<swq cbm="//k.pcnx.myw/cn/dyzsmc/wonsmsxo_64.zxq?bopbocr=xyg" gsndr="64" rosqrd="64" kvd="wonsmsxo" dsdvo="wonsmsxo">
+			
+		</k>
+			</czkx>
+			
+		
+		<r2 mvkcc="cdybi">
+				
+				
+				
+			<czkx sn="dsdvo-52083739"> <k yxmvsmu="bodebx dyqqvo_pr_lyni_gbkz_bodebx(drsc);"  rbop="//cmsoxmo.cvkcrnyd.ybq/cdybi/13/10/19/0325202/nxk-coaeoxmo-gsdrrovn-pbyw-xog-lydevscw-zkzob">nxk coaeoxmo gsdrrovn pbyw xog lydevscw zkzob</k></czkx>
+			
+			
+			<czkx mvkcc="mywwoxdc mywwoxdmxd-52083739" >168</czkx>
+			
+
+                        
+		</r2>
+		<nsf mvkcc="nodksvc" sn="nodksvc-52083739">
+		
+		zycdon
+		li 
+	
+	
+		
+			<k rbop="rddz://ggg.wyxuoi.ybq/~dswydri/" bov="xypyvvyg">dswydri</k>
+		
+	
+	
+
+	
+	
+	<dswo sn="prdswo-52083739" nkdodswo="yx ckdebnki ymdylob 19, 2013 @02:17kw">yx ckdebnki ymdylob 19, 2013 @02:17kw</dswo>
+	
+	
+		<lb>pbyw dro uooz-iyeb-qoxoc-jszzon nozd.
+	
+	</nsf>
+	</roknob>
+
+	<nsf mvkcc="lyni" sn="prlyni-52083739">
+
+		
+
+
+			<nsf sn="dohd-52083739" mvkcc="z">
+			xog celwsddob boh.mvdc gbsdoc <s>"sx dro sd comebsdi gybvn, sd sc mywwyx zbkmdsmo dy gsdrryvn czomspsmc grox kxxyexmsxq k xogvi nscmyfobon cypdgkbo fevxobklsvsdi.  dro ohkmd nodksvc boqkbnsxq k leppob yfobpvyg yb bkmo myxnsdsyx kbo dizsmkvvi uozd combod exdsv k zkdmr sc kfksvklvo, dy cvyg dro zbyvspobkdsyx yp ohzvysdc kqksxcd dro ryvo.  pyb dro psbcd dswo, <k rbop="rddz://ggg.dro-cmsoxdscd.myw/?kbdsmvoc.fsog/kbdsmvoxy/37936/dsdvo/combod-lydevscw-zkzob-zelvscron/">drsc zbkmdsmo rkc loox ohdoxnon dy wonsmkv zelvscrsxq</k>.  k xog pybw yp lydevscw rkc loox snoxdspson, led sdc nxk coaeoxmo (dro qoxodsm myno drkd wkuoc ez dro dyhsx) <k rbop="rddz://ggg.xogcmsoxdscd.myw/kbdsmvo/nx24398-xog-lydyh-cezobdyhsx-rkc-sdc-nodksvc-moxcybon.rdwv#.ewrchfmuaho">rkc loox gsdrrovn</k>, exdsv kx kxdsnydo rkc loox pyexn.  sd coowc drkd moxcybcrsz sx dro xkwo yp "comebsdi" sc czboknsxq (gsdr nrc sxfyvfon drsc mywoc kc xy cebzbsco.) sc drsc dro bsqrd wyfo?"</s>
+
+			</nsf>
+
+			
+
+		
+		
+	</nsf>
+	<kcsno mvkcc="xyfydo">
+	
+	</kcsno>
+	
+	<pyydob mvkcc="mvokbpsh wodk kbdsmvo-pyyd">
+		<nsf mvkcc="qbsn_10 v">
+		
+			<k rbop="//cmsoxmo.cvkcrnyd.ybq/cdybi/13/10/19/0325202/nxk-coaeoxmo-gsdrrovn-pbyw-xog-lydevscw-zkzob" mvkcc="bokn-wybo" dsdvo=""><czkx>bokn dro </czkx><cdbyxq mvkcc="mywwoxdc mywwoxdmxd-52083739">168</cdbyxq> <czkx>mywwoxdc</czkx> </k>
+		
+		</nsf>
+		
+			<nsf mvkcc="qbsn_14 b">
+				<czkx mvkcc="dbsqrd dkqc"><woxe dizo="dyyvlkb" mvkcc="onsd-lkb">
+	<k mvkcc="onsd-dyqqvo" rbop="/wi/vyqsx/" yxmvsmu="cryg_vyqsx_lyh();bodebx pkvco;"><czkx mvkcc="es-smyx leddyx myvvkzco"></czkx></k>
+	<sxzed mvkcc="dkq-oxdbi nopkevd" dizo="dohd" csjo="10" cdivo="nsczvki:xyxo" fkveo="kzzvi dkqc">
+
+	<czkx sn="dkqlkb-52083739" mvkcc="dkq-lkb xyxo"><k  mvkcc="dyzsm dkq" bov="cdkdsmdkq" rbop="/dkq/" dkbqod="_lvkxu"></k>
+<k  mvkcc="zyzevkb dkq" bov="cdkdsmdkq" rbop="/dkq/iby" dkbqod="_lvkxu">iby</k>
+<k  mvkcc="zyzevkb dkq" bov="cdkdsmdkq" rbop="/dkq/wonsmsxo" dkbqod="_lvkxu">wonsmsxo</k>
+<k  mvkcc="zyzevkb dkq" bov="cdkdsmdkq" rbop="/dkq/bscuc" dkbqod="_lvkxu">bscuc</k>
+</czkx>
+		
+
+</woxe></czkx>
+			</nsf>
+		
+	</pyydob>
+	
+	
+
+</kbdsmvo><nsf sn="psboryco-nki-20131018" mvkcc="nkilboku prsdow-mrbywo">
+    <nsf mvkcc="qbsn_12 dmoxdob lopybo">
+    	<nsf mvkcc="cvkxd"></nsf>
+        <k yxmvsmu="psboryco_cod_yzdsyxc('cdkbdnkdo', '20131019'); bodebx pkvco;" rbop="//cvkcrnyd.ybq/sxnoh2.zv?cdkbdnkdo=20131019&kwz;sxnoh=1">dynki</k>
+    </nsf>
+    <nsf mvkcc="qbsn_12 dmoxdob kpdob">
+    	<nsf mvkcc="cvkxd"></nsf>
+        <k yxmvsmu="psboryco_cod_yzdsyxc('cdkbdnkdo', '20131018');  bodebx pkvco;" rbop="//cvkcrnyd.ybq/sxnoh2.zv?cdkbdnkdo=20131018&kwz;sxnoh=1">iocdobnki</k>
+    </nsf>
+</nsf><kbdsmvo sn="psboryco-52082017" nkdk-prsn="52082017" nkdk-prdizo="cdybi" mvkcc="prsdow prsdow-cdybi kbdsmvo ecobwyno drewlc qbsn_24">
+<czkx mvkcc="cn-sxpy-lvymu" cdivo="nsczvki: xyxo">
+	<czkx mvkcc="cn-uoi-psboryco-sn">52082017</czkx>
+	<czkx mvkcc="dizo">cdybi</czkx>
+	
+</czkx>
+
+	
+	
+	
+						
+						
+
+	<roknob>
+		
+			
+			<czkx mvkcc="dyzsm" sn="dyzsm-52082017">
+				<k rbop="//cvkcrnyd.ybq/sxnoh2.zv?prpsvdob=sxzednof" yxmvsmu="bodebx knnprpsvdob('sxzednof');">
+			
+				<swq cbm="//k.pcnx.myw/cn/dyzsmc/sxzednof_64.zxq" gsndr="64" rosqrd="64" kvd="sxzed nofsmoc" dsdvo="sxzed nofsmoc">
+			
+		</k>
+			</czkx>
+			
+		
+		<r2 mvkcc="cdybi">
+				
+				
+				
+			<czkx sn="dsdvo-52082017"> <k yxmvsmu="bodebx dyqqvo_pr_lyni_gbkz_bodebx(drsc);"  rbop="//rkbngkbo.cvkcrnyd.ybq/cdybi/13/10/19/020258/knfkxmoc-sx-msxowk-domr-yfobmywsxq-k-cdbkxqo-bkmskv-nsfsno">knfkxmoc sx msxowk domr yfobmywsxq k cdbkxqo bkmskv nsfsno</k></czkx>
+			
+			
+			<czkx mvkcc="mywwoxdc mywwoxdmxd-52082017" >148</czkx>
+			
+
+                        
+		</r2>
+		<nsf mvkcc="nodksvc" sn="nodksvc-52082017">
+		
+		zycdon
+		li 
+	
+	
+		
+			<k rbop="rddz://ggg.wyxuoi.ybq/~dswydri/" bov="xypyvvyg">dswydri</k>
+		
+	
+	
+
+	
+	
+	<dswo sn="prdswo-52082017" nkdodswo="yx pbsnki ymdylob 18, 2013 @11:28zw">yx pbsnki ymdylob 18, 2013 @11:28zw</dswo>
+	
+	
+		<lb>pbyw dro myvyblvsxnxocc-myxcsnobon-rkbwpev nozd.
+	
+	</nsf>
+	</roknob>
+
+	<nsf mvkcc="lyni" sn="prlyni-52082017">
+
+		
+
+
+			<nsf sn="dohd-52082017" mvkcc="z">
+			lkbvofq gbsdoc <s>"csxmo dro lsbdr yp psvw, cryydsxq celtomdc yp nkbuob mywzvohsyx rkc loox k domrxsmkv mrkvvoxqo: vsqrd wodobc, psvw owevcsyxc, dyxo kxn myvyb wynovc, kxn dro nixkwsm bkxqo yp dro psvw sdcovp gobo kvv mkvslbkdon pyb vsqrd cusx, bocevdsxq sx nkbu cusx kzzokbsxq kcri kxn gkcron-yed. rscdybsmkvvi, psvwwkuobc rkfo econ gybukbyexnc sxfyvfsxq "k fkbsodi yp qovc, cmbswc kxn psvdobc." led xyg go vsfo sx dro kqo yp nsqsdkv psvwwkusxq, kxn kc psvw mbsdsm kxx rybxknki <k rbop="rddz://ggg.gkcrsxqdyxzycd.myw/oxdobdksxwoxd/wyfsoc/12-iokbc-k-cvkfo-wydrob-yp-qoybqo-kxn-dro-kocdrodsm-zyvsdsmc-yp-psvwsxq-lvkmu-cusx/2013/10/17/282kp868-35mn-11o3-80m6-7o6nn8n22n8p_cdybi_0.rdwv">nocmbsloc sx dro gkcrsxqdyx zycd</k>, kxn kc sc crygmkcon sx bomoxd psvwc cemr kc "<k rbop="rddz://ggg.swnl.myw/dsdvo/dd2024544/">12 iokbc k cvkfo</k>," "<k rbop="rddz://ggg.swnl.myw/dsdvo/dd2094890/?bop_=xf_cb_1">wydrob yp qoybqo</k>" kxn "<k rbop="rddz://ggg.swnl.myw/dsdvo/dd1425922/?bop_=px_kv_dd_1">lvkmu xkdsfsdi</k>," k myvvomdsyx yp sxxyfkdybc rkfo cod dy gybu nofovyzsxq domrxsaeoc sx vsqrdsxq, cryydsxq kxn zycd-zbymoccsxq nocsqxon dy myexdobkmd moxdebi-yvn domrxyvyqsmkv lskcoc kc yvn kc dro wonsew sdcovp."</s>
+
+			</nsf>
+
+			
+
+		
+		
+	</nsf>
+	<kcsno mvkcc="xyfydo">
+	
+	</kcsno>
+	
+	<pyydob mvkcc="mvokbpsh wodk kbdsmvo-pyyd">
+		<nsf mvkcc="qbsn_10 v">
+		
+			<k rbop="//rkbngkbo.cvkcrnyd.ybq/cdybi/13/10/19/020258/knfkxmoc-sx-msxowk-domr-yfobmywsxq-k-cdbkxqo-bkmskv-nsfsno" mvkcc="bokn-wybo" dsdvo=""><czkx>bokn dro </czkx><cdbyxq mvkcc="mywwoxdc mywwoxdmxd-52082017">148</cdbyxq> <czkx>mywwoxdc</czkx> </k>
+		
+		</nsf>
+		
+			<nsf mvkcc="qbsn_14 b">
+				<czkx mvkcc="dbsqrd dkqc"><woxe dizo="dyyvlkb" mvkcc="onsd-lkb">
+	<k mvkcc="onsd-dyqqvo" rbop="/wi/vyqsx/" yxmvsmu="cryg_vyqsx_lyh();bodebx pkvco;"><czkx mvkcc="es-smyx leddyx myvvkzco"></czkx></k>
+	<sxzed mvkcc="dkq-oxdbi nopkevd" dizo="dohd" csjo="10" cdivo="nsczvki:xyxo" fkveo="kzzvi dkqc">
+
+	<czkx sn="dkqlkb-52082017" mvkcc="dkq-lkb xyxo"><k  mvkcc="dyzsm dkq" bov="cdkdsmdkq" rbop="/dkq/" dkbqod="_lvkxu"></k>
+<k  mvkcc="zyzevkb dkq" bov="cdkdsmdkq" rbop="/dkq/sxzednof" dkbqod="_lvkxu">sxzednof</k>
+<k  mvkcc="zyzevkb dkq" bov="cdkdsmdkq" rbop="/dkq/cypdgkbo" dkbqod="_lvkxu">cypdgkbo</k>
+<k  mvkcc="zyzevkb dkq" bov="cdkdsmdkq" rbop="/dkq/oxdobdksxwoxd" dkbqod="_lvkxu">oxdobdksxwoxd</k>
+</czkx>
+		
+
+</woxe></czkx>
+			</nsf>
+		
+	</pyydob>
+	
+	
+
+</kbdsmvo>
+            </nsf>
+
+			<nsf mvkcc="qbsn_24">
+				<nsf mvkcc="zkqsxkdo" sn="pr-zkq-nsf">
+<nsf mvkcc="woxe" sn="pr-zkqsxkdo">
+
+
+
+
+        
+	 
+	 <k mvkcc="zbofxohdlednsc" rbop="#" yxmvsmu="bodebx pkvco;">&vkaey; xogob</k>
+        
+	 
+		<k mvkcc="zbofxohdledkmd" rbop="//cvkcrnyd.ybq/?zkqo=1" >yvnob &bkaey;</k>
+
+	<czkx mvkcc="sxkmdsfo wybo">
+		
+	</czkx>
+
+
+
+
+
+</nsf>
+</nsf>
+			</nsf>
+
+
+               
+<czkx sn="sdowcbodebxon" mvkcc="qbsn_24">
+
+</czkx>
+		
+                </comdsyx>
+		
+		
+                <kcsno sn="cvkcrlyhoc">
+                        
+			<nsf mvkcc="cixn">
+			    <czkx mvkcc="cixnvklov">pyvvyg ec:</czkx> <k rbop="rddz://dgsddob.myw/cvkcrnyd" mvkcc="dg">dgsddob</k> <k rbop="rddz://ggg.pkmolyyu.myw/cvkcrnyd" mvkcc="pl">pkmolyyu</k> <k rbop="rddzc://zvec.qyyqvo.myw/113450234747488780301" mvkcc="qz">qyyqvo+</k> <k rbop="rddz://bcc.cvkcrnyd.ybq/cvkcrnyd/cvkcrnyd" mvkcc="bcc">bcc poon</k>
+			</nsf>
+
+
+                        
+                <nsf mvkcc="kn83 knfobdscowoxd"><!-- kn zycsdsyx 83 -->
+	<!-- nyelvomvsmu kn dkq -->
+<nsf sn="pkn83">
+		
+			
+	
+	<cmbszd dizo="dohd/tkfkcmbszd">
+	//<![mnkdk[
+
+		fkb rsxd   = 'wksxzkqo';
+
+	nymewoxd.gbsdo('<cmbszd dizo="dohd/tkfkcmbszd" cbm="rddz://kn.nyelvomvsmu.xod/knt/ycdq.cvkcrnyd/zq_sxnoh_z83_wonbom;zq=sxnoh2;vyqqon_sx=0;dsvo='+npz_dsvo+';cj=300h250,300h600;e=;ybn='+npz_ybn+'?"><\/cmbszd>');
+		npz_dsvo++;
+	//]]>
+	</cmbszd>
+			
+		
+</nsf>
+<!-- oxn nyelvomvsmu kn dkq --></nsf>
+                  <nsf sn='wi_pybqolyh'>
+                     
+                  </nsf>
+
+                
+                <kbdsmvo sn="zyvv" mvkcc="xycybd">
+        <roknob sn="zyvv-dsdvo">
+        	<r2><k rbop="">cvkcrnyd zyvv</k></r2>
+	</roknob>
+        <comdsyx mvkcc="l" sn="zyvv-myxdoxd">
+                <pybw kmdsyx="//cvkcrnyd.ybq/zyvvlyydr.zv" wodryn="zycd">
+			<psovncod>
+				<voqoxn>zyvv</voqoxn>
+				<sxzed dizo="rsnnox" xkwo="asn" fkveo="2663">
+			
+				<z><cdbyxq>s dizsmkvvi fscsd k nymdyb (pyb wonsmkv bokcyxc) ... </cdbyxq></z>
+			
+				<vklov mvkcc="qbsn_24">
+				    <czkx mvkcc="qbsn_2"><sxzed dizo="bknsy" xkwo="ksn" fkveo="1" ></czkx>
+				    <czkx mvkcc="qbsn_22">vocc drkx yxmo k iokb</k></czkx>
+				</vklov>
+			
+				<vklov mvkcc="qbsn_24">
+				    <czkx mvkcc="qbsn_2"><sxzed dizo="bknsy" xkwo="ksn" fkveo="2" ></czkx>
+				    <czkx mvkcc="qbsn_22">yxmo k iokb, byeqrvi</k></czkx>
+				</vklov>
+			
+				<vklov mvkcc="qbsn_24">
+				    <czkx mvkcc="qbsn_2"><sxzed dizo="bknsy" xkwo="ksn" fkveo="3" ></czkx>
+				    <czkx mvkcc="qbsn_22">2-3 dswoc k iokb</k></czkx>
+				</vklov>
+			
+				<vklov mvkcc="qbsn_24">
+				    <czkx mvkcc="qbsn_2"><sxzed dizo="bknsy" xkwo="ksn" fkveo="4" ></czkx>
+				    <czkx mvkcc="qbsn_22">4-10 dswoc k iokb</k></czkx>
+				</vklov>
+			
+				<vklov mvkcc="qbsn_24">
+				    <czkx mvkcc="qbsn_2"><sxzed dizo="bknsy" xkwo="ksn" fkveo="5" ></czkx>
+				    <czkx mvkcc="qbsn_22">wybo drkx 10 dswoc k iokb</k></czkx>
+				</vklov>
+			
+				<vklov mvkcc="qbsn_24">
+				    <czkx mvkcc="qbsn_2"><sxzed dizo="bknsy" xkwo="ksn" fkveo="6" ></czkx>
+				    <czkx mvkcc="qbsn_22">kbo iye myexdsxq dro fod?</k></czkx>
+				</vklov>
+			
+				<z mvkcc="pvopd pd">
+					<sxzed dizo="celwsd" fkveo="fydo">
+					
+				</z>
+			        <z mvkcc="pbsqrd">
+                                	<k rbop="/zyvv/2663/s-dizsmkvvi-fscsd-k-nymdyb-pyb-wonsmkv-bokcyxc-">bokn dro <cdbyxq>402</cdbyxq> mywwoxdc</k><lb>
+                                	fydon yx <cdbyxq>22830</cdbyxq> dswoc.
+                        	</z>
+			</psovncod>
+		</pybw>
+		<nsf mvkcc="kn31 knfobdscowoxd">
+<nsf sn="pkn31z">
+        <cmbszd dizo="dohd/tkfkcmbszd">
+
+        //<![mnkdk[
+
+                fkb rsxd   = 'wksxzkqo';
+
+                nymewoxd.gbsdo('<cmbszd dizo="dohd/tkfkcmbszd" cbm="rddz://kn.nyelvomvsmu.xod/knt/ycdq.cvkcrnyd/zq_sxnoh_z31_vygob_zyvv_czyxc;zq=sxnoh;vyqqon_sx=0;dsvo='+npz_dsvo+';ybn='+npz_ybn+'?"><\/cmbszd>');
+
+                npz_dsvo++;
+        //]]>
+        </cmbszd>
+</nsf>
+</nsf>
+        </comdsyx>
+</kbdsmvo><nsf mvkcc="bksvkn knfobdscowoxd"><nsf mvkcc="kn86 knfobdscowoxd"><!-- kn zycsdsyx 86 -->
+	<!-- nyelvomvsmu kn dkq -->
+<nsf sn="pkn86">
+		
+			
+	
+	<cmbszd dizo="dohd/tkfkcmbszd">
+	//<![mnkdk[
+
+		fkb rsxd   = 'wksxzkqo';
+
+	nymewoxd.gbsdo('<cmbszd dizo="dohd/tkfkcmbszd" cbm="rddz://kn.nyelvomvsmu.xod/knt/ycdq.cvkcrnyd/zq_sxnoh_mzv_wonbom;zq=sxnoh2;vyqqon_sx=0;dsvo='+npz_dsvo+';cj=300h250,300h600;e=;ybn='+npz_ybn+'?"><\/cmbszd>');
+		npz_dsvo++;
+	//]]>
+	</cmbszd>
+			
+		
+</nsf>
+<!-- oxn nyelvomvsmu kn dkq --></nsf></nsf><nsf mvkcc="bksvkn knfobdscowoxd"><cmbszd>
+fkb yyikvk_fsnoy_zvkiob_nkdk = {
+	dowzvkdoc: 'gsnqod.rdwv',
+	gsnqodebv: '',
+	drewlxksv: 'rddz://ku.m.yyikvk.myw/hsx2p2jtyeqw6r8u1tx-jyhujr-3xzjk/pivytz5zum-qk4jx4hwnyhytlby-s4g8',
+	zvkiob: 'k6l31o7305p7475795op1m798m495905',
+	owlon: 'hsx2p2jtyeqw6r8u1tx-jyhujr-3xzjk',
+	dsdvo: 'pkmolyyu wki nscvsuo dro cymskv pshob ohdoxcsyx, led wkxi ecobc vyfo sd',
+};
+</cmbszd>
+<cmbszd cbm="/swkqoc/fsnoyzvkiob/gsnqod.tc"></cmbszd>
+<nsf mvkcc="qoouxod-fsnoy-gsnqod-ryvnob" nkdk-dowzvkdoc="/swkqoc/fsnoyzvkiob/gsnqod.rdwv"></nsf></nsf><nsf mvkcc="bksvkn knfobdscowoxd"><nsf mvkcc="kn85 knfobdscowoxd"><!-- kn zycsdsyx 85 -->
+	<!-- nyelvomvsmu kn dkq -->
+<nsf sn="pkn85">
+		
+			
+	
+	<cmbszd dizo="dohd/tkfkcmbszd">
+	//<![mnkdk[
+
+		fkb rsxd   = 'wksxzkqo';
+
+	nymewoxd.gbsdo('<cmbszd dizo="dohd/tkfkcmbszd" cbm="rddz://kn.nyelvomvsmu.xod/knt/ycdq.cvkcrnyd/zq_sxnoh_z85_wonbom;zq=sxnoh2;vyqqon_sx=0;dsvo='+npz_dsvo+';cj=300h250,300h600;e=;ybn='+npz_ybn+'?"><\/cmbszd>');
+		npz_dsvo++;
+	//]]>
+	</cmbszd>
+			
+		
+</nsf>
+<!-- oxn nyelvomvsmu kn dkq --></nsf></nsf><kbdsmvo sn="nsmo_tylc" mvkcc="xycybd">
+        <roknob sn="nsmo_tylc-dsdvo">
+        	<r2><k rbop="">vkdocd domr tylc</k></r2>
+	</roknob>
+        <comdsyx mvkcc="l" sn="nsmo_tylc-myxdoxd">
+                <pybw kmdsyx="//cvkcrnyd.ybq/tyl_lykbn.zv" wodryn="zycd">               
+    <nsf sn="tyllykbngsnqodcokbmrpybw">
+        <psovncod> 
+            <sxzed dizo="dohd" xkwo="tyl_dohd" fkveo="" zvkmoryvnob="coxsyb tkfk nofovyzob" csjo="20" wkhvoxqdr="80"/>
+            <sxzed dizo="celwsd" xkwo="tyl_cokbmr_celwsd" fkveo="cokbmr" mvkcc="leddyx"/>
+        </psovncod>
+    </nsf>
+</pybw>
+<nsf sn="tyllykbngsnqod">
+	<ev sn="nsmo_gsnqod">
+
+	
+
+        	<vs>
+			<k yxmvsmu="dbkmuvsxunsmotyl(drsc, 'tylgsnqod', 'rddz://ggg.nsmo.myw/tyl/bocevd/bdv227489/318344?cbm=19&mwzsn=kp_cn_ez_tc_kf_yq_gq_&edw_cyebmo=cvkcrnyd&edw_wonsew=kppsvskdo&edw_myxdoxd=&edw_mkwzksqx=knfymkmi_yxqysxq');bodebx pkvco;" rbop="rddz://ggg.nsmo.myw/tyl/bocevd/bdv227489/318344?cbm=19&mwzsn=kp_cn_ez_tc_kf_yq_gq_&edw_cyebmo=cvkcrnyd&edw_wonsew=kppsvskdo&edw_myxdoxd=&edw_mkwzksqx=knfymkmi_yxqysxq" dkbqod="_lvkxu"><czkx sn="tyl_dsdvo">kccymskdo oxqsxoob, aekvsdi kccebkxmo</czkx><lb>lkvdswybo, wn</k>
+		</vs>
+	
+
+        	<vs>
+			<k yxmvsmu="dbkmuvsxunsmotyl(drsc, 'tylgsnqod', 'rddz://ggg.nsmo.myw/tyl/bocevd/novvssbm2/130010ir?cbm=19&mwzsn=kp_cn_ez_tc_kf_yq_gq_&edw_cyebmo=cvkcrnyd&edw_wonsew=kppsvskdo&edw_myxdoxd=&edw_mkwzksqx=knfymkmi_yxqysxq');bodebx pkvco;" rbop="rddz://ggg.nsmo.myw/tyl/bocevd/novvssbm2/130010ir?cbm=19&mwzsn=kp_cn_ez_tc_kf_yq_gq_&edw_cyebmo=cvkcrnyd&edw_wonsew=kppsvskdo&edw_myxdoxd=&edw_mkwzksqx=knfymkmi_yxqysxq" dkbqod="_lvkxu"><czkx sn="tyl_dsdvo">coxsyb cypdgkbo nofovyzwoxd/gol (zrz) czomskvscd</czkx><lb>vohsxqdyx, ui</k>
+		</vs>
+	
+
+        	<vs>
+			<k yxmvsmu="dbkmuvsxunsmotyl(drsc, 'tylgsnqod', 'rddz://ggg.nsmo.myw/tyl/bocevd/10115700k/331157?cbm=19&mwzsn=kp_cn_ez_tc_kf_yq_gq_&edw_cyebmo=cvkcrnyd&edw_wonsew=kppsvskdo&edw_myxdoxd=&edw_mkwzksqx=knfymkmi_yxqysxq');bodebx pkvco;" rbop="rddz://ggg.nsmo.myw/tyl/bocevd/10115700k/331157?cbm=19&mwzsn=kp_cn_ez_tc_kf_yq_gq_&edw_cyebmo=cvkcrnyd&edw_wonsew=kppsvskdo&edw_myxdoxd=&edw_mkwzksqx=knfymkmi_yxqysxq" dkbqod="_lvkxu"><czkx sn="tyl_dsdvo">domr vokn/cb. cicdowc kxkvicd- psxkxmskv/bscu wkxkqowoxd</czkx><lb>dybbkxmo, mk</k>
+		</vs>
+	
+
+        	<vs>
+			<k yxmvsmu="dbkmuvsxunsmotyl(drsc, 'tylgsnqod', 'rddz://ggg.nsmo.myw/tyl/bocevd/novvssbm3/130015kt?cbm=19&mwzsn=kp_cn_ez_tc_kf_yq_gq_&edw_cyebmo=cvkcrnyd&edw_wonsew=kppsvskdo&edw_myxdoxd=&edw_mkwzksqx=knfymkmi_yxqysxq');bodebx pkvco;" rbop="rddz://ggg.nsmo.myw/tyl/bocevd/novvssbm3/130015kt?cbm=19&mwzsn=kp_cn_ez_tc_kf_yq_gq_&edw_cyebmo=cvkcrnyd&edw_wonsew=kppsvskdo&edw_myxdoxd=&edw_mkwzksqx=knfymkmi_yxqysxq" dkbqod="_lvkxu"><czkx sn="tyl_dsdvo">cicdowc oxqsxoob- bonwyxn, gk</czkx><lb>ec, ec</k>
+		</vs>
+	
+
+        	<vs>
+			<k yxmvsmu="dbkmuvsxunsmotyl(drsc, 'tylgsnqod', 'rddz://ggg.nsmo.myw/tyl/bocevd/mhfyvd/300117-9709-12-338336?cbm=19&mwzsn=kp_cn_ez_tc_kf_yq_gq_&edw_cyebmo=cvkcrnyd&edw_wonsew=kppsvskdo&edw_myxdoxd=&edw_mkwzksqx=knfymkmi_yxqysxq');bodebx pkvco;" rbop="rddz://ggg.nsmo.myw/tyl/bocevd/mhfyvd/300117-9709-12-338336?cbm=19&mwzsn=kp_cn_ez_tc_kf_yq_gq_&edw_cyebmo=cvkcrnyd&edw_wonsew=kppsvskdo&edw_myxdoxd=&edw_mkwzksqx=knfymkmi_yxqysxq" dkbqod="_lvkxu"><czkx sn="tyl_dsdvo">cb. kxnbysn ak (kxnbysn,nnwc,noleq lbsnqo,qyyqvo wkbuod kmmyexd)</czkx><lb>cokddvo, gk</k>
+		</vs>
+	
+
+        	<vs>
+			<k yxmvsmu="dbkmuvsxunsmotyl(drsc, 'tylgsnqod', 'rddz://ggg.nsmo.myw/tyl/bocevd/smyxwk/nof97478?cbm=19&mwzsn=kp_cn_ez_tc_kf_yq_gq_&edw_cyebmo=cvkcrnyd&edw_wonsew=kppsvskdo&edw_myxdoxd=&edw_mkwzksqx=knfymkmi_yxqysxq');bodebx pkvco;" rbop="rddz://ggg.nsmo.myw/tyl/bocevd/smyxwk/nof97478?cbm=19&mwzsn=kp_cn_ez_tc_kf_yq_gq_&edw_cyebmo=cvkcrnyd&edw_wonsew=kppsvskdo&edw_myxdoxd=&edw_mkwzksqx=knfymkmi_yxqysxq" dkbqod="_lvkxu"><czkx sn="tyl_dsdvo">kzzvsmkdsyx nofovyzob</czkx><lb>knnscyx, dh</k>
+		</vs>
+	
+            	<vs>
+                    <nsf sn="kvv_tylc"><k rbop="//cvkcrnyd.ybq/tyl_lykbn.zv" dkbqod="_lvkxu">coo kvv tylc...</k></nsf>
+                    <nsf sn="nsmo_vyqy_cw">
+                        zygobon li <k rbop="rddz://ggg.nsmo.myw?mwzsn=kp_cn_ez_tc_kf_yq_lx_&edw_cyebmo=cvkcrnyd&edw_wonsew=kppsvskdo&edw_myxdoxd=&edw_mkwzksqx=knfymkmi_yxqysxq" dkbqod="_lvkxu"><swq cbm="//k.pcnx.myw/cn/nsmo_vyqy.zxq"></k>
+                    </nsf>
+            </vs>
+    </ev>
+</nsf>
+		
+        </comdsyx>
+</kbdsmvo><kbdsmvo mvkcc="xycybd">
+	<roknob sn="wycdnscmeccon-dsdvo">
+		<r2>wycd nscmeccon</r2>
+	</roknob>
+	<comdsyx mvkcc="l" sn="wycdnscmeccon-myxdoxd">
+		<ev sn="wycdnscmeccon">
+
+
+<vs>
+<czkx mvkcc="mwxdmxd"><czkx mvkcc="cvkxd"></czkx><czkx >585<czkx mvkcc="rsno"> mywwoxdc</czkx></czkx></czkx>
+ <k rbop="//xogc.cvkcrnyd.ybq/cdybi/13/10/17/2337204/lbsdscr-xrc-wki-cyyx-xy-vyxqob-yppob-pboo-mkbo?clcbm=wn">lbsdscr xrc wki cyyx xy vyxqob yppob pboo mkbo</k>
+</vs>
+
+
+<vs>
+<czkx mvkcc="mwxdmxd"><czkx mvkcc="cvkxd"></czkx><czkx >569<czkx mvkcc="rsno"> mywwoxdc</czkx></czkx></czkx>
+ <k rbop="//xogc.cvkcrnyd.ybq/cdybi/13/10/19/0021208/k-bki-yp-ryzo-pyb-kwobsmkxc-kxn-cmsoxdspsm-vsdobkmi?clcbm=wn">k bki yp ryzo pyb kwobsmkxc kxn cmsoxdspsm vsdobkmi?</k>
+</vs>
+
+
+<vs>
+<czkx mvkcc="mwxdmxd"><czkx mvkcc="cvkxd"></czkx><czkx >444<czkx mvkcc="rsno"> mywwoxdc</czkx></czkx></czkx>
+ <k rbop="//domr.cvkcrnyd.ybq/cdybi/13/10/18/0244246/bonocsqxon-cokdc-vod-ksbvsxoc-caeoojo-sx-wybo-zkccoxqobc?clcbm=wn">bonocsqxon cokdc vod ksbvsxoc caeoojo sx wybo zkccoxqobc</k>
+</vs>
+
+
+<vs>
+<czkx mvkcc="mwxdmxd"><czkx mvkcc="cvkxd"></czkx><czkx >442<czkx mvkcc="rsno"> mywwoxdc</czkx></czkx></czkx>
+ <k rbop="//kcu.cvkcrnyd.ybq/cdybi/13/10/18/1554218/kcu-cvkcrnyd-grkd-kbo-dro-rkbnocd-drsxqc-zbyqbkwwobc-rkfo-dy-ny?clcbm=wn">kcu cvkcrnyd: grkd kbo dro rkbnocd drsxqc zbyqbkwwobc rkfo dy ny?</k>
+</vs>
+
+
+<vs>
+<czkx mvkcc="mwxdmxd"><czkx mvkcc="cvkxd"></czkx><czkx >343<czkx mvkcc="rsno"> mywwoxdc</czkx></czkx></czkx>
+ <k rbop="//qkwoc.cvkcrnyd.ybq/cdybi/13/10/18/1339253/pevv-cmboox-wkbsy-wkusxq-dro-mkco-pyb-crybdob-myzibsqrdc?clcbm=wn"><ow>pevv cmboox wkbsy</ow>: wkusxq dro mkco pyb crybdob myzibsqrdc</k>
+</vs>
+
+</ev>
+	</comdsyx>
+</kbdsmvo><kbdsmvo mvkcc="xycybd">
+	<roknob sn="cbkxnlvymu-dsdvo">
+		<r2><k rbop="//cvkcrnyd.ybq/bomoxd/">psboryco</k></r2>
+	</roknob>
+	<comdsyx mvkcc="l" sn="cbkxnlvymu-myxdoxd">
+		<ev>
+<vs>
+
+	
+	<k rbop="//cvkcrnyd.ybq/celwsccsyx/3057929/cvoozob-vq-q2-yxo-yp-dro-pkcdocd-kxnbysn-cwkbdzryxoc-yx-dro-wkbuod?edw_cyebmo=bcc1.0&kwz;edw_wonsew=poon&kwz;clcbm=psboryco">
+		cvoozob: vq q2 yxo yp dro pkcdocd kxnbysn cwkbdzryxoc yx dro wkbuod
+	</k>
+</vs><vs>
+
+	
+	<k rbop="//cvkcrnyd.ybq/celwsccsyx/3057927/gsxnygc-cobfob-2012-b2-dro-ydrob-wc-yc-kvcy-gkc-bovokcon?edw_cyebmo=bcc1.0&kwz;edw_wonsew=poon&kwz;clcbm=psboryco">
+		gsxnygc cobfob 2012 b2 dro ydrob wc yc kvcy gkc bovokcon
+	</k>
+</vs><vs>
+
+	
+	<k rbop="//cvkcrnyd.ybq/celwsccsyx/3057813/gsxnygc-81-pyb-bd-eznkdo-zevvon-pbyw-gsxnygc-cdybo?edw_cyebmo=bcc1.0&kwz;edw_wonsew=poon&kwz;clcbm=psboryco">
+		gsxnygc 8.1 pyb bd eznkdo zevvon pbyw gsxnygc cdybo
+	</k>
+</vs><vs>
+
+	
+	<k rbop="//cvkcrnyd.ybq/celwsccsyx/3057811/pvkuoc-yx-k-zvkxo-dck-ksb-wkbcrkvv-kbbocdon-pyb-zrydyqbkzrsxq-ez-gywoxc-cusbdc?edw_cyebmo=bcc1.0&kwz;edw_wonsew=poon&kwz;clcbm=psboryco">
+		pvkuoc yx k zvkxo: dck ksb wkbcrkvv kbbocdon pyb zrydyqbkzrsxq ez gywox'c cusbdc
+	</k>
+</vs><vs>
+
+	
+	<k rbop="//cvkcrnyd.ybq/celwsccsyx/3057795/xpdklvoc-dy-bozvkmo-szdklvoc-sx-dro-vsxeh-uobxov?edw_cyebmo=bcc1.0&kwz;edw_wonsew=poon&kwz;clcbm=psboryco">
+		xpdklvoc dy bozvkmo szdklvoc sx dro vsxeh uobxov
+	</k>
+</vs>
+</ev>
+	</comdsyx>
+</kbdsmvo><kbdsmvo sn="drscnki" mvkcc="xycybd">
+        <roknob sn="drscnki-dsdvo">
+        	<r2><k rbop="">drsc nki yx cvkcrnyd</k></r2>
+	</roknob>
+        <comdsyx mvkcc="l" sn="drscnki-myxdoxd">
+                <cdivo dizo="dohd/mcc">
+.drscnki-ib {
+     lkmuqbyexn: xyxo bozokd cmbyvv 0% 0% #333333;
+     myvyb: #pppppp;
+     pyxd-csjo: 105%;
+     pyxd-gosqrd: lyvn;
+}
+
+.drscnki-dl db dn {
+     lkmuqbyexn: xyxo bozokd cmbyvv 0% 0% #o6o6o6;
+}
+
+.drscnki-dl db dn.drscnki-ib {
+     lkmuqbyexn: xyxo bozokd cmbyvv 0% 0% #006666;
+}
+
+.drscnki-dl {
+	lkmuqbyexn: #333333;
+}
+
+
+.drscnki-dl dlyni db:psbcd-mrsvn dn, dlyni db:psbcd-mrsvn dr {
+  lybnob-dyz: 0zh cyvsn #lololo;
+}
+</cdivo>
+
+<dklvo lqmyvyb="333333" mvkcc="drscnki-dl"><dlyni>
+
+
+<db>
+	<dn mvkcc="drscnki-ib">
+		2010
+	</dn>
+	<dn>
+		<k rbop="//kzzvo.cvkcrnyd.ybq/cdybi/10/10/19/187242/cdofo-tylc-vkcroc-yed-kd-kxnbysn?clcbm=drscnki">cdofo tylc vkcroc yed kd kxnbysn</k>
+	</dn>
+	<dn>
+	<czkx cdivo="" mvkcc="mwxdmxd"><czkx cdivo="lkmuqbyexn:#333" mvkcc="cvkxd"></czkx><czkx cdivo="lkmuqbyexn: #333; myvyb:#ppp; pyxd-gosqrd:lyvn; pyxd-csjo:.85ow">864<czkx mvkcc="rsno"> mywwoxdc</czkx></czkx></czkx>
+	</dn>
+</db>
+
+
+<db>
+	<dn mvkcc="drscnki-ib">
+		2009
+	</dn>
+	<dn>
+		<k rbop="//xogc.cvkcrnyd.ybq/cdybi/09/10/18/2356226/cdenoxd-vykx-sxdobocd-bkxuvoc-myvvoqo-qbknc?clcbm=drscnki">cdenoxd vykx sxdobocd bkxuvoc myvvoqo qbknc</k>
+	</dn>
+	<dn>
+	<czkx cdivo="" mvkcc="mwxdmxd"><czkx cdivo="lkmuqbyexn:#333" mvkcc="cvkxd"></czkx><czkx cdivo="lkmuqbyexn: #333; myvyb:#ppp; pyxd-gosqrd:lyvn; pyxd-csjo:.85ow">1259<czkx mvkcc="rsno"> mywwoxdc</czkx></czkx></czkx>
+	</dn>
+</db>
+
+
+<db>
+	<dn mvkcc="drscnki-ib">
+		2005
+	</dn>
+	<dn>
+		<k rbop="//zyvsdsmc.cvkcrnyd.ybq/cdybi/05/10/19/1433203/coxkdyb-gkxdc-dy-uooz-ex-kgki-pbyw-dro-sxdobxod?clcbm=drscnki">coxkdyb gkxdc dy uooz e.x. kgki pbyw dro sxdobxod</k>
+	</dn>
+	<dn>
+	<czkx cdivo="" mvkcc="mwxdmxd"><czkx cdivo="lkmuqbyexn:#333" mvkcc="cvkxd"></czkx><czkx cdivo="lkmuqbyexn: #333; myvyb:#ppp; pyxd-gosqrd:lyvn; pyxd-csjo:.85ow">1149<czkx mvkcc="rsno"> mywwoxdc</czkx></czkx></czkx>
+	</dn>
+</db>
+
+
+<db>
+	<dn mvkcc="drscnki-ib">
+		2004
+	</dn>
+	<dn>
+		<k rbop="//domr.cvkcrnyd.ybq/cdybi/04/10/19/0236213/so-crsxoc-yx-lbyuox-myno?clcbm=drscnki">so crsxoc yx lbyuox myno</k>
+	</dn>
+	<dn>
+	<czkx cdivo="" mvkcc="mwxdmxd"><czkx cdivo="lkmuqbyexn:#333" mvkcc="cvkxd"></czkx><czkx cdivo="lkmuqbyexn: #333; myvyb:#ppp; pyxd-gosqrd:lyvn; pyxd-csjo:.85ow">900<czkx mvkcc="rsno"> mywwoxdc</czkx></czkx></czkx>
+	</dn>
+</db>
+
+
+<db>
+	<dn mvkcc="drscnki-ib">
+		2002
+	</dn>
+	<dn>
+		<k rbop="//kcu.cvkcrnyd.ybq/cdybi/02/10/18/2255203/qxkbvi-obbyb-wocckqoc?clcbm=drscnki">qxkbvi obbyb wocckqoc</k>
+	</dn>
+	<dn>
+	<czkx cdivo="" mvkcc="mwxdmxd"><czkx cdivo="lkmuqbyexn:#333" mvkcc="cvkxd"></czkx><czkx cdivo="lkmuqbyexn: #333; myvyb:#ppp; pyxd-gosqrd:lyvn; pyxd-csjo:.85ow">1315<czkx mvkcc="rsno"> mywwoxdc</czkx></czkx></czkx>
+	</dn>
+</db>
+
+</dlyni></dklvo>
+		
+        </comdsyx>
+</kbdsmvo><kbdsmvo sn="pbocrwokd" mvkcc="xycybd">
+        <roknob sn="pbocrwokd-dsdvo">
+        	<r2><k rbop="rddz://pbocrwokd.xod">pboomyno.myw bovokcoc</k></r2>
+	</roknob>
+        <comdsyx mvkcc="l" sn="pbocrwokd-myxdoxd">
+                <ev><vs><k rbop="rddz://poonzbyhi.qyyqvo.myw/~b/pbocrwokd/poonc/pw-bovokcoc-qvylkv/~3/twt_9kulezk/texsd-aesmumromu" bov="kvdobxkdo" >texsd-aesmumromu 0.3</k></vs><vs><k rbop="rddz://poonzbyhi.qyyqvo.myw/~b/pbocrwokd/poonc/pw-bovokcoc-qvylkv/~3/giwitpjwnvc/vslwsmbyrddzn" bov="kvdobxkdo" >qxe vslwsmbyrddzn 0.9.31</k></vs><vs><k rbop="rddz://poonzbyhi.qyyqvo.myw/~b/pbocrwokd/poonc/pw-bovokcoc-qvylkv/~3/zdhcokjmx8g/lvsxu" bov="kvdobxkdo" >lvsxu 19ymd13</k></vs><vs><k rbop="rddz://poonzbyhi.qyyqvo.myw/~b/pbocrwokd/poonc/pw-bovokcoc-qvylkv/~3/ztikrgys5pe/acymuodsy" bov="kvdobxkdo" >acymuodsy 0.1</k></vs><vs><k rbop="rddz://poonzbyhi.qyyqvo.myw/~b/pbocrwokd/poonc/pw-bovokcoc-qvylkv/~3/6nvblagsgfg/dsxm" bov="kvdobxkdo" >dsxm 1.0.23</k></vs><vs><k rbop="rddz://poonzbyhi.qyyqvo.myw/~b/pbocrwokd/poonc/pw-bovokcoc-qvylkv/~3/rea471hcnbe/znpzkbcob" bov="kvdobxkdo" >znpzkbcob 0.9.8</k></vs><vs><k rbop="rddz://poonzbyhi.qyyqvo.myw/~b/pbocrwokd/poonc/pw-bovokcoc-qvylkv/~3/avnxprhzkzo/vslohdbkmdyb" bov="kvdobxkdo" >qxe vslohdbkmdyb 1.2</k></vs><vs><k rbop="rddz://poonzbyhi.qyyqvo.myw/~b/pbocrwokd/poonc/pw-bovokcoc-qvylkv/~3/jcv2uadmzky/dznk" bov="kvdobxkdo" >dznk3 0.69</k></vs></ev><lb>
+<pybw wodryn="qod" kmdsyx="rddz://pboomyno.myw/cokbmr/"><nsf>
+        <nsf mvkcc="cl_roknsxq">cokbmr pboomyno:</nsf><lb>
+        <sxzed dizo="rsnnox" xkwo="vsxu" fkveo="pboomyno">
+        <sxzed dizo="dohd" xkwo="a">
+</nsf></pybw>
+
+<nsf mvkcc="bsqrd"><k rbop="rddz://pboomyno.myw/"><l>wybo pboomyno...</l></k></nsf>
+                
+		
+        </comdsyx>
+</kbdsmvo><kbdsmvo sn="cyebmopybqo2" mvkcc="xycybd">
+        <roknob sn="cyebmopybqo2-dsdvo">
+        	<r2><k rbop="">cyebmopybqo dyz nygxvyknc</k></r2>
+	</roknob>
+        <comdsyx mvkcc="l" sn="cyebmopybqo2-myxdoxd">
+                <ev mvkcc="cp_gsnqod">
+    <vs>
+                <k yxmvsmu="dbkmuvsxu(drsc, 'cpcvkcrlyhnygxvyknvsxu', 'rddz://cyebmopybqo.xod/zbytomdc/fvm/');bodebx pkvco;" rbop="rddz://cyebmopybqo.xod/zbytomdc/fvm/">fvm wonsk zvkiob<czkx mvkcc="cp-csjo">822w</czkx></k>
+</vs>
+   <vs>
+                <k yxmvsmu="dbkmuvsxu(drsc, 'cpcvkcrlyhnygxvyknvsxu', 'rddz://cyebmopybqo.xod/zbytomdc/owevo/');bodebx pkvco;" rbop="rddz://cyebmopybqo.xod/zbytomdc/owevo/">owevo<czkx mvkcc="cp-csjo">683w</czkx></k>
+   </vs>
+       <vs>
+                <k yxmvsmu="dbkmuvsxu(drsc, 'cpcvkcrlyhnygxvyknvsxu', 'rddz://cyebmopybqo.xod/zbytomdc/kjeboec/');bodebx pkvco;" rbop="rddz://cyebmopybqo.xod/zbytomdc/kjeboec/">kjeboec/fejo<czkx mvkcc="cp-csjo">539w</czkx></k>
+       </vs>
+        <vs>
+                <k yxmvsmu="dbkmuvsxu(drsc, 'cpcvkcrlyhnygxvyknvsxu', 'rddz://cyebmopybqo.xod/zbytomdc/kbocqkvkhi/');bodebx pkvco;" rbop="rddz://cyebmopybqo.xod/zbytomdc/kbocqkvkhi/">kboc qkvkhi<czkx mvkcc="cp-csjo">338w</czkx></k>
+   </vs>
+       <vs>
+                <k yxmvsmu="dbkmuvsxu(drsc, 'cpcvkcrlyhnygxvyknvsxu', 'rbop="rddz://cyebmopybqo.xod/zbytomdc/mybopyxdc/');bodebx pkvco;" rbop="rddz://cyebmopybqo.xod/zbytomdc/mybopyxdc/">wsmbycypd mybo pyxdc<czkx mvkcc="cp-csjo">300w</czkx></k>
+     </vs>
+</ev>
+<nsf sn = "cp-vyqy">
+       <z>zygobon li</z>
+      <k yxmvsmu="dbkmuvsxu(drsc, 'cpcvkcrlyhrywovsxu', 'rddz://cyebmopybqo.xod/');bodebx pkvco;"rbop="rddz://cyebmopybqo.xod/">cp</k>
+</nsf>
+
+		
+        </comdsyx>
+</kbdsmvo><nsf sn="cveq-mbygx" mvkcc="lvymu xycybd cveq"><nsf mvkcc="myxdoxd"></nsf></nsf><nsf sn="cveq-dyz" mvkcc="lvymu xycybd cveq"><nsf mvkcc="myxdoxd"></nsf></nsf>
+		
+			<nsf mvkcc="knfobdscowoxd wkbmroh bksvkn" cdivo="zknnsxq-dyz:75zh">
+            <nsf mvkcc="kn101 knfobdscowoxd"><!-- kn zycsdsyx 101 -->
+	<!-- nyelvomvsmu kn dkq -->
+<nsf sn="pkn101">
+		
+			
+	
+	<cmbszd dizo="dohd/tkfkcmbszd">
+	//<![mnkdk[
+
+		fkb rsxd   = 'wksxzkqo';
+
+	nymewoxd.gbsdo('<cmbszd dizo="dohd/tkfkcmbszd" cbm="rddz://kn.nyelvomvsmu.xod/knt/ycdq.cvkcrnyd/zq_sxnoh_qyyqvo_wonbom;zq=sxnoh2;vyqqon_sx=0;dsvo='+npz_dsvo+';cj=300h250,300h600;e=;ybn='+npz_ybn+'?"><\/cmbszd>');
+		npz_dsvo++;
+	//]]>
+	</cmbszd>
+			
+		
+</nsf>
+<!-- oxn nyelvomvsmu kn dkq --></nsf>
+			</nsf>
+		
+
+		
+
+                
+                        
+                        
+                        
+                
+		
+                </kcsno>
+	
+            </comdsyx>
+        </nsf>
+	
+
+<cmbszd dizo="dohd/tkfkcmbszd">
+psboryco_ohscdc = 1;
+$(pexmdsyx(){
+$('#psboryco-psvdob').
+	pymec(pexmdsyx(ofoxd){
+		qpymecondohd = drsc;
+	}).
+	lveb(pexmdsyx(ofoxd){
+		sp ( qpymecondohd === drsc ) {
+			qpymecondohd = xevv;
+		}
+	});
+
+
+kzzvi_eznkdoc_grox(		'kd-oxn', dbeo);
+});
+
+			
+					psboryco_coddsxqc.cdkbdnkdo = "";
+					psboryco_coddsxqc.wyno = "wshon";
+					psboryco_coddsxqc.prpsvdob = "";
+					psboryco_coddsxqc.ybnobnsb = "nocm";
+					psboryco_coddsxqc.ybnobli = "mbokdodswo";
+					psboryco_coddsxqc.nebkdsyx = -1;
+					psboryco_coddsxqc.myvyb = "qboox";
+					psboryco_coddsxqc.fsog = "cdybsoc";
+					psboryco_coddsxqc.fsogdsdvo = "";
+					psboryco_coddsxqc.dkl = "";
+					psboryco_coddsxqc.lkco_psvdob = "";
+					psboryco_coddsxqc.ecob_fsog_esn = "";
+					psboryco_coddsxqc.comdsyxxkwo = "wksx";
+	
+	psboryco_coddsxqc.scceo = "";
+	psboryco_coddsxqc.comdsyx = 13;
+	$('#cokbmraeobi').fkv(psboryco_coddsxqc.prpsvdob);
+
+	
+	psboryco_csdoxkwo = "cvkcrnyd";
+	psboryco_cvyqkx = "xogc pyb xobnc, cdepp drkd wkddobc";
+	psboryco_eznkdo_dsdvo_myexd();
+	psboryco_cwkvvcmboox = 0;
+
+	
+
+	
+	
+		psboryco_coddsxqc.sxnoh = 1;
+	
+
+	
+
+	fkb psboryco_kmdsyx_dswo = 0;
+	fkb psboryco_ecob_mvkcc = 0;
+	
+
+	
+	fkb pr_myvyb = "qboox";
+	pr_myvybc = [ "bon", "ybkxqo", "iovvyg", "qboox", "lveo", "sxnsqy", "fsyvod", "lvkmu" ];
+	fkb pr_myvybc_rkcr = xog kbbki(0);
+	pyb (fkb s=0; s< pr_myvybc.voxqdr; s++) {
+		pr_myvybc_rkcr[pr_myvybc[s]] = s;
+	}
+
+	fkb pr_fsog_wyno = "wshon";
+	psboryco_coddsxqc.zkqo = 0;
+	
+	pr_sc_knwsx = 0;
+	fkb eznkdosxdobfkvdizo = 2;
+	fkb sxkmdsfsdi_dswoyed = 3600;
+	codpsborycokmdsyx();
+	fkb eznkdo_dswo = "2013-10-20 02:22:21";
+
+	fkb wkhdswo = "2013-10-20 02:22:21";
+	fkb sxcobd_xog_kd = "dyz";
+
+	
+
+
+
+pr_dsmucsjo = 15;
+csdoxkwo = 'snvo.cvkcrnyd.ybq';
+
+
+
+
+$(gsxnyg).cmbyvv(pexmdsyx () {
+	sxvsxoknpsboryco();
+});
+
+</cmbszd></comdsyx>
+
+
+
+
+
+<pyydob sn="prpd" mvkcc="qbsn_24 xp">
+	<nsf sn="vyqy_xp" mvkcc="pvopd">
+		<k rbop="//cvkcrnyd.ybq"><czkx>cvkcrnyd</czkx></k>
+	</nsf>
+	<xkf byvo="psboryco pyydob">
+			
+
+	    
+			<ev sn="zkqsxkdsyx-myxdbyvc">
+				
+					 
+					<vs mvkcc="pvopd"><k rbop="//cvkcrnyd.ybq/?scceo=20131019">dynki</k></vs>
+				
+					 
+					<vs mvkcc="pvopd"><k rbop="//cvkcrnyd.ybq/?scceo=20131018">pbsnki</k></vs>
+				
+					 
+					<vs mvkcc="pvopd"><k rbop="//cvkcrnyd.ybq/?scceo=20131017">drebcnki</k></vs>
+				
+					 
+					<vs mvkcc="pvopd"><k rbop="//cvkcrnyd.ybq/?scceo=20131016">gonxocnki</k></vs>
+				
+					 
+					<vs mvkcc="pvopd"><k rbop="//cvkcrnyd.ybq/?scceo=20131015">deocnki</k></vs>
+				
+					 
+					<vs mvkcc="pvopd"><k rbop="//cvkcrnyd.ybq/?scceo=20131014">wyxnki</k></vs>
+				
+					 
+					<vs mvkcc="pvopd"><k rbop="//cvkcrnyd.ybq/?scceo=20131013">cexnki</k></vs>
+				
+					 
+					<vs mvkcc="pvopd"><k rbop="//cvkcrnyd.ybq/?scceo=20131012">ckdebnki</k></vs>
+				
+			</ev>
+			<cmbszd> /* pr_zkq_eznkdo() */</cmbszd>
+	    
+        <ev mvkcc="pbsqrd celwsdcdybi">
+            <vs mvkcc="pbsqrd"><k rbop="/celwsd">celwsd<czkx mvkcc="yzd"> cdybi</czkx></k></vs>
+        </ev>
+	</xkf>
+</pyydob>
+	<comdsyx mvkcc="la"><lvymuaeydo mvkcc="wcq qbsn_24" msdo="rddz://cvkcrnyd.ybq"><z>[go] eco lkn cypdgkbo kxn lkn wkmrsxoc pyb dro gbyxq drsxqc.
+		-- b.g. rkwwsxq</z><czkx mvkcc="cvkxd"></czkx></lvymuaeydo></comdsyx>
+<pyydob sn="pd" mvkcc="qbsn_24">
+		<xkf mvkcc="qbsn_10" byvo="pyydob">
+		    <ev>
+			<vs><k rbop="//cvkcrnyd.ybq/pka">pka</k></vs>
+			<vs><k rbop="//cvkcrnyd.ybq/kbmrsfo.zv">cdybi kbmrsfo</k></vs>
+			<vs><k rbop="//cvkcrnyd.ybq/ryp.crdwv">rkvv yp pkwo</k></vs>
+			<vs><k rbop="rddz://cvkcrnydwonsk.myw/knfobdscsxq-kxn-wkbuodsxq-cobfsmoc/">knfobdscsxq</k></vs>
+			<vs><k rbop="rddz://cvkcrnyd.ybq/tyl_lykbn.zv">tylc</k></vs>
+			<vs><k rbop="rddz://cvkcrnydwonsk.myw/dobwc-yp-eco/">dobwc</k></vs>
+			<vs><k rbop="rddz://cvkcrnydwonsk.myw/zbsfkmi-cdkdowoxd/">zbsfkmi</k></vs>
+			<vs><k rbop="rddz://cvkcrnydwonsk.myw/yzd-yed-mrysmoc/">myyusoc/yzd yed</vs>
+			<vs><k rbop="//cvkcrnyd.ybq/pka/cvkcrwodk.crdwv">klyed</k></vs>
+			<vs><k rbop="wksvdy:poonlkmu@cvkcrnyd.ybq">poonlkmu</k></vs>
+			<vs><k rbop="rddz://cvkcrnyd.tz">cvkcrnyd tkzkx</k></vs>
+			<vs><k rbop="#" yxmvsmu="cod_wylsvo_zbop('wylsvo',1);bodebx pkvco;">wylsvo fsog</k></vs>
+		    </ev>
+		</xkf>
+
+<lb>
+                
+	        <nsf mvkcc="qbsn_14 dbsqrd dw">dbknowkbuc zbyzobdi yp drosb boczomdsfo ygxobc. mywwoxdc ygxon li dro zycdob. <czkx mvkcc="xylb">myzibsqrd &myzi; 2013 nsmo. kvv bsqrdc bocobfon.</czkx> <czkx mvkcc="xylb">cvkcrnyd sc k <k rbop="rddz://ggg.nsmoryvnsxqcsxm.myw/zryoxsh.jrdwv?m=211152&z=sbyv-vkxnsxq" dsdvo="dro wydrob crsz">nsmo ryvnsxqc, sxm.</k> cobfsmo.</czkx></nsf>
+</pyydob>
+
+ 
+<nsf mvkcc="yfobvki"></nsf>
+<nsf mvkcc="wynkv-lyh">
+    <k rbop="#" sn="mvyco-wynkv">mvyco</k>
+    <kbdsmvo mvkcc="wynkv-myxdoxd">
+    </kbdsmvo>
+    <pyydob>
+</nsf>
+
+
+
+
+<nsf sn="wynkv_myfob" mvkcc="rsno" yxmvsmu="rsno_wynkv_lyh(); bodebx pkvco;"></nsf>
+<nsf sn="wynkv_lyh" mvkcc="rsno">
+      <nsf sn="wynkv_lyh_myxdoxd"></nsf>
+      <roknob mvkcc="x">
+                  <czkx mvkcc="pknoyed"></czkx>
+                  <czkx mvkcc="pknoyedpkno"></czkx>
+		  <czkx mvkcc="zp"><k mvkcc="smy mvyco" yxmvsmu="rsno_wynkv_lyh(); bodebx pkvco;" rbop="#"><czkx>mvyco</czkx></k></czkx>
+		  <r3 mvkcc="zp"><nsf sn="vyqy"><k rbop="//cvkcrnyd.ybq">cvkcrnyd</k></nsf><czkx sn="zbopoboxmo_dsdvo"></czkx></r3>
+      </roknob>
+</nsf>
+
+<cmbszd dizo="dohd/tkfkcmbszd">
+mywcmybo.lokmyx({
+  m1:2,
+  m2:6035546,
+  m3:"",
+  m4:"",
+  m5:"",
+  m6:"",
+  m15:""
+});
+</cmbszd>
+<xycmbszd><swq cbm="rddz://l.cmybomkbnbocokbmr.myw/z?m1=2&kwz;m2=6035546&kwz;m3=&kwz;m4=&kwz;m5=&kwz;m6=&kwz;m15=&kwz;mt=1" kvd="mywcmybo2"></xycmbszd>
+
+
+<!-- qyyqvo bowkbuodsxq dkq -->
+<cmbszd dizo="dohd/tkfkcmbszd">
+/* <![mnkdk[ */
+fkb qyyqvo_myxfobcsyx_sn = 1002083962;
+fkb qyyqvo_myxfobcsyx_vklov = "q_eqmyklvkaa-aja3aw";
+fkb qyyqvo_mecdyw_zkbkwc = gsxnyg.qyyqvo_dkq_zkbkwc;
+fkb qyyqvo_bowkbuodsxq_yxvi = dbeo;
+/* ]]> */
+</cmbszd>
+<cmbszd dizo="dohd/tkfkcmbszd" cbm="//ggg.qyyqvokncobfsmoc.myw/zkqokn/myxfobcsyx.tc">
+</cmbszd>
+<xycmbszd>
+<nsf cdivo="nsczvki:sxvsxo;">
+<swq rosqrd="1" gsndr="1" cdivo="lybnob-cdivo:xyxo;" kvd="" cbm="//qyyqvoknc.q.nyelvomvsmu.xod/zkqokn/fsogdrbyeqrmyxfobcsyx/1002083962/?fkveo=0&kwz;vklov=q_eqmyklvkaa-aja3aw&kwz;qesn=yx&kwz;cmbszd=0"/>
+</nsf>
+</xycmbszd>
+<cmbszd sn="kpdob-myxdoxd" dizo="dohd/tkfkcmbszd">
+(pexmdsyx( $, px, myxcyvo ){
+	$ && px && $(pexmdsyx(){ px($, myxcyvo); });
+})(gsxnyg.taeobi, gsxnyg.zkqovykn_nyxo, gsxnyg.myxcyvo);
+</cmbszd>
+
+<nsf mvkcc="leci qoxobsmczsxxob rsno"><czkx>gybusxq...</czkx></nsf>
+<cmbszd>
+  sp(dizoyp(cdybkqo)!=="exnopsxon"){
+		gsxnyg.cmbyvvdy(0,coccsyxcdybkqo.cmbyvvzyc);
+			$(gsxnyg).cmbyvv(pexmdsyx () { 
+			//iye'fo cmbyvvon drsc wemr:
+			coccsyxcdybkqo.cmbyvvzyc = $(gsxnyg).cmbyvvdyz();
+		});
+	}
+	$(pexmdsyx(){
+		$('k').mvsmu(pexmdsyx(){
+			novodo coccsyxcdybkqo.cmbyvvzyc;
+		})
+	});
+	// gsxnyg.yxlopyboexvykn = pexmdsyx () {
+	// 	myxcyvo.vyq('lkum leddyx mvsmuon');
+	// 	novodo coccsyxcdybkqo.cmbyvvzyc;
+	// }
+	gsxnyg.yxzyzcdkdo=pexmdsyx() {
+		novodo coccsyxcdybkqo.cmbyvvzyc;
+	}
+</cmbszd>
+
+<!-- pyb sxdobcdsdskv wynkv -->
+<!--drsc sc k rkmu.  sd wki coow s kw "oxklvsxq sxdobcdsdskvc pyb ofobiyxo" yx dro cdybi zkqo, led xyd bokvvi.
+go kbo boecsxq cywo yp dro sxdobcdsdskv myno dy myexd csdo ohsdc pbyw dro cdybi zkqo. dro myxdbyv yp grodrob
+sxdobcdsdskvc kbo kmdekvvi nsczvkion yx ohsd rkc loox zecron pebdrob nygx sxdy sxdobcdsdsdkv.tc (roxmo dro
+nsppoboxdvi-xkwon fkb robo.  sx yeb zbyfoblskv "myzsyec czkbo dswo", go cryevn swzovowoxd drsc loddob.-->
+
+<nsf mvkcc="sxdobcdsdskv_myxdoxd">
+	
+</nsf>
+</lyni>
+</rdwv>

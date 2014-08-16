@@ -1,0 +1,68 @@
+Classwork 4: Problem 2
+----------------------
+
+ For this problem, you will be writing a simple "encryption" program
+using what is called a "Caesar Cipher" or "shift cipher".
+In a Caesar Cipher, there is a key which represents how much to
+add to the numerical value of each letter to encrypt it.
+For example, if the key were three
+
+ a => d
+ b => e
+ ....
+ x => a
+ y => b
+ z => c
+
+We are going to make a few simplifications to make testing
+easier, as well as simplifying problem 2 on this assignment.
+Note that we would not want to do these if we were actually trying
+to encrypt things, but then again we would not want to use this
+algorithm either as it is easy to break:
+
+ 1. Anything that is not a letter (digits, spaces, symbols, etc)
+    do not modify.  Print it out as it is. 
+    Hint: you might use the built-in isalpha function.
+
+ 2. For any uppercase letter, convert to lowercase before encrypting
+    (and leave the result lowercase).
+    Hint: you might use the built-in tolower function.
+
+With this assignment, we are going to begin to move away
+from step-by-step directions, and into READMEs that provide more
+of a requirements specification.
+
+Your program should take two comand line arguments:
+  The first names a file to read and encrypt (as described above)
+  The second should be a non-zero integer which provides the "key"
+  to use in the encryption.
+
+Your program should print its "encrypted" ouput to stdout.
+If your program encounters any errors, it should print an appropriate
+error message to stderr, and exit with a failure status (EXIT_FAILURE).
+
+You should also provide a Makefile which compiles your program into
+a binary called "encrypt."
+
+Note that you should be able to use the same program to decrypt
+by passing in a key of 26-x if the output was encrypted with
+a key of x.
+
+As we transition from step-by-step directions to requirements, I will
+provide you with a few hints to think about:
+ (1) Are there any error cases:
+      - Processing command line arguments?
+      - Opening files?
+      - With the value of the key?
+      - Closing the input file?
+ (2) Are there any corner cases?
+ (3) Consult the manpages for these functions before you start:
+      fgetc
+      tolower
+      isalpha
+ (4) Do not overly complicate this function. My implementation fits
+     comfortably in a 40 line file.  If you find yourself writing
+     hundreds of lines of code, stop and think.
+ (5) Step 1: work an instance of the problem yourself...
+
+  

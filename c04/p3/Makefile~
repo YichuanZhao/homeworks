@@ -1,0 +1,2 @@
+break: break.c
+	gcc -o break -pedantic -std=gnu99 -Wall -Werror break.c

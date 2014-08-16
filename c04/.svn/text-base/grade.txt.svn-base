@@ -1,0 +1,153 @@
+Grading p1
+-----------------
+diff -iw -y --suppress-common-lines  /home/ece551/svn/yz176/classwork/c04/p1//answer.txt /home/ece551/grading/c04/p1-tests//expected.out > diff.out
+This problem appears correct
+Percent this problem: 100 
+-------------------------------
+
+
+Grading p2
+-----------------
+***********************
+* Starting test 1     *
+***********************
+The output matches the expected output.
+This test counts as 10% of the score for this problem
+This test was scored as correct (10)
+***********************
+* Starting test 2     *
+***********************
+The output matches the expected output.
+This test counts as 10% of the score for this problem
+This test was scored as correct (10)
+***********************
+* Starting test 3     *
+***********************
+The output matches the expected output.
+This test counts as 10% of the score for this problem
+This test was scored as correct (10)
+***********************
+* Starting test 4     *
+***********************
+Your program correctly indicated this was a failure case.
+This test counts as 10% of the score for this problem
+This test was scored as correct (10)
+***********************
+* Starting test 5     *
+***********************
+The output matches the expected output.
+This test counts as 15% of the score for this problem
+This test was scored as correct (15)
+***********************
+* Starting test 6     *
+***********************
+The output matches the expected output.
+This test counts as 15% of the score for this problem
+This test was scored as correct (15)
+***********************
+* Starting test 7     *
+***********************
+The output matches the expected output.
+This test counts as 15% of the score for this problem
+This test was scored as correct (15)
+***********************
+* Starting test 8     *
+***********************
+Your program correctly indicated this was a failure case.
+This test counts as 15% of the score for this problem
+This test was scored as correct (15)
+Percent this problem: 100 
+-------------------------------
+
+
+Grading p3
+-----------------
+***********************
+* Starting test 1     *
+***********************
+The output matches the expected output.
+This test counts as 20% of the score for this problem
+This test was scored as correct (20)
+***********************
+* Starting test 2     *
+***********************
+The output matches the expected output.
+This test counts as 20% of the score for this problem
+This test was scored as correct (20)
+***********************
+* Starting test 3     *
+***********************
+The output matches the expected output.
+This test counts as 20% of the score for this problem
+This test was scored as correct (20)
+***********************
+* Starting test 4     *
+***********************
+Your program correctly indicated this was a failure case.
+This test counts as 20% of the score for this problem
+This test was scored as correct (20)
+***********************
+* Starting test 5     *
+***********************
+Your program correctly indicated this was a failure case.
+This test counts as 20% of the score for this problem
+This test was scored as correct (20)
+Percent this problem: 100 
+-------------------------------
+
+
+Grading p4
+-----------------
+***********************
+* Starting test 1     *
+***********************
+The output matches the expected output.
+This test counts as 35% of the score for this problem
+This test was scored as correct (35)
+***********************
+* Starting test 2     *
+***********************
+The output matches the expected output.
+This test counts as 35% of the score for this problem
+This test was scored as correct (35)
+***********************
+* Starting test 3     *
+***********************
+Your program correctly indicated this was a failure case.
+This test counts as 5% of the score for this problem
+This test was scored as correct (5)
+***********************
+* Starting test 4     *
+***********************
+Your program correctly indicated this was a failure case.
+This test counts as 5% of the score for this problem
+This test was scored as correct (5)
+***********************
+* Starting test 5     *
+***********************
+Your program correctly indicated this was a failure case.
+This test counts as 5% of the score for this problem
+This test was scored as correct (5)
+***********************
+* Starting test 6     *
+***********************
+Your program correctly indicated this was a failure case.
+This test counts as 5% of the score for this problem
+This test was scored as correct (5)
+***********************
+* Starting test 7     *
+***********************
+Your program correctly indicated this was a failure case.
+This test counts as 5% of the score for this problem
+This test was scored as correct (5)
+***********************
+* Starting test 8     *
+***********************
+Your program correctly indicated this was a failure case.
+This test counts as 5% of the score for this problem
+This test was scored as correct (5)
+Percent this problem: 100 
+-------------------------------
+
+
+Overal score: 100.0

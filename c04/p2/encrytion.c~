@@ -1,0 +1,63 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <ctype.h>
+#include <string.h>
+
+
+int main(int argc, char ** argv)
+{
+  if(argc <= 2 ){
+    printf("not enough information!\n");
+  }
+  else{
+  //read a file 
+  FILE *pfile;   
+  pfile = fopen(argv[1],"r");
+  if(pfile==NULL){
+    fprintf(stderr,"open file error!");
+    exit(1);
+  }
+
+  // enter the key 
+  int key;
+  
+  if(atoi(argv[2]) )
+  {
+    printf("Invalid key word\n");
+  }
+  
+  key = atoi(argv[2]);
+  // encryt file
+  char alph;
+  do{
+     alph = fgetc(pfile);
+     if(alph != EOF){
+    if((isalpha(alph))){
+      alph = tolower(alph);
+      if((key+alph-96)%26 > 0){
+      alph = (alph -96 + key)%26 + 96;
+      }
+      else{
+	alph = ((alph -96 + key)%26 +122);
+    }
+     
+    }
+    printf("%c", alph);
+     }
+  }while(alph != EOF);
+  printf("\n");
+  int r;
+  r = fclose(pfile);
+  if(r == EOF){
+    fprintf(stderr,"close file error!");
+    exit(1);
+  }
+  }
+
+  return 0;
+}
+/* int main(){ */
+/*   char a = tolower('a'); */
+/*   printf("%c",a); */
+/*   return 0; */
+/* } */
